@@ -1,0 +1,38 @@
+T1098299	TranscriptionOfGene 0 15	Transcriptional
+T1098300	PositiveRegulationOfGeneExpression 16 26	activation
+T1098301	GeneExpression 269 279	Expression
+T1098302	PositiveRegulationOfGeneExpression 300 307	induced
+T1098303	PositiveRegulationOfGeneExpression 411 420	induction
+T1098304	RegulationOfGeneExpression 424 432	mediated
+T1098305	PositiveRegulationOfGeneExpression 447 456	activator
+T1098306	TranscriptionOfGene 520 531	transcribed
+T1098307	PositiveRegulationOfGeneExpression 678 687	activator
+T1098308	TranscriptionOfGene 937 952	transcriptional
+T1098309	Increase 1218 1226	presence
+T1098310	RegulationOfGeneExpression 1484 1494	regulation
+T1098311	TranscriptionOfGene 1535 1548	Transcription
+T1098312	PositiveRegulationOfGeneExpression 1618 1626	elevated
+T1098313	NegativeRegulationOfGeneExpression 1721 1730	represses
+T1098314	TranscriptionOfGene 1736 1749	transcription
+T1098315	RegulationOfGeneExpression 1789 1798	dependent
+T1098316	PositiveRegulationOfGeneExpression 1875 1885	activation
+T1098317	TranscriptionOfGene 1894 1907	transcription
+T1098318	TranscriptionOfGene 2149 2164	transcriptional
+T1098319	RegulationOfGeneExpression 2165 2175	regulation
+T1208287	Entity 311 356	acetohydroxy acid isomeroreductase substrates
+E1	PositiveRegulationOfGeneExpression: Cause:T1208287 Theme:T1318259
+T1208288	Entity 358 378	acetohydroxybutyrate
+E2	PositiveRegulationOfGeneExpression: Cause:T1208288 Theme:T1318259
+T1208289	Entity 382 394	acetolactate
+E3	PositiveRegulationOfGeneExpression: Cause:T1208289 Theme:T1318259
+E4	PositiveRegulationOfGeneExpression: Cause:T1318277 Theme:T1318276
+T1208294	Entity 1682 1702	acetohydroxybutyrate
+E5	PositiveRegulationOfGeneExpression: Cause:T1208294 Theme:T1318276
+E6	NegativeRegulationOfGeneExpression: Cause:T1318278 Theme:T1318280
+T1208295	Entity 1802 1846	acetohydroxy acid isomeroreductase substrate
+E7	RegulationOfGeneExpression: Cause:T1208295 Theme:T1318280
+E8	PositiveRegulationOfGeneExpression: Cause:T1318282 Theme:T1318281
+T1208297	Entity 2103 2123	acetohydroxybutyrate
+E9	RegulationOfGeneExpression: Cause:T1208297 Theme:T1318286
+T1208298	Entity 2128 2140	acetolactate
+E10	RegulationOfGeneExpression: Cause:T1208298 Theme:T1318286

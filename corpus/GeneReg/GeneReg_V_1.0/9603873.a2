@@ -1,0 +1,9 @@
+T10912186	RegulationOfGeneExpression 437 445	controls
+T10912187	GeneExpression 446 456	expression
+T10912188	Decrease 607 617	starvation
+T10912189	Decrease 634 645	deprivation
+T10912190	GeneticModification 664 674	disruption
+T10912191	RegulationOfGeneExpression 815 824	regulated
+T10912192	RegulationOfGeneExpression 883 892	regulated
+T10912193	Decrease 1021 1031	starvation
+E1	RegulationOfGeneExpression: Cause:T13112178 Theme:T13112179

@@ -1,0 +1,39 @@
+T1091709	PositiveRegulationOfGeneExpression 19 29	activation
+T1091710	TranscriptionOfGene 191 204	transcription
+T1091711	PositiveRegulationOfGeneExpression 205 215	activators
+T1091712	PositiveRegulationOfGeneExpression 239 248	activated
+T1091713	Increase 264 272	presence
+T1091714	PositiveRegulationOfGeneExpression 488 498	activation
+T1091715	GeneExpression 508 518	expression
+T1091716	PositiveRegulationOfGeneExpression 549 559	activation
+T1091717	GeneticModification 677 690	substitutions
+T1091718	PositiveRegulationOfGeneExpression 726 740	overexpression
+T1091719	GeneticModification 746 755	truncated
+T1091720	GeneticModification 803 816	substitutions
+T1091721	PositiveRegulationOfGeneExpression 912 922	activation
+T1091722	PositiveRegulationOfGeneExpression 976 985	activator
+T1091723	PositiveRegulationOfGeneExpression 1030 1038	activate
+T1091724	TranscriptionOfGene 1039 1052	transcription
+T1091725	GeneticModification 1060 1067	absence
+T1091726	PositiveRegulationOfGeneExpression 1130 1140	activation
+T1091727	PositiveRegulationOfGeneExpression 1192 1202	activation
+T1091728	RegulationOfGeneExpression 1203 1211	involves
+T1091729	PositiveRegulationOfGeneExpression 1462 1472	activation
+T1091730	PositiveRegulationOfGeneExpression 1803 1813	activation
+E1	PositiveRegulationOfGeneExpression: Cause:T1311658 Theme:T1311656
+T1201686	Entity 75 121	RNA polymerase alpha subunit C-terminal domain
+E2	PositiveRegulationOfGeneExpression: Cause:T1201686 Theme:T1311656
+T1201685	Entity 42 52	cyclic AMP
+E3	PositiveRegulationOfGeneExpression: Cause:T1201685 Theme:T1311656
+E4	PositiveRegulationOfGeneExpression: Cause:T1311657 Theme:T1311656
+E5	PositiveRegulationOfGeneExpression: Cause:T1311663 Theme:T1311659
+T1201689	Entity 276 286	L-rhamnose
+E6	PositiveRegulationOfGeneExpression: Cause:T1201689 Theme:T1311659
+E7	PositiveRegulationOfGeneExpression: Cause:T1311668 Theme:T1311669
+T1201690	Entity 405 415	cyclic AMP
+E8	PositiveRegulationOfGeneExpression: Cause:T1201690 Theme:T1311669
+T1201693	Entity 623 632	alpha-CTD
+E9	PositiveRegulationOfGeneExpression: Cause:T1201693 Theme:T1311671
+E10	PositiveRegulationOfGeneExpression: Cause:T1311670 Theme:T1311671
+T1201698	Entity 955 964	alpha-CTD
+E11	PositiveRegulationOfGeneExpression: Cause:T1201698 Theme:T1311673

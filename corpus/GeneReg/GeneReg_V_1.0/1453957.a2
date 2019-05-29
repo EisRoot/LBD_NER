@@ -1,0 +1,28 @@
+T1094729	Decrease 167 177	starvation
+T1094730	GeneExpression 217 226	synthesis
+T1094731	Decrease 230 240	starvation
+T1094732	PositiveRegulationOfGeneExpression 241 250	inducible
+T1094733	Decrease 270 280	starvation
+T1094734	GeneExpression 377 387	expression
+T1094735	Decrease 394 404	starvation
+T1094736	GeneExpression 507 516	synthesis
+T1094737	PositiveRegulationOfGeneExpression 591 600	increased
+T1094738	Decrease 640 650	exhaustion
+T1094739	Increase 755 763	presence
+T1094740	RegulationOfGeneExpression 883 893	regulation
+T1094741	TranscriptionOfGene 1588 1599	transcribed
+T1094742	PositiveRegulationOfGeneExpression 1630 1638	increase
+T1094743	TranscriptionOfGene 1719 1734	transcriptional
+T1094744	PositiveRegulationOfGeneExpression 1735 1745	activation
+T1094745	PositiveRegulationOfGeneExpression 1777 1786	induction
+T1094746	PositiveRegulationOfGeneExpression 1916 1922	induce
+T1094747	PositiveRegulationOfGeneExpression 1926 1934	activate
+T1094748	RegulationOfGeneExpression 2077 2086	dependent
+T1204722	Entity 158 166	nutrient
+E1	PositiveRegulationOfGeneExpression: Cause:T1204722 Theme:T1314708
+T1204724	Entity 769 792	variety of toxic agents
+E2	PositiveRegulationOfGeneExpression: Cause:T1204724 Theme:T1314709
+T1204723	Entity 663 683	variety of nutrients
+E3	PositiveRegulationOfGeneExpression: Cause:T1204723 Theme:T1314709
+T1204728	Entity 2068 2076	sigma 70
+E4	RegulationOfGeneExpression: Cause:T1204728 Theme:T1314721

@@ -1,0 +1,31 @@
+T1097634	RegulationOfGeneExpression 27 36	regulated
+T1097635	GeneExpression 37 52	gene expression
+T1097636	RegulationOfGeneExpression 139 149	regulatory
+T1097637	TranscriptionOfGene 278 293	transcriptional
+T1097638	RegulationOfGeneExpression 294 304	regulators
+T1097639	RegulationOfGeneExpression 305 316	controlling
+T1097640	RegulationOfGeneExpression 348 357	regulated
+T1097641	GeneExpression 358 373	gene expression
+T1097642	RegulationOfGeneExpression 426 435	regulator
+T1097643	NegativeRegulationOfGeneExpression 459 468	represses
+T1097644	TranscriptionOfGene 553 568	transcriptional
+T1097645	RegulationOfGeneExpression 569 578	regulator
+T1097646	PositiveRegulationOfGeneExpression 588 597	essential
+T1097647	GeneExpression 602 612	expressing
+T1097648	GeneticModification 786 793	mutants
+T1097649	TranscriptionOfGene 987 1002	transcriptional
+T1097650	RegulationOfGeneExpression 1003 1012	regulator
+T1097651	RegulationOfGeneExpression 1126 1134	mediates
+T1097652	NegativeRegulationOfGeneExpression 1146 1156	repression
+T1097653	RegulationOfGeneExpression 1259 1269	regulatory
+T1097654	RegulationOfGeneExpression 1336 1346	regulatory
+T1097655	GeneticModification 1786 1797	mutagenesis
+T1097656	RegulationOfGeneExpression 1887 1896	regulated
+T1097657	RegulationOfGeneExpression 1978 1987	regulated
+T1097658	PositiveRegulationOfGeneExpression 2035 2103	functions negatively as an anaerobic repressor as well as positively
+T1097659	NegativeRegulationOfGeneExpression 2035 2055	functions negatively
+T1097660	NegativeRegulationOfGeneExpression 2072 2081	repressor
+T1097661	PositiveRegulationOfGeneExpression 2120 2129	activator
+T1207622	Entity 509 529	anaerobic conditions
+E1	NegativeRegulationOfGeneExpression: Cause:T1207622 Theme:T1317598
+E2	PositiveRegulationOfGeneExpression: Cause:T1317599 Theme:T1317600

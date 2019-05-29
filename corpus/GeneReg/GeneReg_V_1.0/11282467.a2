@@ -1,0 +1,14 @@
+T1092081	TranscriptionOfGene 9 24	transcriptional
+T1092082	PositiveRegulationOfGeneExpression 25 35	activators
+T1092083	TranscriptionOfGene 66 81	transcriptional
+T1092084	PositiveRegulationOfGeneExpression 82 92	activators
+T1092085	RegulationOfGeneExpression 93 101	regulate
+T1092086	PositiveRegulationOfGeneExpression 197 207	activators
+T1092087	PositiveRegulationOfGeneExpression 299 309	Activation
+T1092088	PositiveRegulationOfGeneExpression 615 625	activators
+T1092089	NegativeRegulationOfGeneExpression 701 711	repressing
+T1092090	PositiveRegulationOfGeneExpression 790 799	activator
+T1092091	PositiveRegulationOfGeneExpression 878 886	activate
+T1092092	PositiveRegulationOfGeneExpression 1005 1013	activate
+E1	PositiveRegulationOfGeneExpression: Cause:T1312057 Theme:T1312058
+E2	PositiveRegulationOfGeneExpression: Cause:T1312066 Theme:T1312067

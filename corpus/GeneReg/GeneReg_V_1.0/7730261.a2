@@ -1,0 +1,24 @@
+T1099332	NegativeRegulationOfGeneExpression 10 28	negative regulator
+T1099333	NegativeRegulationOfGeneExpression 477 486	repressor
+T1099334	TranscriptionOfGene 614 629	transcriptional
+T1099335	GeneExpression 854 863	expressed
+T1099336	PositiveRegulationOfGeneExpression 948 962	Overproduction
+T1099337	NegativeRegulationOfGeneExpression 1041 1051	suppressed
+T1099338	TranscriptionOfGene 1052 1065	transcription
+T1099339	GeneticModification 1086 1094	mutation
+T1099340	PositiveRegulationOfGeneExpression 1119 1133	overexpression
+T1099341	PositiveRegulationOfGeneExpression 1279 1286	induced
+T1099342	GeneExpression 1287 1297	expression
+T1099343	PositiveRegulationOfGeneExpression 1324 1333	induction
+T1099344	PositiveRegulationOfGeneExpression 1334 1342	required
+T1099345	NegativeRegulationOfGeneExpression 1426 1444	negative regulator
+E1	NegativeRegulationOfGeneExpression: Cause:T1319302 Theme:T1319303
+E2	NegativeRegulationOfGeneExpression: Cause:T1319305 Theme:T1319306
+E3	NegativeRegulationOfGeneExpression: Cause:T1319315 Theme:T1319317
+E4	NegativeRegulationOfGeneExpression: Cause:T1319318 Theme:T1319319
+T1209329	Entity 1202 1206	CCCP
+E5	PositiveRegulationOfGeneExpression: Cause:T1209329 Theme:T1319320
+E6	PositiveRegulationOfGeneExpression: Cause:T1319321 Theme:T1319320
+T1209330	Entity 1208 1222	nalidixic acid
+E7	PositiveRegulationOfGeneExpression: Cause:T1209330 Theme:T1319320
+E8	NegativeRegulationOfGeneExpression: Cause:T1319323 Theme:T1319322

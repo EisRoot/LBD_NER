@@ -1,0 +1,42 @@
+T1096230	NegativeRegulationOfGeneExpression 104 114	repression
+T1096231	GeneExpression 116 126	Expression
+T1096232	PositiveRegulationOfGeneExpression 176 185	activated
+T1096233	TranscriptionOfGene 217 230	transcription
+T1096234	RegulationOfGeneExpression 275 285	controlled
+T1096235	RegulationOfGeneExpression 295 305	regulators
+T1096236	NegativeRegulationOfGeneExpression 328 337	repressed
+T1096237	RegulationOfGeneExpression 550 560	regulators
+T1096238	RegulationOfGeneExpression 655 664	dependent
+T1096239	PositiveRegulationOfGeneExpression 679 687	enhanced
+T1096240	NegativeRegulationOfGeneExpression 704 713	repressed
+T1096241	NegativeRegulationOfGeneExpression 734 745	counteracts
+T1096242	NegativeRegulationOfGeneExpression 746 756	repression
+T1096243	RegulationOfGeneExpression 781 786	alter
+T1096244	NegativeRegulationOfGeneExpression 787 797	repression
+T1096245	RegulationOfGeneExpression 873 882	modulated
+T1096246	GeneExpression 909 919	Expression
+T1096247	NegativeRegulationOfGeneExpression 957 966	repressed
+T1096248	Increase 1000 1008	presence
+T1096249	NegativeRegulationOfGeneExpression 1107 1117	repression
+T1096250	NegativeRegulationOfGeneExpression 1121 1129	relieved
+T1096251	GeneticModification 1133 1142	mutations
+T1096252	NegativeRegulationOfGeneExpression 1315 1325	repression
+T1096253	PositiveRegulationOfGeneExpression 1368 1378	activation
+E1	NegativeRegulationOfGeneExpression: Cause:T1316196 Theme:T1316195
+E2	PositiveRegulationOfGeneExpression: Cause:T1316200 Theme:T1316197
+E3	PositiveRegulationOfGeneExpression: Cause:T1316198 Theme:T1316197
+T1206223	Entity 255 262	nitrate
+E4	PositiveRegulationOfGeneExpression: Cause:T1206223 Theme:T1316197
+E5	NegativeRegulationOfGeneExpression: Cause:T1316201 Theme:T1316197
+E6	NegativeRegulationOfGeneExpression: Cause:T1316202 Theme:T1316197
+T1206224	Entity 263 270	nitrite
+E7	PositiveRegulationOfGeneExpression: Cause:T1206224 Theme:T1316197
+E8	PositiveRegulationOfGeneExpression: Cause:T1316199 Theme:T1316197
+T1206228	Entity 970 980	rich media
+E9	NegativeRegulationOfGeneExpression: Cause:T1206228 Theme:T1316213
+T1206229	Entity 1012 1019	glucose
+E10	NegativeRegulationOfGeneExpression: Cause:T1206229 Theme:T1316213
+E11	NegativeRegulationOfGeneExpression: Cause:T1316216 Theme:T1316217
+E12	PositiveRegulationOfGeneExpression: Cause:T1316221 Theme:T1316217
+E13	PositiveRegulationOfGeneExpression: Cause:T1316220 Theme:T1316217
+E14	PositiveRegulationOfGeneExpression: Cause:T1316219 Theme:T1316217

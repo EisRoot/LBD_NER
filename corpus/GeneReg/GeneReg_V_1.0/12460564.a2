@@ -1,0 +1,43 @@
+T1093734	RegulationOfGeneExpression 0 10	Regulation
+T1093735	NegativeRegulationOfGeneExpression 82 91	repressor
+T1093736	PositiveRegulationOfGeneExpression 105 114	activator
+T1093737	GeneExpression 188 197	expressed
+T1093738	GeneExpression 320 330	expression
+T1093739	RegulationOfGeneExpression 351 368	under the control
+T1093740	NegativeRegulationOfGeneExpression 376 385	repressor
+T1093741	PositiveRegulationOfGeneExpression 396 410	hyperinduction
+T1093742	GeneticModification 481 487	mutant
+T1093743	RegulationOfGeneExpression 520 529	regulator
+T1093744	PositiveRegulationOfGeneExpression 545 554	activator
+T1093745	TranscriptionOfGene 637 648	transcribed
+T1093746	PositiveRegulationOfGeneExpression 686 695	activator
+T1093747	GeneExpression 713 723	expression
+T1093748	GeneticModification 759 764	Delta
+T1093749	GeneticModification 769 775	mutant
+T1093750	GeneExpression 792 802	expression
+T1093751	NegativeRegulationOfGeneExpression 820 829	abolished
+T1093752	PositiveRegulationOfGeneExpression 855 864	essential
+T1093753	GeneExpression 873 883	expression
+T1093754	GeneExpression 935 945	expression
+T1093755	PositiveRegulationOfGeneExpression 994 1006	hyperinduced
+T1093756	GeneExpression 1056 1066	expression
+T1093757	RegulationOfGeneExpression 1093 1103	regulators
+T1093758	RegulationOfGeneExpression 1692 1701	regulator
+T1093759	Decrease 1747 1754	absence
+E1	PositiveRegulationOfGeneExpression: Cause:T1313678 Theme:T1313676
+E2	NegativeRegulationOfGeneExpression: Cause:T1313677 Theme:T1313676
+E3	NegativeRegulationOfGeneExpression: Cause:T1313685 Theme:T1313684
+T1203722	Entity 450 459	allantoin
+E4	PositiveRegulationOfGeneExpression: Cause:T1203722 Theme:T1313686
+E5	NegativeRegulationOfGeneExpression: Cause:T1313687 Theme:T1313686
+E6	PositiveRegulationOfGeneExpression: Cause:T1313691 Theme:T1313692
+E7	PositiveRegulationOfGeneExpression: Cause:T1313693 Theme:T1313694
+T1203726	Entity 973 986	anaerobically
+E8	RegulationOfGeneExpression: Cause:T1203726 Theme:T1313696
+T1203727	Entity 1016 1045	nitrogen source limits growth
+E9	PositiveRegulationOfGeneExpression: Cause:T1203727 Theme:T1313696
+E10	RegulationOfGeneExpression: Cause:T1313701 Theme:T1313698
+E11	RegulationOfGeneExpression: Cause:T1313700 Theme:T1313698
+E12	RegulationOfGeneExpression: Cause:T1313701 Theme:T1313699
+E13	RegulationOfGeneExpression: Cause:T1313700 Theme:T1313699
+E14	RegulationOfGeneExpression: Cause:T1313711 Theme:T1313712

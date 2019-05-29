@@ -1,0 +1,15 @@
+T10910660	NegativeRegulationOfGeneExpression 35 44	repressor
+T10910661	PositiveRegulationOfGeneExpression 78 85	inducer
+T10910662	PositiveRegulationOfGeneExpression 94 104	stimulates
+T10910663	NegativeRegulationOfGeneExpression 364 384	negatively regulated
+T10910664	GeneExpression 551 560	synthesis
+T10910665	RegulationOfGeneExpression 706 713	control
+T10910666	GeneticModification 750 758	modified
+T10910667	NegativeRegulationOfGeneExpression 1390 1399	repressed
+T10910668	PositiveRegulationOfGeneExpression 1404 1411	induced
+T10910669	NegativeRegulationOfGeneExpression 1457 1466	repressor
+T12010656	Entity 408 415	choline
+E1	NegativeRegulationOfGeneExpression: Cause:T12010656 Theme:T13110636
+E2	NegativeRegulationOfGeneExpression: Cause:T13110639 Theme:T13110636
+E3	NegativeRegulationOfGeneExpression: Cause:T13110639 Theme:T13110637
+E4	NegativeRegulationOfGeneExpression: Cause:T12010656 Theme:T13110637

@@ -1,0 +1,9 @@
+T10911047	PositiveRegulationOfGeneExpression 1625 1633	required
+T10911048	RegulationOfGeneExpression 1687 1695	involved
+T10911049	RegulationOfGeneExpression 1821 1831	regulators
+T12011045	Entity 1604 1608	RpoS
+E1	PositiveRegulationOfGeneExpression: Cause:T12011045 Theme:T13111035
+E2	RegulationOfGeneExpression: Cause:T12011045 Theme:T13111036
+E3	RegulationOfGeneExpression: Cause:T12011045 Theme:T13111037
+E4	RegulationOfGeneExpression: Cause:T13111041 Theme:T13111039
+E5	RegulationOfGeneExpression: Cause:T13111040 Theme:T13111039

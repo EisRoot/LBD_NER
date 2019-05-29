@@ -1,0 +1,25 @@
+T1097741	RegulationOfGeneExpression 0 14	Autoregulation
+T1097742	NegativeRegulationOfGeneExpression 23 32	repressor
+T1097743	GeneExpression 33 42	synthesis
+T1097744	RegulationOfGeneExpression 47 58	involvement
+T1097745	RegulationOfGeneExpression 74 84	regulation
+T1097746	GeneExpression 122 132	expression
+T1097747	NegativeRegulationOfGeneExpression 178 187	repressor
+T1097748	RegulationOfGeneExpression 195 206	controlling
+T1097749	GeneExpression 211 220	synthesis
+T1097750	GeneExpression 429 439	expression
+T1097751	RegulationOfGeneExpression 443 456	autoregulated
+T1097752	TranscriptionOfGene 585 596	transcribed
+T1097753	GeneticModification 634 642	mutation
+T1097754	NegativeRegulationOfGeneExpression 696 703	abolish
+T1097755	NegativeRegulationOfGeneExpression 711 721	repression
+E1	RegulationOfGeneExpression: Cause:T1317714 Theme:T1317715
+E2	RegulationOfGeneExpression: Cause:T1317716 Theme:T1317717
+E3	RegulationOfGeneExpression: Cause:T1317716 Theme:T1317718
+E4	RegulationOfGeneExpression: Cause:T1317716 Theme:T1317719
+E5	RegulationOfGeneExpression: Cause:T1317716 Theme:T1317720
+E6	RegulationOfGeneExpression: Cause:T1317716 Theme:T1317721
+E7	RegulationOfGeneExpression: Cause:T1317723 Theme:T1317724
+E8	RegulationOfGeneExpression: Cause:T1317729 Theme:T1317730
+E9	NegativeRegulationOfGeneExpression: Cause:T1317734 Theme:T1317737
+E10	NegativeRegulationOfGeneExpression: Cause:T1317734 Theme:T1317738

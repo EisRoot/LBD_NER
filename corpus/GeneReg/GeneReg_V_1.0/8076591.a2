@@ -1,0 +1,4 @@
+T1099895	NegativeRegulationOfGeneExpression 31 40	repressor
+T1099896	NegativeRegulationOfGeneExpression 175 184	repressor
+T1099897	PositiveRegulationOfGeneExpression 1062 1071	activator
+T1099898	TranscriptionOfGene 1166 1179	transcription

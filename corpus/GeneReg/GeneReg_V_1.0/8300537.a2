@@ -1,0 +1,5 @@
+T10910033	NegativeRegulationOfGeneExpression 13 22	repressor
+T10910034	NegativeRegulationOfGeneExpression 320 329	repressor
+T10910035	TranscriptionOfGene 574 589	transcriptional
+T10910036	RegulationOfGeneExpression 590 600	regulatory
+E1	NegativeRegulationOfGeneExpression: Cause:T13110029 Theme:T13110025

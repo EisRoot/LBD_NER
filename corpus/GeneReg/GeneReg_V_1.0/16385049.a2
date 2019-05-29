@@ -1,0 +1,26 @@
+T1096405	RegulationOfGeneExpression 12 20	controls
+T1096406	PositiveRegulationOfGeneExpression 140 147	induced
+T1096407	GeneticModification 200 208	deletion
+T1096408	GeneticModification 382 390	deletion
+T1096409	GeneticModification 539 547	deletion
+T1096410	PositiveRegulationOfGeneExpression 583 593	increasing
+T1096411	TranscriptionOfGene 594 607	transcription
+T1096412	PositiveRegulationOfGeneExpression 634 641	induced
+T1096413	GeneExpression 655 665	expressing
+T1096414	GeneticModification 1022 1030	Deletion
+T1096415	RegulationOfGeneExpression 1089 1103	differentially
+T1096416	GeneExpression 1104 1113	expressed
+T1096417	RegulationOfGeneExpression 1151 1159	controls
+T1096418	NegativeRegulationOfGeneExpression 1197 1216	negatively modulate
+T1096419	GeneExpression 1217 1227	expression
+T1096420	GeneticModification 1962 1970	mutation
+E1	NegativeRegulationOfGeneExpression: Cause:T1316360 Theme:T1316361
+E2	RegulationOfGeneExpression: Cause:T1316364 Theme:T1316365
+E3	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316368
+E4	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316369
+E5	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316370
+E6	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316371
+E7	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316372
+E8	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316373
+E9	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316374
+E10	NegativeRegulationOfGeneExpression: Cause:T1316367 Theme:T1316375

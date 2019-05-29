@@ -1,0 +1,10 @@
+T1095507	RegulationOfGeneExpression 39 48	dependent
+T1095508	RegulationOfGeneExpression 191 198	control
+T1095509	PositiveRegulationOfGeneExpression 229 238	activator
+T1095510	RegulationOfGeneExpression 829 838	dependent
+T1095511	TranscriptionOfGene 1580 1591	transcribed
+E1	RegulationOfGeneExpression: Cause:T1315479 Theme:T1315481
+E2	PositiveRegulationOfGeneExpression: Cause:T1315484 Theme:T1315482
+E3	PositiveRegulationOfGeneExpression: Cause:T1315484 Theme:T1315485
+E4	RegulationOfGeneExpression: Cause:T1315490 Theme:T1315489
+E5	RegulationOfGeneExpression: Cause:T1315490 Theme:T1315492

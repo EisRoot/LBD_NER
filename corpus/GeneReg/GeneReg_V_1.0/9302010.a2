@@ -1,0 +1,29 @@
+T10911816	PositiveRegulationOfGeneExpression 114 122	enhancer
+T10911817	PositiveRegulationOfGeneExpression 123 132	activates
+T10911818	RegulationOfGeneExpression 154 163	dependent
+T10911819	TranscriptionOfGene 164 177	transcription
+T10911820	NegativeRegulationOfGeneExpression 252 261	represses
+T10911821	RegulationOfGeneExpression 278 287	dependent
+T10911822	TranscriptionOfGene 288 301	transcription
+T10911823	PositiveRegulationOfGeneExpression 509 519	stimulates
+T10911824	GeneExpression 524 534	expression
+T10911825	PositiveRegulationOfGeneExpression 659 667	enhancer
+T10911826	PositiveRegulationOfGeneExpression 903 912	activator
+T10911827	RegulationOfGeneExpression 934 943	dependent
+T10911828	GeneticModification 959 966	absence
+T10911829	RegulationOfGeneExpression 983 997	autoregulation
+T10911830	TranscriptionOfGene 1006 1019	transcription
+T10911831	PositiveRegulationOfGeneExpression 1023 1029	lifted
+T10911832	PositiveRegulationOfGeneExpression 1068 1077	increased
+T10911833	PositiveRegulationOfGeneExpression 1132 1140	enhancer
+T12011813	Entity 133 153	E sigma54 holoenzyme
+E1	RegulationOfGeneExpression: Cause:T12011813 Theme:T13111787
+E2	PositiveRegulationOfGeneExpression: Cause:T13111785 Theme:T13111787
+E3	NegativeRegulationOfGeneExpression: Cause:T13111785 Theme:T13111788
+T12011814	Entity 270 277	sigma70
+E4	RegulationOfGeneExpression: Cause:T12011814 Theme:T13111788
+E5	PositiveRegulationOfGeneExpression: Cause:T13111790 Theme:T13111793
+T12011815	Entity 926 933	sigma54
+E6	RegulationOfGeneExpression: Cause:T12011815 Theme:T13111804
+E7	RegulationOfGeneExpression: Cause:T13111806 Theme:T13111807
+E8	NegativeRegulationOfGeneExpression: Cause:T13111805 Theme:T13111809

@@ -1,0 +1,26 @@
+T1096853	RegulationOfGeneExpression 84 91	effects
+T1096854	PositiveRegulationOfGeneExpression 173 182	activated
+T1096855	RegulationOfGeneExpression 209 218	regulator
+T1096856	RegulationOfGeneExpression 304 313	dependent
+T1096857	TranscriptionOfGene 314 327	transcription
+T1096858	NegativeRegulationOfGeneExpression 331 341	suppressed
+T1096859	NegativeRegulationOfGeneExpression 409 420	suppression
+T1096860	RegulationOfGeneExpression 477 486	regulator
+T1096861	TranscriptionOfGene 530 541	transcribed
+T1096862	TranscriptionOfGene 607 620	Transcription
+T1096863	RegulationOfGeneExpression 654 663	dependent
+T1096864	RegulationOfGeneExpression 706 715	modulated
+T1096865	PositiveRegulationOfGeneExpression 871 886	positive effect
+T1096866	PositiveRegulationOfGeneExpression 918 928	activation
+T1096867	RegulationOfGeneExpression 932 941	dependent
+T1096868	RegulationOfGeneExpression 1149 1156	effects
+T1096869	RegulationOfGeneExpression 1177 1187	regulatory
+E1	RegulationOfGeneExpression: Cause:T1316825 Theme:T1316824
+E2	PositiveRegulationOfGeneExpression: Cause:T1316827 Theme:T1316826
+E3	RegulationOfGeneExpression: Cause:T1316836 Theme:T1316835
+E4	RegulationOfGeneExpression: Cause:T1316838 Theme:T1316835
+E5	RegulationOfGeneExpression: Cause:T1316837 Theme:T1316835
+T1206852	Entity 671 681	cyclic AMP
+E6	RegulationOfGeneExpression: Cause:T1206852 Theme:T1316835
+E7	PositiveRegulationOfGeneExpression: Cause:T1316839 Theme:T1316840
+E8	RegulationOfGeneExpression: Cause:T1316847 Theme:T1316846

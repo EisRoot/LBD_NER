@@ -1,0 +1,35 @@
+T1093388	PositiveRegulationOfGeneExpression 259 268	activated
+T1093389	PositiveRegulationOfGeneExpression 330 340	increasing
+T1093390	GeneExpression 345 355	expression
+T1093391	PositiveRegulationOfGeneExpression 715 724	induction
+T1093392	GeneExpression 732 742	expression
+T1093393	RegulationOfGeneExpression 812 821	dependent
+T1093394	RegulationOfGeneExpression 876 885	regulated
+T1093395	RegulationOfGeneExpression 967 974	control
+T1093396	GeneExpression 975 985	expression
+T1093397	RegulationOfGeneExpression 1046 1052	affect
+T1093398	GeneExpression 1053 1063	expression
+T1093399	RegulationOfGeneExpression 1083 1092	regulated
+T1093400	GeneticModification 1126 1133	mutants
+T1093401	GeneticModification 1208 1214	mutant
+T1093402	RegulationOfGeneExpression 1274 1282	controls
+T1093403	PositiveRegulationOfGeneExpression 1332 1339	induces
+T1093404	GeneExpression 1340 1350	expression
+T1203381	Entity 297 314	envelope stresses
+E1	PositiveRegulationOfGeneExpression: Cause:T1203381 Theme:T1313358
+E2	PositiveRegulationOfGeneExpression: Cause:T1203381 Theme:T1313359
+T1203380	Entity 214 220	sigmaE
+E3	PositiveRegulationOfGeneExpression: Cause:T1203380 Theme:T1313360
+E4	RegulationOfGeneExpression: Cause:T1203380 Theme:T1313361
+T1203385	Entity 835 857	Cpx signalling pathway
+E5	RegulationOfGeneExpression: Cause:T1203385 Theme:T1313367
+T1203383	Entity 753 770	envelope stresses
+E6	PositiveRegulationOfGeneExpression: Cause:T1203383 Theme:T1313367
+T1203384	Entity 779 793	spheroplasting
+E7	PositiveRegulationOfGeneExpression: Cause:T1203384 Theme:T1313367
+E8	RegulationOfGeneExpression: Cause:T1313369 Theme:T1313372
+E9	RegulationOfGeneExpression: Cause:T1313371 Theme:T1313372
+E10	RegulationOfGeneExpression: Cause:T1313374 Theme:T1313375
+E11	RegulationOfGeneExpression: Cause:T1313373 Theme:T1313375
+T1203387	Entity 1291 1306	envelope stress
+E12	PositiveRegulationOfGeneExpression: Cause:T1203387 Theme:T1313379

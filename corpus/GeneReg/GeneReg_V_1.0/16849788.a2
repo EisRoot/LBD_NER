@@ -1,0 +1,26 @@
+T1096779	TranscriptionOfGene 0 15	Transcriptional
+T1096780	RegulationOfGeneExpression 16 26	regulation
+T1096781	TranscriptionOfGene 98 111	transcription
+T1096782	PositiveRegulationOfGeneExpression 119 127	required
+T1096783	TranscriptionOfGene 231 246	transcriptional
+T1096784	RegulationOfGeneExpression 247 257	regulatory
+T1096785	GeneExpression 306 321	Gene expression
+T1096786	GeneticModification 334 342	deletion
+T1096787	GeneticModification 343 350	mutants
+T1096788	GeneticModification 352 357	Delta
+T1096789	GeneticModification 364 369	Delta
+T1096790	GeneticModification 379 384	Delta
+T1096791	GeneticModification 390 395	Delta
+T1096792	TranscriptionOfGene 437 450	transcription
+T1096793	TranscriptionOfGene 466 481	transcriptional
+T1096794	RegulationOfGeneExpression 482 492	regulation
+T1096795	Decrease 525 532	absence
+T1096796	RegulationOfGeneExpression 581 589	regulate
+T1096797	NegativeRegulationOfGeneExpression 1090 1099	represses
+T1096798	GeneExpression 1104 1114	expression
+E1	RegulationOfGeneExpression: Cause:T1316756 Theme:T1316755
+E2	RegulationOfGeneExpression: Cause:T1316758 Theme:T1316759
+E3	RegulationOfGeneExpression: Cause:T1316764 Theme:T1316765
+E4	RegulationOfGeneExpression: Cause:T1316766 Theme:T1316768
+E5	RegulationOfGeneExpression: Cause:T1316767 Theme:T1316768
+E6	NegativeRegulationOfGeneExpression: Cause:T1316775 Theme:T1316776

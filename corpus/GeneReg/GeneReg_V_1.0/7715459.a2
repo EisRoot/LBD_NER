@@ -1,0 +1,32 @@
+T1099287	GeneExpression 91 100	expressed
+T1099288	PositiveRegulationOfGeneExpression 141 150	activated
+T1099289	NegativeRegulationOfGeneExpression 179 199	negatively regulated
+T1099290	NegativeRegulationOfGeneExpression 212 221	repressor
+T1099291	GeneExpression 413 422	expressed
+T1099292	RegulationOfGeneExpression 492 502	regulatory
+T1099293	PositiveRegulationOfGeneExpression 634 643	activated
+T1099294	NegativeRegulationOfGeneExpression 695 715	negatively regulated
+T1099295	NegativeRegulationOfGeneExpression 728 737	repressor
+T1099296	PositiveRegulationOfGeneExpression 747 757	Activation
+T1099297	RegulationOfGeneExpression 889 897	involved
+T1099298	PositiveRegulationOfGeneExpression 905 915	activation
+T1099299	NegativeRegulationOfGeneExpression 959 969	Repression
+T1099300	RegulationOfGeneExpression 1120 1130	regulators
+T1099301	PositiveRegulationOfGeneExpression 1242 1251	activator
+E1	PositiveRegulationOfGeneExpression: Cause:T1319254 Theme:T1319253
+T1209276	Entity 158 162	cAMP
+E2	PositiveRegulationOfGeneExpression: Cause:T1209276 Theme:T1319253
+E3	NegativeRegulationOfGeneExpression: Cause:T1319255 Theme:T1319253
+E4	PositiveRegulationOfGeneExpression: Cause:T1319263 Theme:T1319261
+E5	NegativeRegulationOfGeneExpression: Cause:T1319264 Theme:T1319261
+T1209278	Entity 674 678	cAMP
+E6	PositiveRegulationOfGeneExpression: Cause:T1209278 Theme:T1319261
+E7	PositiveRegulationOfGeneExpression: Cause:T1319266 Theme:T1319265
+T1209280	Entity 804 808	cAMP
+E8	PositiveRegulationOfGeneExpression: Cause:T1209280 Theme:T1319265
+E9	PositiveRegulationOfGeneExpression: Cause:T1319267 Theme:T1319268
+T1209281	Entity 867 871	cAMP
+E10	PositiveRegulationOfGeneExpression: Cause:T1209281 Theme:T1319268
+T1209285	Entity 1233 1237	cAMP
+E11	PositiveRegulationOfGeneExpression: Cause:T1209285 Theme:T1319273
+E12	PositiveRegulationOfGeneExpression: Cause:T1319274 Theme:T1319273

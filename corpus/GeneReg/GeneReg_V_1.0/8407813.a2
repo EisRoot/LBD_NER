@@ -1,0 +1,43 @@
+T10910089	GeneticModification 0 9	Mutations
+T10910090	RegulationOfGeneExpression 53 59	affect
+T10910091	RegulationOfGeneExpression 65 73	mediated
+T10910092	PositiveRegulationOfGeneExpression 74 84	activation
+T10910093	RegulationOfGeneExpression 98 106	mediated
+T10910094	NegativeRegulationOfGeneExpression 107 117	repression
+T10910095	GeneticModification 133 144	mutagenesis
+T10910096	PositiveRegulationOfGeneExpression 221 231	activation
+T10910097	GeneExpression 240 250	expression
+T10910098	GeneticModification 283 296	substitutions
+T10910099	GeneticModification 363 370	mutants
+T10910100	PositiveRegulationOfGeneExpression 480 490	activation
+T10910101	GeneExpression 494 504	expression
+T10910102	NegativeRegulationOfGeneExpression 566 573	repress
+T10910103	NegativeRegulationOfGeneExpression 604 617	substitutions
+T10910104	RegulationOfGeneExpression 651 657	effect
+T10910105	PositiveRegulationOfGeneExpression 661 671	activation
+T10910106	GeneticModification 688 697	deletions
+T10910107	RegulationOfGeneExpression 782 790	mediated
+T10910108	PositiveRegulationOfGeneExpression 791 801	activation
+T10910109	GeneticModification 828 835	mutants
+T10910110	NegativeRegulationOfGeneExpression 836 846	repression
+T10910111	PositiveRegulationOfGeneExpression 877 887	activation
+T10910112	NegativeRegulationOfGeneExpression 888 897	defective
+T10910113	GeneticModification 903 910	mutants
+T10910114	GeneExpression 912 922	expression
+T10910115	NegativeRegulationOfGeneExpression 933 942	repressed
+T10910116	Increase 950 958	presence
+T10910117	RegulationOfGeneExpression 986 994	mediated
+T10910118	NegativeRegulationOfGeneExpression 995 1005	repression
+T10910119	RegulationOfGeneExpression 1014 1023	dependent
+T10910120	Increase 1089 1097	presence
+E1	PositiveRegulationOfGeneExpression: Cause:T13110072 Theme:T13110073
+E2	PositiveRegulationOfGeneExpression: Cause:T13110072 Theme:T13110074
+T12010085	Entity 773 781	tyrosine
+E3	PositiveRegulationOfGeneExpression: Cause:T12010085 Theme:T13110076
+T12010084	Entity 755 768	phenylalanine
+E4	PositiveRegulationOfGeneExpression: Cause:T12010084 Theme:T13110076
+E5	PositiveRegulationOfGeneExpression: Cause:T12010085 Theme:T13110077
+E6	PositiveRegulationOfGeneExpression: Cause:T12010084 Theme:T13110077
+T12010086	Entity 962 970	tyrosine
+E7	NegativeRegulationOfGeneExpression: Cause:T12010086 Theme:T13110080
+E8	PositiveRegulationOfGeneExpression: Cause:T13110079 Theme:T13110080

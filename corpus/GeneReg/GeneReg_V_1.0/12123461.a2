@@ -1,0 +1,26 @@
+T1093196	TranscriptionOfGene 14 29	transcriptional
+T1093197	RegulationOfGeneExpression 34 43	regulator
+T1093198	GeneticModification 269 275	mutant
+T1093199	GeneticModification 309 315	mutant
+T1093200	PositiveRegulationOfGeneExpression 428 437	increased
+T1093201	PositiveRegulationOfGeneExpression 604 616	derepression
+T1093202	GeneticModification 640 646	mutant
+T1093203	GeneExpression 855 865	expression
+T1093204	PositiveRegulationOfGeneExpression 902 913	derepressed
+T1093205	GeneticModification 945 951	mutant
+T1093206	RegulationOfGeneExpression 988 997	regulator
+T1093207	GeneExpression 1006 1016	expression
+T1093208	PositiveRegulationOfGeneExpression 1169 1192	positive autoregulation
+T1093209	GeneExpression 1238 1248	expression
+T1093210	RegulationOfGeneExpression 1303 1314	controlling
+T1093211	TranscriptionOfGene 1319 1332	transcription
+T1093212	RegulationOfGeneExpression 1380 1390	regulating
+T1093213	GeneExpression 1395 1404	synthesis
+E1	RegulationOfGeneExpression: Cause:T1313157 Theme:T1313158
+E2	NegativeRegulationOfGeneExpression: Cause:T1313162 Theme:T1313163
+E3	NegativeRegulationOfGeneExpression: Cause:T1313166 Theme:T1313164
+E4	NegativeRegulationOfGeneExpression: Cause:T1313177 Theme:T1313175
+E5	RegulationOfGeneExpression: Cause:T1313178 Theme:T1313179
+E6	PositiveRegulationOfGeneExpression: Cause:T1313186 Theme:T1313185
+E7	RegulationOfGeneExpression: Cause:T1313188 Theme:T1313189
+E8	RegulationOfGeneExpression: Cause:T1313188 Theme:T1313191

@@ -1,0 +1,23 @@
+T1094191	TranscriptionOfGene 0 15	Transcriptional
+T1094192	GeneExpression 16 26	expression
+T1094193	GeneticModification 119 125	mutant
+T1094194	RegulationOfGeneExpression 500 510	controlled
+T1094195	NegativeRegulationOfGeneExpression 518 528	repressors
+T1094196	PositiveRegulationOfGeneExpression 549 558	activator
+T1094197	NegativeRegulationOfGeneExpression 571 580	repressor
+T1094198	PositiveRegulationOfGeneExpression 581 590	activator
+T1094199	TranscriptionOfGene 715 728	transcription
+T1094200	GeneticModification 760 766	mutant
+T1094201	PositiveRegulationOfGeneExpression 828 837	initiated
+T1094202	GeneticModification 858 865	absence
+E1	PositiveRegulationOfGeneExpression: Cause:T1314176 Theme:T1314172
+E2	NegativeRegulationOfGeneExpression: Cause:T1314173 Theme:T1314172
+E3	PositiveRegulationOfGeneExpression: Cause:T1314175 Theme:T1314172
+T1204187	Entity 622 630	sigma(S)
+E4	RegulationOfGeneExpression: Cause:T1204187 Theme:T1314172
+T1204188	Entity 635 644	sigma(70)
+E5	RegulationOfGeneExpression: Cause:T1204188 Theme:T1314172
+E6	NegativeRegulationOfGeneExpression: Cause:T1314174 Theme:T1314172
+E7	NegativeRegulationOfGeneExpression: Cause:T1314176 Theme:T1314172
+T1204190	Entity 841 850	sigma(70)
+E8	PositiveRegulationOfGeneExpression: Cause:T1204190 Theme:T1314179

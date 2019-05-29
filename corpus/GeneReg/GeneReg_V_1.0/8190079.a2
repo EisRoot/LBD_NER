@@ -1,0 +1,17 @@
+T1099962	GeneticModification 54 63	mutations
+T1099963	GeneticModification 121 128	mutants
+T1099964	GeneticModification 224 235	mutagenesis
+T1099965	GeneticModification 320 333	substitutions
+T1099966	GeneticModification 496 502	mutant
+T1099967	GeneticModification 543 555	substitution
+T1099968	GeneticModification 628 635	mutants
+T1099969	GeneticModification 822 831	mutations
+T1099970	GeneExpression 887 896	expressed
+T1099971	GeneticModification 1006 1015	mutations
+T1099972	GeneticModification 1326 1335	mutations
+T1099973	PositiveRegulationOfGeneExpression 1389 1403	Overexpression
+T1099974	PositiveRegulationOfGeneExpression 1460 1474	overexpression
+T1099975	GeneticModification 1537 1546	mutations
+T1099976	PositiveRegulationOfGeneExpression 1548 1562	Overexpression
+T1099977	NegativeRegulationOfGeneExpression 1677 1687	disruption
+T1099978	GeneticModification 1722 1728	mutant

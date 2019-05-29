@@ -1,0 +1,39 @@
+T10912035	TranscriptionOfGene 0 15	Transcriptional
+T10912036	RegulationOfGeneExpression 16 26	regulation
+T10912037	RegulationOfGeneExpression 132 141	regulated
+T10912038	TranscriptionOfGene 193 205	transcribing
+T10912039	RegulationOfGeneExpression 794 802	mediated
+T10912040	PositiveRegulationOfGeneExpression 803 813	activation
+T10912041	TranscriptionOfGene 979 992	transcription
+T10912042	RegulationOfGeneExpression 993 1003	regulators
+T10912043	GeneExpression 1024 1034	expression
+T10912044	PositiveRegulationOfGeneExpression 1038 1047	initiated
+T10912045	PositiveRegulationOfGeneExpression 1095 1104	activated
+T10912046	NegativeRegulationOfGeneExpression 1161 1170	repressed
+T10912047	GeneExpression 1206 1216	expression
+T10912048	PositiveRegulationOfGeneExpression 1220 1229	activated
+T10912049	NegativeRegulationOfGeneExpression 1241 1250	repressed
+T10912050	TranscriptionOfGene 1341 1354	transcription
+T10912051	PositiveRegulationOfGeneExpression 1392 1401	initiated
+T10912052	PositiveRegulationOfGeneExpression 1578 1585	induced
+E1	PositiveRegulationOfGeneExpression: Cause:T13112001 Theme:T13112000
+E2	PositiveRegulationOfGeneExpression: Cause:T13112011 Theme:T13112007
+E3	PositiveRegulationOfGeneExpression: Cause:T13112010 Theme:T13112007
+E4	PositiveRegulationOfGeneExpression: Cause:T13112013 Theme:T13112007
+E5	PositiveRegulationOfGeneExpression: Cause:T13112012 Theme:T13112007
+E6	NegativeRegulationOfGeneExpression: Cause:T13112014 Theme:T13112007
+T12012030	Entity 1051 1059	sigma 38
+E7	PositiveRegulationOfGeneExpression: Cause:T12012030 Theme:T13112007
+E8	NegativeRegulationOfGeneExpression: Cause:T13112015 Theme:T13112007
+E9	NegativeRegulationOfGeneExpression: Cause:T13112020 Theme:T13112016
+E10	PositiveRegulationOfGeneExpression: Cause:T13112017 Theme:T13112016
+E11	NegativeRegulationOfGeneExpression: Cause:T13112018 Theme:T13112016
+E12	NegativeRegulationOfGeneExpression: Cause:T13112019 Theme:T13112016
+T12012032	Entity 1431 1439	sigma 38
+E13	PositiveRegulationOfGeneExpression: Cause:T12012032 Theme:T13112024
+E14	PositiveRegulationOfGeneExpression: Cause:T12012032 Theme:T13112025
+E15	PositiveRegulationOfGeneExpression: Cause:T12012032 Theme:T13112026
+T12012034	Entity 1598 1610	redox-stress
+E16	PositiveRegulationOfGeneExpression: Cause:T12012034 Theme:T13112028
+T12012033	Entity 1589 1593	iron
+E17	PositiveRegulationOfGeneExpression: Cause:T12012033 Theme:T13112028

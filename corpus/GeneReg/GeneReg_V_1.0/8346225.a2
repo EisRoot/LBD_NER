@@ -1,0 +1,9 @@
+T10910045	GeneExpression 436 445	synthesis
+T10910046	TranscriptionOfGene 526 541	transcriptional
+T10910047	PositiveRegulationOfGeneExpression 542 552	activators
+T10910048	RegulationOfGeneExpression 574 584	regulatory
+T10910049	TranscriptionOfGene 649 664	transcriptional
+T10910050	RegulationOfGeneExpression 665 674	regulator
+T10910051	PositiveRegulationOfGeneExpression 758 772	overproduction
+T10910052	TranscriptionOfGene 1196 1211	transcriptional
+T10910053	RegulationOfGeneExpression 1212 1221	regulator

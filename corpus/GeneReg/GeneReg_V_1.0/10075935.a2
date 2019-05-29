@@ -1,0 +1,19 @@
+T109106	PositiveRegulationOfGeneExpression 146 156	activation
+T109107	GeneExpression 207 216	synthesis
+T109108	NegativeRegulationOfGeneExpression 460 469	decreases
+T109109	PositiveRegulationOfGeneExpression 659 664	burst
+T109110	GeneExpression 673 683	expression
+T109111	PositiveRegulationOfGeneExpression 808 817	induction
+T109112	NegativeRegulationOfGeneExpression 955 969	autorepression
+T109113	TranscriptionOfGene 992 1007	transcriptional
+T109114	RegulationOfGeneExpression 1042 1050	regulate
+T109115	GeneExpression 1056 1066	expression
+T109116	TranscriptionOfGene 1096 1109	transcription
+T109117	RegulationOfGeneExpression 1149 1156	control
+T120102	Entity 483 506	increasing cell density
+E1	NegativeRegulationOfGeneExpression: Cause:T120102 Theme:T13186
+T120103	Entity 726 781	dilution of stationary phase cultures with fresh medium
+E2	PositiveRegulationOfGeneExpression: Cause:T120103 Theme:T13189
+E3	NegativeRegulationOfGeneExpression: Cause:T13192 Theme:T13191
+E4	RegulationOfGeneExpression: Cause:T13198 Theme:T13196
+E5	RegulationOfGeneExpression: Cause:T13197 Theme:T13196

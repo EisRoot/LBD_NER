@@ -1,0 +1,14 @@
+T1099380	GeneExpression 17 27	expression
+T1099381	GeneticModification 317 325	deletion
+T1099382	GeneticModification 326 332	mutant
+T1099383	TranscriptionOfGene 1398 1411	transcription
+T1099384	TranscriptionOfGene 1738 1751	transcription
+T1099385	RegulationOfGeneExpression 1790 1798	mediated
+T1099386	PositiveRegulationOfGeneExpression 1799 1809	activation
+T1099387	GeneExpression 1824 1834	expression
+T1099388	Decrease 1842 1849	absence
+T1209378	Entity 1781 1785	cAMP
+E1	PositiveRegulationOfGeneExpression: Cause:T1209378 Theme:T1319370
+T1209379	Entity 1853 1860	glucose
+E2	PositiveRegulationOfGeneExpression: Cause:T1209379 Theme:T1319370
+E3	PositiveRegulationOfGeneExpression: Cause:T1319369 Theme:T1319370

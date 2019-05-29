@@ -1,0 +1,25 @@
+T10910899	RegulationOfGeneExpression 38 48	regulatory
+T10910900	RegulationOfGeneExpression 60 67	affects
+T10910901	GeneExpression 68 78	expression
+T10910902	PositiveRegulationOfGeneExpression 106 113	induced
+T10910903	TranscriptionOfGene 172 187	transcriptional
+T10910904	RegulationOfGeneExpression 188 197	regulator
+T10910905	PositiveRegulationOfGeneExpression 393 400	induced
+T10910906	PositiveRegulationOfGeneExpression 484 492	increase
+T10910907	GeneExpression 497 507	expression
+T10910908	TranscriptionOfGene 703 718	transcriptional
+T10910909	RegulationOfGeneExpression 719 729	regulators
+T10910910	PositiveRegulationOfGeneExpression 794 802	required
+T10910911	PositiveRegulationOfGeneExpression 857 868	stimulation
+T10910912	PositiveRegulationOfGeneExpression 990 999	stimulate
+E1	RegulationOfGeneExpression: Cause:T13110877 Theme:T13110878
+T12010894	Entity 101 105	acid
+E2	PositiveRegulationOfGeneExpression: Cause:T12010894 Theme:T13110878
+E3	RegulationOfGeneExpression: Cause:T13110879 Theme:T13110880
+T12010897	Entity 449 460	rich medium
+E4	PositiveRegulationOfGeneExpression: Cause:T12010897 Theme:T13110881
+T12010895	Entity 421 430	acidic pH
+E5	PositiveRegulationOfGeneExpression: Cause:T12010895 Theme:T13110881
+T12010896	Entity 432 444	anaerobiosis
+E6	PositiveRegulationOfGeneExpression: Cause:T12010896 Theme:T13110881
+E7	PositiveRegulationOfGeneExpression: Cause:T13110882 Theme:T13110883

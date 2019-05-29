@@ -1,0 +1,4 @@
+T1099675	NegativeRegulationOfGeneExpression 37 46	repressor
+T1099676	RegulationOfGeneExpression 595 604	regulator
+T1099677	NegativeRegulationOfGeneExpression 1205 1214	repressor
+E1	RegulationOfGeneExpression: Cause:T1319657 Theme:T1319658

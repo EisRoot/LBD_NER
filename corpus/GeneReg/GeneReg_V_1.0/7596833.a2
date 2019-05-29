@@ -1,0 +1,58 @@
+T1098935	RegulationOfGeneExpression 49 59	regulating
+T1098936	PositiveRegulationOfGeneExpression 71 78	induced
+T1098937	PositiveRegulationOfGeneExpression 180 187	induced
+T1098938	GeneExpression 225 235	Expression
+T1098939	RegulationOfGeneExpression 239 249	controlled
+T1098940	TranscriptionOfGene 269 284	transcriptional
+T1098941	TranscriptionOfGene 296 309	transcription
+T1098942	RegulationOfGeneExpression 313 321	directed
+T1098943	PositiveRegulationOfGeneExpression 370 378	required
+T1098944	PositiveRegulationOfGeneExpression 383 393	high-level
+T1098945	GeneExpression 398 408	expression
+T1098946	PositiveRegulationOfGeneExpression 476 483	induced
+T1098947	GeneExpression 484 494	expression
+T1098948	PositiveRegulationOfGeneExpression 590 600	activation
+T1098949	PositiveRegulationOfGeneExpression 624 632	required
+T1098950	PositiveRegulationOfGeneExpression 641 650	induction
+T1098951	PositiveRegulationOfGeneExpression 663 671	enhancer
+T1098952	PositiveRegulationOfGeneExpression 688 696	activate
+T1098953	RegulationOfGeneExpression 781 790	dependent
+T1098954	PositiveRegulationOfGeneExpression 806 813	induced
+T1098955	GeneticModification 968 975	lacking
+T1098956	GeneExpression 985 995	expression
+T1098957	NegativeRegulationOfGeneExpression 1013 1020	reduced
+T1098958	GeneExpression 1104 1114	expression
+T1098959	PositiveRegulationOfGeneExpression 1130 1140	stimulated
+T1098960	GeneticModification 1157 1164	mutants
+T1098961	PositiveRegulationOfGeneExpression 1178 1184	induce
+T1098962	RegulationOfGeneExpression 1201 1211	dependence
+T1098963	GeneExpression 1219 1229	expression
+T1098964	PositiveRegulationOfGeneExpression 1253 1261	inducing
+T1098965	RegulationOfGeneExpression 1301 1311	dependence
+T1098966	PositiveRegulationOfGeneExpression 1366 1376	activation
+T1208923	Entity 64 70	stress
+E1	PositiveRegulationOfGeneExpression: Cause:T1208923 Theme:T1318905
+T1208924	Entity 191 223	adverse environmental conditions
+E2	PositiveRegulationOfGeneExpression: Cause:T1208924 Theme:T1318906
+T1208928	Entity 431 448	ethanol treatment
+E3	PositiveRegulationOfGeneExpression: Cause:T1208928 Theme:T1318909
+T1208927	Entity 416 429	osmotic shock
+E4	PositiveRegulationOfGeneExpression: Cause:T1208927 Theme:T1318909
+E5	PositiveRegulationOfGeneExpression: Cause:T1318908 Theme:T1318909
+T1208929	Entity 453 465	f1 infection
+E6	PositiveRegulationOfGeneExpression: Cause:T1208929 Theme:T1318909
+T1208930	Entity 471 475	heat
+E7	PositiveRegulationOfGeneExpression: Cause:T1208930 Theme:T1318909
+E8	PositiveRegulationOfGeneExpression: Cause:T1318907 Theme:T1318909
+E9	PositiveRegulationOfGeneExpression: Cause:T1318913 Theme:T1318914
+T1208932	Entity 1036 1052	high temperature
+E10	PositiveRegulationOfGeneExpression: Cause:T1208932 Theme:T1318914
+T1208933	Entity 1057 1064	ethanol
+E11	PositiveRegulationOfGeneExpression: Cause:T1208933 Theme:T1318914
+E12	PositiveRegulationOfGeneExpression: Cause:T1318916 Theme:T1318915
+T1208934	Entity 1073 1086	osmotic shock
+E13	PositiveRegulationOfGeneExpression: Cause:T1208934 Theme:T1318915
+E14	NegativeRegulationOfGeneExpression: Cause:T1318917 Theme:T1318918
+E15	RegulationOfGeneExpression: Cause:T1318922 Theme:T1318919
+E16	RegulationOfGeneExpression: Cause:T1318920 Theme:T1318919
+E17	RegulationOfGeneExpression: Cause:T1318921 Theme:T1318919

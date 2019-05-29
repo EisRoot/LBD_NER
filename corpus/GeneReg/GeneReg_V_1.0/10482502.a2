@@ -1,0 +1,34 @@
+T109520	GeneticModification 0 12	Inactivation
+T109521	RegulationOfGeneExpression 17 27	regulation
+T109522	GeneticModification 854 865	inactivated
+T109523	GeneticModification 938 944	mutant
+T109524	GeneticModification 1113 1119	mutant
+T109525	GeneticModification 1263 1269	mutant
+T109526	GeneticModification 1379 1385	mutant
+T109527	RegulationOfGeneExpression 1553 1563	Regulation
+T109528	RegulationOfGeneExpression 1689 1698	dependent
+T109529	NegativeRegulationOfGeneExpression 1710 1720	repression
+T109530	RegulationOfGeneExpression 1730 1738	mediated
+T109531	NegativeRegulationOfGeneExpression 1749 1759	repression
+T109532	PositiveRegulationOfGeneExpression 1774 1781	induced
+T109533	GeneticModification 1879 1885	mutant
+T109534	GeneExpression 1887 1897	expression
+T109535	PositiveRegulationOfGeneExpression 1957 1966	induction
+T109536	RegulationOfGeneExpression 1989 1998	regulates
+T109537	GeneExpression 2007 2016	synthesis
+T109538	TranscriptionOfGene 2079 2089	transcript
+T109539	RegulationOfGeneExpression 2128 2138	regulation
+T109540	NegativeRegulationOfGeneExpression 2153 2163	repression
+T120515	Entity 1739 1748	anaerobic
+E1	NegativeRegulationOfGeneExpression: Cause:T120515 Theme:T131496
+E2	NegativeRegulationOfGeneExpression: Cause:T131499 Theme:T131496
+T120516	Entity 1821 1840	C(4)-dicarboxylates
+E3	PositiveRegulationOfGeneExpression: Cause:T120516 Theme:T131496
+T120514	Entity 1655 1665	cyclic AMP
+E4	NegativeRegulationOfGeneExpression: Cause:T120514 Theme:T131496
+T120517	Entity 1845 1852	citrate
+E5	PositiveRegulationOfGeneExpression: Cause:T120517 Theme:T131496
+E6	PositiveRegulationOfGeneExpression: Cause:T131501 Theme:T131496
+E7	PositiveRegulationOfGeneExpression: Cause:T131500 Theme:T131496
+E8	NegativeRegulationOfGeneExpression: Cause:T131498 Theme:T131496
+E9	RegulationOfGeneExpression: Cause:T131508 Theme:T131507

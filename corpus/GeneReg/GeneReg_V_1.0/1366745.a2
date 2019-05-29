@@ -1,0 +1,7 @@
+T1094560	GeneExpression 415 425	Expression
+T1094561	GeneExpression 568 578	expression
+T1094562	PositiveRegulationOfGeneExpression 603 607	high
+T1094563	GeneticModification 617 630	possessing no
+T1094564	NegativeRegulationOfGeneExpression 644 654	repressors
+T1094565	GeneExpression 679 689	expression
+T1094566	GeneExpression 765 774	Expressed

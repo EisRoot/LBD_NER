@@ -1,0 +1,11 @@
+T10910376	NegativeRegulationOfGeneExpression 97 106	repressor
+T10910377	NegativeRegulationOfGeneExpression 152 161	repressor
+T10910378	TranscriptionOfGene 204 219	transcriptional
+T10910379	NegativeRegulationOfGeneExpression 220 229	repressor
+T10910380	NegativeRegulationOfGeneExpression 267 278	corepressor
+T10910381	NegativeRegulationOfGeneExpression 634 641	repress
+T10910382	TranscriptionOfGene 642 655	transcription
+E1	NegativeRegulationOfGeneExpression: Cause:T13110347 Theme:T13110346
+E2	NegativeRegulationOfGeneExpression: Cause:T13110350 Theme:T13110351
+T12010369	Entity 558 568	bio-5'-AMP
+E3	NegativeRegulationOfGeneExpression: Cause:T12010369 Theme:T13110351

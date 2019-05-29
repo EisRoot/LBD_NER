@@ -1,0 +1,49 @@
+T10911590	PositiveRegulationOfGeneExpression 183 190	induced
+T10911591	TranscriptionOfGene 367 380	transcription
+T10911592	PositiveRegulationOfGeneExpression 393 403	activators
+T10911593	RegulationOfGeneExpression 498 505	Control
+T10911594	GeneExpression 539 548	synthesis
+T10911595	RegulationOfGeneExpression 587 597	dependence
+T10911596	PositiveRegulationOfGeneExpression 650 659	induction
+T10911597	PositiveRegulationOfGeneExpression 702 707	needs
+T10911598	RegulationOfGeneExpression 765 775	controlled
+T10911599	PositiveRegulationOfGeneExpression 795 802	needing
+T10911600	PositiveRegulationOfGeneExpression 812 821	activator
+T10911601	PositiveRegulationOfGeneExpression 888 897	induction
+T10911602	PositiveRegulationOfGeneExpression 954 961	induced
+T10911603	TranscriptionOfGene 992 1007	transcriptional
+T10911604	PositiveRegulationOfGeneExpression 1008 1017	activator
+T10911605	RegulationOfGeneExpression 1021 1029	involved
+T10911606	RegulationOfGeneExpression 1059 1069	regulation
+T10911607	PositiveRegulationOfGeneExpression 1123 1128	needs
+T10911608	RegulationOfGeneExpression 1200 1208	affected
+T10911609	GeneticModification 1272 1279	lesions
+T10911610	RegulationOfGeneExpression 1346 1354	involves
+T10911611	PositiveRegulationOfGeneExpression 1389 1398	induction
+T10911612	NegativeRegulationOfGeneExpression 1464 1473	repressed
+T10911613	PositiveRegulationOfGeneExpression 1618 1626	requires
+T10911614	PositiveRegulationOfGeneExpression 1687 1693	needed
+T10911615	PositiveRegulationOfGeneExpression 1698 1707	induction
+T10911616	NegativeRegulationOfGeneExpression 1711 1720	abolished
+T10911617	NegativeRegulationOfGeneExpression 1795 1802	blocked
+T10911618	GeneticModification 1857 1864	lesions
+T10911619	RegulationOfGeneExpression 1870 1876	effect
+T10911620	NegativeRegulationOfGeneExpression 1896 1906	suppressed
+T10911621	PositiveRegulationOfGeneExpression 1952 1957	needs
+T10911622	NegativeRegulationOfGeneExpression 1967 1976	inhibited
+T10911623	GeneExpression 2054 2063	synthesis
+T10911624	PositiveRegulationOfGeneExpression 2073 2080	induced
+T10911625	NegativeRegulationOfGeneExpression 2147 2156	inhibited
+T12011574	Entity 552 559	acid pH
+E1	RegulationOfGeneExpression: Cause:T12011574 Theme:T13111523
+E2	RegulationOfGeneExpression: Cause:T13111525 Theme:T13111523
+E3	RegulationOfGeneExpression: Cause:T13111526 Theme:T13111523
+E4	RegulationOfGeneExpression: Cause:T13111527 Theme:T13111523
+E5	PositiveRegulationOfGeneExpression: Cause:T13111529 Theme:T13111528
+T12011575	Entity 645 649	acid
+E6	PositiveRegulationOfGeneExpression: Cause:T12011575 Theme:T13111528
+E7	PositiveRegulationOfGeneExpression: Cause:T13111531 Theme:T13111530
+E8	NegativeRegulationOfGeneExpression: Cause:T13111533 Theme:T13111530
+T12011579	Entity 965 969	acid
+E9	PositiveRegulationOfGeneExpression: Cause:T12011579 Theme:T13111535
+E10	RegulationOfGeneExpression: Cause:T13111537 Theme:T13111535

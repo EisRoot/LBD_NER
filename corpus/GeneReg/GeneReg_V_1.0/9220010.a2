@@ -1,0 +1,55 @@
+T10911728	PositiveRegulationOfGeneExpression 68 78	activation
+T10911729	TranscriptionOfGene 87 100	transcription
+T10911730	PositiveRegulationOfGeneExpression 142 150	required
+T10911731	GeneExpression 155 165	expression
+T10911732	RegulationOfGeneExpression 233 242	regulated
+T10911733	PositiveRegulationOfGeneExpression 329 337	requires
+T10911734	PositiveRegulationOfGeneExpression 451 464	overexpressed
+T10911735	GeneticModification 475 486	mutagenesis
+T10911736	TranscriptionOfGene 602 615	transcription
+T10911737	PositiveRegulationOfGeneExpression 616 626	activation
+T10911738	RegulationOfGeneExpression 729 739	regulators
+T10911739	GeneticModification 741 748	Changes
+T10911740	NegativeRegulationOfGeneExpression 803 807	loss
+T10911741	RegulationOfGeneExpression 827 836	dependent
+T10911742	PositiveRegulationOfGeneExpression 837 845	activity
+T10911743	RegulationOfGeneExpression 859 865	affect
+T10911744	PositiveRegulationOfGeneExpression 870 880	high-level
+T10911745	GeneExpression 914 924	expression
+T10911746	GeneticModification 939 947	variants
+T10911747	PositiveRegulationOfGeneExpression 953 966	overexpressed
+T10911748	PositiveRegulationOfGeneExpression 993 1002	important
+T10911749	TranscriptionOfGene 1063 1076	transcription
+T10911750	PositiveRegulationOfGeneExpression 1077 1087	activation
+T10911751	GeneticModification 1112 1119	mutants
+T10911752	PositiveRegulationOfGeneExpression 1133 1141	activity
+T10911753	GeneticModification 1149 1156	absence
+T10911754	GeneticModification 1207 1220	substitutions
+T10911755	GeneticModification 1228 1241	substitutions
+T10911756	PositiveRegulationOfGeneExpression 1296 1305	inducible
+T10911757	PositiveRegulationOfGeneExpression 1309 1319	high-level
+T10911758	GeneticModification 1429 1442	substitutions
+T10911759	NegativeRegulationOfGeneExpression 1494 1498	loss
+T10911760	RegulationOfGeneExpression 1518 1527	dependent
+T10911761	PositiveRegulationOfGeneExpression 1528 1538	activation
+T10911762	GeneticModification 1540 1546	Change
+T10911763	RegulationOfGeneExpression 1571 1577	effect
+T10911764	GeneticModification 1583 1590	changes
+T10911765	NegativeRegulationOfGeneExpression 1621 1625	loss
+T10911766	GeneticModification 1647 1660	substitutions
+T10911767	PositiveRegulationOfGeneExpression 1697 1707	high-level
+T10911768	GeneExpression 1721 1731	expression
+T10911769	GeneticModification 1737 1744	changes
+T10911770	RegulationOfGeneExpression 1782 1789	effects
+T10911771	GeneticModification 1824 1836	substitution
+T10911772	NegativeRegulationOfGeneExpression 1854 1857	low
+T10911773	GeneExpression 1863 1873	expression
+T10911774	PositiveRegulationOfGeneExpression 1879 1892	overexpressed
+T10911775	GeneticModification 1988 1994	change
+T10911776	GeneticModification 2000 2007	changes
+T10911777	PositiveRegulationOfGeneExpression 2148 2156	activate
+T10911778	TranscriptionOfGene 2162 2175	transcription
+E1	PositiveRegulationOfGeneExpression: Cause:T13111710 Theme:T13111711
+E2	RegulationOfGeneExpression: Cause:T13111714 Theme:T13111713
+E3	PositiveRegulationOfGeneExpression: Cause:T13111712 Theme:T13111713
+E4	PositiveRegulationOfGeneExpression: Cause:T13111724 Theme:T13111725

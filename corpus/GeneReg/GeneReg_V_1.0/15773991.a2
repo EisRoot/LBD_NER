@@ -1,0 +1,43 @@
+T1095982	Increase 115 123	exposure
+T1095983	TranscriptionOfGene 201 214	transcription
+T1095984	TranscriptionOfGene 223 236	Transcription
+T1095985	PositiveRegulationOfGeneExpression 396 410	became maximum
+T1095986	Increase 426 434	addition
+T1095987	NegativeRegulationOfGeneExpression 470 479	decreased
+T1095988	Increase 553 561	addition
+T1095989	RegulationOfGeneExpression 681 689	affected
+T1095990	PositiveRegulationOfGeneExpression 694 705	upregulated
+T1095991	NegativeRegulationOfGeneExpression 714 727	downregulated
+T1095992	TranscriptionOfGene 730 743	Transcription
+T1095993	PositiveRegulationOfGeneExpression 804 813	activated
+T1095994	TranscriptionOfGene 989 1002	transcription
+T1095995	PositiveRegulationOfGeneExpression 1036 1045	activated
+T1095996	PositiveRegulationOfGeneExpression 1324 1331	induced
+T1095997	RegulationOfGeneExpression 1355 1372	under the control
+T1095998	TranscriptionOfGene 1498 1511	transcription
+T1095999	PositiveRegulationOfGeneExpression 1559 1568	activated
+T1096000	RegulationOfGeneExpression 1587 1596	dependent
+T1096001	RegulationOfGeneExpression 1703 1713	regulation
+T1096002	RegulationOfGeneExpression 1849 1856	respond
+T1205973	Entity 438 444	copper
+E1	PositiveRegulationOfGeneExpression: Cause:T1205973 Theme:T1315938
+E2	PositiveRegulationOfGeneExpression: Cause:T1205973 Theme:T1315939
+E3	PositiveRegulationOfGeneExpression: Cause:T1205973 Theme:T1315940
+T1205974	Entity 565 571	copper
+E4	RegulationOfGeneExpression: Cause:T1205974 Theme:T1315941
+E5	PositiveRegulationOfGeneExpression: Cause:T1205974 Theme:T1315942
+E6	NegativeRegulationOfGeneExpression: Cause:T1205974 Theme:T1315943
+E7	PositiveRegulationOfGeneExpression: Cause:T1315946 Theme:T1315944
+E8	PositiveRegulationOfGeneExpression: Cause:T1315946 Theme:T1315945
+T1205975	Entity 1057 1063	copper
+E9	PositiveRegulationOfGeneExpression: Cause:T1205975 Theme:T1315951
+E10	PositiveRegulationOfGeneExpression: Cause:T1315953 Theme:T1315951
+E11	PositiveRegulationOfGeneExpression: Cause:T1205975 Theme:T1315952
+E12	PositiveRegulationOfGeneExpression: Cause:T1315953 Theme:T1315952
+T1205976	Entity 1317 1323	copper
+E13	PositiveRegulationOfGeneExpression: Cause:T1205976 Theme:T1315958
+T1205978	Entity 1572 1578	copper
+E14	PositiveRegulationOfGeneExpression: Cause:T1205978 Theme:T1315961
+E15	PositiveRegulationOfGeneExpression: Cause:T1315962 Theme:T1315961
+T1205981	Entity 1897 1903	copper
+E16	RegulationOfGeneExpression: Cause:T1205981 Theme:T1315967

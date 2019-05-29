@@ -1,0 +1,46 @@
+T1099434	GeneExpression 102 112	expression
+T1099435	PositiveRegulationOfGeneExpression 151 159	requires
+T1099436	RegulationOfGeneExpression 180 190	regulatory
+T1099437	TranscriptionOfGene 236 249	transcription
+T1099438	GeneticModification 345 355	mutational
+T1099439	GeneticModification 404 412	deletion
+T1099440	GeneExpression 452 462	expression
+T1099441	GeneticModification 500 509	mutations
+T1099442	NegativeRegulationOfGeneExpression 564 572	decrease
+T1099443	GeneticModification 597 606	deletions
+T1099444	NegativeRegulationOfGeneExpression 620 627	reduced
+T1099445	GeneExpression 633 643	expression
+T1099446	PositiveRegulationOfGeneExpression 685 694	increased
+T1099447	GeneticModification 718 724	mutant
+T1099448	GeneticModification 796 802	mutant
+T1099449	PositiveRegulationOfGeneExpression 822 830	restored
+T1099450	GeneExpression 835 845	expression
+T1099451	GeneticModification 885 894	mutations
+T1099452	NegativeRegulationOfGeneExpression 964 971	reduced
+T1099453	GeneExpression 976 986	expression
+T1099454	GeneticModification 1044 1052	mutation
+T1099455	GeneticModification 1110 1117	mutants
+T1099456	NegativeRegulationOfGeneExpression 1251 1258	reduced
+T1099457	GeneExpression 1263 1273	expression
+T1099458	RegulationOfGeneExpression 1310 1316	effect
+T1099459	PositiveRegulationOfGeneExpression 1430 1437	enhance
+T1099460	TranscriptionOfGene 1442 1455	transcription
+T1099461	GeneticModification 1472 1478	mutant
+T1099462	PositiveRegulationOfGeneExpression 1557 1568	requirement
+T1099463	TranscriptionOfGene 1671 1684	transcription
+T1099464	PositiveRegulationOfGeneExpression 1693 1700	enhance
+T1099465	GeneExpression 1712 1722	expression
+T1099466	TranscriptionOfGene 1784 1797	transcription
+E1	PositiveRegulationOfGeneExpression: Cause:T1319393 Theme:T1319392
+E2	PositiveRegulationOfGeneExpression: Cause:T1319394 Theme:T1319392
+E3	PositiveRegulationOfGeneExpression: Cause:T1319403 Theme:T1319401
+E4	PositiveRegulationOfGeneExpression: Cause:T1319405 Theme:T1319406
+E5	PositiveRegulationOfGeneExpression: Cause:T1319411 Theme:T1319413
+E6	RegulationOfGeneExpression: Cause:T1319421 Theme:T1319419
+E7	PositiveRegulationOfGeneExpression: Cause:T1319420 Theme:T1319419
+E8	PositiveRegulationOfGeneExpression: Cause:T1319425 Theme:T1319426
+E9	PositiveRegulationOfGeneExpression: Cause:T1319423 Theme:T1319426
+E10	PositiveRegulationOfGeneExpression: Cause:T1319424 Theme:T1319426
+E11	PositiveRegulationOfGeneExpression: Cause:T1319431 Theme:T1319430
+E12	PositiveRegulationOfGeneExpression: Cause:T1319428 Theme:T1319430
+E13	PositiveRegulationOfGeneExpression: Cause:T1319429 Theme:T1319430

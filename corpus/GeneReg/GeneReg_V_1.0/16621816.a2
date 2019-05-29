@@ -1,0 +1,35 @@
+T1096664	GeneticModification 0 10	Mutational
+T1096665	RegulationOfGeneExpression 141 148	control
+T1096666	TranscriptionOfGene 232 245	Transcription
+T1096667	RegulationOfGeneExpression 475 484	regulated
+T1096668	RegulationOfGeneExpression 716 724	involved
+T1096669	NegativeRegulationOfGeneExpression 760 770	repression
+T1096670	GeneticModification 814 823	deletions
+T1096671	GeneticModification 828 838	insertions
+T1096672	RegulationOfGeneExpression 1249 1257	mediated
+T1096673	NegativeRegulationOfGeneExpression 1258 1268	repression
+T1096674	NegativeRegulationOfGeneExpression 1390 1400	repression
+T1096675	RegulationOfGeneExpression 1448 1456	mediated
+T1096676	RegulationOfGeneExpression 1457 1467	regulation
+T1096677	RegulationOfGeneExpression 1606 1614	mediated
+T1096678	NegativeRegulationOfGeneExpression 1615 1625	repression
+T1096679	RegulationOfGeneExpression 1678 1687	dependent
+T1096680	RegulationOfGeneExpression 1688 1698	regulation
+T1096681	RegulationOfGeneExpression 1778 1788	regulatory
+T1096682	RegulationOfGeneExpression 1880 1887	control
+T1096683	RegulationOfGeneExpression 1927 1933	effect
+T1096684	Increase 1937 1943	excess
+T1096685	PositiveRegulationOfGeneExpression 1990 1994	need
+T1206651	Entity 572 582	pyrimidine
+E1	RegulationOfGeneExpression: Cause:T1206651 Theme:T1316636
+T1206652	Entity 583 589	purine
+E2	RegulationOfGeneExpression: Cause:T1206652 Theme:T1316636
+T1206653	Entity 728 738	pyrimidine
+E3	NegativeRegulationOfGeneExpression: Cause:T1206653 Theme:T1316637
+T1206654	Entity 744 750	purine
+E4	NegativeRegulationOfGeneExpression: Cause:T1206654 Theme:T1316637
+E5	NegativeRegulationOfGeneExpression: Cause:T1316642 Theme:T1316643
+T1206657	Entity 1242 1248	purine
+E6	NegativeRegulationOfGeneExpression: Cause:T1206657 Theme:T1316643
+T1206656	Entity 1226 1236	pyrimidine
+E7	NegativeRegulationOfGeneExpression: Cause:T1206656 Theme:T1316643

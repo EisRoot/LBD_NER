@@ -1,0 +1,7 @@
+T1096748	PositiveRegulationOfGeneExpression 396 405	inducible
+T1096749	PositiveRegulationOfGeneExpression 607 616	inducible
+T1096750	GeneExpression 638 648	expression
+T1096751	GeneExpression 722 732	expression
+T1096752	PositiveRegulationOfGeneExpression 835 847	up-regulated
+T1096753	NegativeRegulationOfGeneExpression 877 891	down-regulated
+T1096754	Increase 918 923	added

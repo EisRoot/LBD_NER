@@ -1,0 +1,5 @@
+T10912171	GeneticModification 555 564	mutations
+T10912172	TranscriptionOfGene 1129 1140	transcribed
+T10912173	GeneticModification 1273 1285	Inactivation
+T10912174	GeneExpression 1625 1635	expression
+T10912175	RegulationOfGeneExpression 1653 1662	regulated

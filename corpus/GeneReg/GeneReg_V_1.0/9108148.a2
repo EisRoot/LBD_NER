@@ -1,0 +1,17 @@
+T10911462	TranscriptionOfGene 40 53	transcription
+T10911463	PositiveRegulationOfGeneExpression 54 63	activator
+T10911464	TranscriptionOfGene 202 215	transcription
+T10911465	PositiveRegulationOfGeneExpression 216 226	activators
+T10911466	GeneticModification 287 295	deletion
+T10911467	TranscriptionOfGene 359 372	transcription
+T10911468	PositiveRegulationOfGeneExpression 373 382	activator
+T10911469	PositiveRegulationOfGeneExpression 383 392	essential
+T10911470	RegulationOfGeneExpression 408 417	dependent
+T10911471	GeneExpression 418 428	expression
+T10911472	PositiveRegulationOfGeneExpression 458 464	needed
+T10911473	RegulationOfGeneExpression 999 1007	involved
+T10911474	TranscriptionOfGene 1011 1024	transcription
+T10911475	PositiveRegulationOfGeneExpression 1025 1035	activation
+E1	PositiveRegulationOfGeneExpression: Cause:T13111447 Theme:T13111448
+T12011459	Entity 397 406	melibiose
+E2	RegulationOfGeneExpression: Cause:T12011459 Theme:T13111448

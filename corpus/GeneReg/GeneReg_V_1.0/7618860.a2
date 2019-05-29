@@ -1,0 +1,20 @@
+T1099132	GeneticModification 27 36	mutations
+T1099133	GeneticModification 177 184	mutants
+T1099134	NegativeRegulationOfGeneExpression 461 479	negative regulator
+T1099135	PositiveRegulationOfGeneExpression 538 556	positive regulator
+T1099136	GeneticModification 579 586	mutants
+T1099137	GeneticModification 627 636	mutations
+T1099138	GeneticModification 708 714	mutant
+T1099139	GeneticModification 791 798	mutants
+T1099140	GeneticModification 853 860	mutants
+T1099141	GeneticModification 909 917	mutation
+T1099142	GeneticModification 1044 1051	mutants
+T1099143	GeneticModification 1113 1120	mutants
+T1099144	GeneticModification 1157 1165	mutation
+T1099145	PositiveRegulationOfGeneExpression 1169 1178	dependent
+T1099146	GeneticModification 1231 1237	mutant
+T1099147	GeneticModification 1326 1332	mutant
+T1099148	GeneticModification 1394 1402	mutation
+T1099149	GeneticModification 1461 1469	mutation
+E1	NegativeRegulationOfGeneExpression: Cause:T1319102 Theme:T1319103
+E2	PositiveRegulationOfGeneExpression: Cause:T1319105 Theme:T1319106

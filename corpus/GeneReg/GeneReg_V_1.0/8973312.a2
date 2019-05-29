@@ -1,0 +1,18 @@
+T10911428	TranscriptionOfGene 0 15	Transcriptional
+T10911429	GeneExpression 56 71	gene expression
+T10911430	TranscriptionOfGene 214 229	transcriptional
+T10911431	GeneExpression 246 256	expression
+T10911432	GeneExpression 340 349	expressed
+T10911433	NegativeRegulationOfGeneExpression 523 532	decreased
+T10911434	GeneExpression 577 587	expression
+T10911435	PositiveRegulationOfGeneExpression 634 643	increased
+T10911436	RegulationOfGeneExpression 713 722	dependent
+T10911437	RegulationOfGeneExpression 723 733	regulation
+T10911438	TranscriptionOfGene 741 754	transcription
+T10911439	RegulationOfGeneExpression 837 847	regulation
+T12011425	Entity 546 562	growth cessation
+E1	NegativeRegulationOfGeneExpression: Cause:T12011425 Theme:T13111417
+T12011426	Entity 663 686	stationary growth phase
+E2	PositiveRegulationOfGeneExpression: Cause:T12011426 Theme:T13111420
+T12011427	Entity 701 712	growth rate
+E3	RegulationOfGeneExpression: Cause:T12011427 Theme:T13111421

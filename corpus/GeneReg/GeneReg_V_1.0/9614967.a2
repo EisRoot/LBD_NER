@@ -1,0 +1,21 @@
+T10912211	RegulationOfGeneExpression 0 10	Regulation
+T10912212	TranscriptionOfGene 14 27	transcription
+T10912213	TranscriptionOfGene 244 257	Transcription
+T10912214	RegulationOfGeneExpression 366 376	Regulation
+T10912215	RegulationOfGeneExpression 796 805	regulated
+T10912216	GeneExpression 860 870	expression
+T10912217	RegulationOfGeneExpression 963 973	regulatory
+T10912218	RegulationOfGeneExpression 1074 1084	regulation
+T10912219	GeneExpression 1088 1103	gene expression
+T10912220	RegulationOfGeneExpression 1270 1276	direct
+T10912221	GeneExpression 1281 1291	expression
+T10912222	RegulationOfGeneExpression 1434 1444	regulating
+T10912223	TranscriptionOfGene 1449 1462	transcription
+T10912224	RegulationOfGeneExpression 1507 1516	dependent
+T10912225	RegulationOfGeneExpression 1583 1591	involved
+T10912226	GeneExpression 1599 1609	expression
+T10912227	RegulationOfGeneExpression 1736 1746	regulation
+T10912228	GeneExpression 1750 1765	gene expression
+T10912229	GeneticModification 1783 1790	absence
+T12012210	Entity 1563 1570	sigma s
+E1	RegulationOfGeneExpression: Cause:T12012210 Theme:T13112208

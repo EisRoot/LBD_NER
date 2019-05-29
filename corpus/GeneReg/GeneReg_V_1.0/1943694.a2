@@ -1,0 +1,26 @@
+T1097244	NegativeRegulationOfGeneExpression 49 58	repressor
+T1097245	PositiveRegulationOfGeneExpression 63 72	activator
+T1097246	RegulationOfGeneExpression 91 100	regulates
+T1097247	GeneExpression 105 115	expression
+T1097248	TranscriptionOfGene 125 140	transcriptional
+T1097249	RegulationOfGeneExpression 200 210	regulation
+T1097250	NegativeRegulationOfGeneExpression 217 227	repression
+T1097251	PositiveRegulationOfGeneExpression 248 258	activation
+T1097252	GeneExpression 262 272	expression
+T1097253	PositiveRegulationOfGeneExpression 690 699	activates
+T1097254	TranscriptionOfGene 700 713	transcription
+T1097255	PositiveRegulationOfGeneExpression 803 812	essential
+T1097256	RegulationOfGeneExpression 826 834	mediated
+T1097257	NegativeRegulationOfGeneExpression 835 845	repression
+T1097258	PositiveRegulationOfGeneExpression 858 868	activation
+T1097259	RegulationOfGeneExpression 919 928	modulated
+T1097260	RegulationOfGeneExpression 1097 1105	mediated
+T1097261	NegativeRegulationOfGeneExpression 1106 1116	repression
+T1097262	Increase 1309 1317	presence
+T1097263	PositiveRegulationOfGeneExpression 1436 1446	activation
+T1097264	GeneExpression 1450 1460	expression
+T1097265	PositiveRegulationOfGeneExpression 1480 1487	require
+E1	RegulationOfGeneExpression: Cause:T1317210 Theme:T1317211
+E2	RegulationOfGeneExpression: Cause:T1317210 Theme:T1317212
+T1207238	Entity 1088 1096	Tyrosine
+E3	NegativeRegulationOfGeneExpression: Cause:T1207238 Theme:T1317224

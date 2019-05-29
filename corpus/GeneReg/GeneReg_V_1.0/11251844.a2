@@ -1,0 +1,53 @@
+T1091995	RegulationOfGeneExpression 18 26	controls
+T1091996	RegulationOfGeneExpression 52 62	regulation
+T1091997	RegulationOfGeneExpression 132 142	controlled
+T1091998	NegativeRegulationOfGeneExpression 154 164	repression
+T1091999	GeneExpression 166 176	Expression
+T1092000	PositiveRegulationOfGeneExpression 199 206	induced
+T1092001	RegulationOfGeneExpression 236 246	regulation
+T1092002	RegulationOfGeneExpression 271 278	control
+T1092003	GeneExpression 326 336	expression
+T1092004	PositiveRegulationOfGeneExpression 384 391	induced
+T1092005	Increase 399 407	presence
+T1092006	PositiveRegulationOfGeneExpression 628 636	activate
+T1092007	GeneExpression 641 651	expression
+T1092008	TranscriptionOfGene 717 730	transcription
+T1092009	PositiveRegulationOfGeneExpression 795 804	dependent
+T1092010	TranscriptionOfGene 805 818	transcription
+T1092011	PositiveRegulationOfGeneExpression 887 896	dependent
+T1092012	TranscriptionOfGene 897 910	transcription
+T1092013	PositiveRegulationOfGeneExpression 1010 1019	activated
+T1092014	TranscriptionOfGene 1020 1033	transcription
+T1092015	TranscriptionOfGene 1224 1237	transcription
+T1092016	PositiveRegulationOfGeneExpression 1307 1317	activation
+T1092017	PositiveRegulationOfGeneExpression 1354 1363	dependent
+T1092018	TranscriptionOfGene 1364 1377	transcription
+T1092019	PositiveRegulationOfGeneExpression 1730 1739	activates
+T1092020	TranscriptionOfGene 1740 1753	transcription
+T1092021	TranscriptionOfGene 1907 1920	transcription
+T1092022	TranscriptionOfGene 1977 1990	transcription
+T1092023	PositiveRegulationOfGeneExpression 2092 2101	dependent
+T1092024	TranscriptionOfGene 2102 2115	transcription
+T1092025	TranscriptionOfGene 2171 2184	transcription
+T1092026	RegulationOfGeneExpression 2199 2209	influenced
+T1092027	RegulationOfGeneExpression 2250 2260	regulation
+T1092028	GeneticModification 2268 2274	mutant
+T1092029	RegulationOfGeneExpression 2359 2365	govern
+T1092030	TranscriptionOfGene 2376 2389	transcription
+T1092031	PositiveRegulationOfGeneExpression 2390 2400	activation
+T1201988	Entity 27 36	anaerobic
+E1	RegulationOfGeneExpression: Cause:T1201988 Theme:T1311950
+E2	NegativeRegulationOfGeneExpression: Cause:T1311952 Theme:T1311951
+E3	RegulationOfGeneExpression: Cause:T1311955 Theme:T1311953
+E4	RegulationOfGeneExpression: Cause:T1311954 Theme:T1311953
+T1201989	Entity 207 220	anaerobically
+E5	PositiveRegulationOfGeneExpression: Cause:T1201989 Theme:T1311953
+T1201990	Entity 411 418	glucose
+E6	PositiveRegulationOfGeneExpression: Cause:T1201990 Theme:T1311956
+E7	PositiveRegulationOfGeneExpression: Cause:T1311961 Theme:T1311962
+E8	PositiveRegulationOfGeneExpression: Cause:T1311975 Theme:T1311976
+T1201993	Entity 2240 2249	anaerobic
+E9	RegulationOfGeneExpression: Cause:T1201993 Theme:T1311983
+E10	RegulationOfGeneExpression: Cause:T1311985 Theme:T1311984
+E11	PositiveRegulationOfGeneExpression: Cause:T1311987 Theme:T1311984
+E12	RegulationOfGeneExpression: Cause:T1311986 Theme:T1311984

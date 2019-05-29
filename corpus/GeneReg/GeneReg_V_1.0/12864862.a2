@@ -1,0 +1,20 @@
+T1094152	NegativeRegulationOfGeneExpression 35 55	negatively regulates
+T1094153	GeneExpression 126 135	synthesis
+T1094154	GeneExpression 185 194	expressed
+T1094155	PositiveRegulationOfGeneExpression 283 291	required
+T1094156	GeneExpression 300 310	expression
+T1094157	RegulationOfGeneExpression 358 368	controlled
+T1094158	NegativeRegulationOfGeneExpression 501 521	negatively regulated
+T1094159	RegulationOfGeneExpression 569 579	regulation
+T1094160	PositiveRegulationOfGeneExpression 707 715	required
+T1094161	RegulationOfGeneExpression 724 734	regulation
+T1094162	GeneticModification 858 866	mutation
+E1	NegativeRegulationOfGeneExpression: Cause:T1314126 Theme:T1314127
+E2	PositiveRegulationOfGeneExpression: Cause:T1314129 Theme:T1314130
+E3	RegulationOfGeneExpression: Cause:T1314136 Theme:T1314132
+E4	RegulationOfGeneExpression: Cause:T1314135 Theme:T1314132
+E5	RegulationOfGeneExpression: Cause:T1314133 Theme:T1314132
+E6	RegulationOfGeneExpression: Cause:T1314134 Theme:T1314132
+E7	RegulationOfGeneExpression: Cause:T1314137 Theme:T1314132
+E8	RegulationOfGeneExpression: Cause:T1314138 Theme:T1314132
+E9	NegativeRegulationOfGeneExpression: Cause:T1314141 Theme:T1314139

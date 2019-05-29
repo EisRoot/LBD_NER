@@ -1,0 +1,10 @@
+T1097808	PositiveRegulationOfGeneExpression 57 76	positive regulatory
+T1097809	PositiveRegulationOfGeneExpression 219 228	activator
+T1097810	PositiveRegulationOfGeneExpression 339 346	induces
+T1097811	GeneExpression 347 357	expression
+T1097812	PositiveRegulationOfGeneExpression 456 475	positive regulatory
+T1097813	PositiveRegulationOfGeneExpression 849 858	activator
+E1	PositiveRegulationOfGeneExpression: Cause:T1317790 Theme:T1317791
+T1207805	Entity 309 338	low dose of hydrogen peroxide
+E2	PositiveRegulationOfGeneExpression: Cause:T1207805 Theme:T1317793
+E3	PositiveRegulationOfGeneExpression: Cause:T1317794 Theme:T1317795

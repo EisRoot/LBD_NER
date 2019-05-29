@@ -1,0 +1,49 @@
+T1093281	TranscriptionOfGene 69 84	transcriptional
+T1093282	PositiveRegulationOfGeneExpression 85 94	activator
+T1093283	TranscriptionOfGene 155 168	transcription
+T1093284	PositiveRegulationOfGeneExpression 169 179	activation
+T1093285	TranscriptionOfGene 200 215	transcriptional
+T1093286	PositiveRegulationOfGeneExpression 216 225	activator
+T1093287	PositiveRegulationOfGeneExpression 316 325	activates
+T1093288	TranscriptionOfGene 326 339	transcription
+T1093289	TranscriptionOfGene 432 445	transcription
+T1093290	RegulationOfGeneExpression 446 456	regulators
+T1093291	GeneticModification 834 841	mutants
+T1093292	GeneticModification 868 881	substitutions
+T1093293	GeneticModification 916 922	mutant
+T1093294	GeneticModification 1031 1040	mutations
+T1093295	GeneticModification 1194 1207	substitutions
+T1093296	TranscriptionOfGene 1370 1383	transcription
+T1093297	PositiveRegulationOfGeneExpression 1384 1394	activation
+T1093298	GeneticModification 1568 1577	mutations
+T1093299	GeneticModification 1624 1636	Substitution
+T1093300	TranscriptionOfGene 1926 1939	transcription
+T1093301	PositiveRegulationOfGeneExpression 1940 1950	activation
+T1093302	NegativeRegulationOfGeneExpression 1956 1963	reduced
+T1093303	GeneticModification 1967 1979	substitution
+T1093304	GeneticModification 2116 2122	Mutant
+T1093305	GeneticModification 2161 2167	mutant
+T1093306	TranscriptionOfGene 2252 2265	transcription
+T1093307	PositiveRegulationOfGeneExpression 2266 2276	activation
+T1093308	RegulationOfGeneExpression 2289 2298	dependent
+T1093309	PositiveRegulationOfGeneExpression 2362 2370	activate
+T1093310	TranscriptionOfGene 2371 2384	transcription
+T1093311	GeneticModification 2425 2438	substitutions
+T1093312	PositiveRegulationOfGeneExpression 2702 2710	required
+T1093313	TranscriptionOfGene 2715 2728	transcription
+T1093314	PositiveRegulationOfGeneExpression 2729 2739	activation
+T1093315	RegulationOfGeneExpression 2774 2783	dependent
+T1093316	GeneticModification 2799 2806	Mutants
+T1093317	GeneticModification 2993 3000	mutants
+T1093318	NegativeRegulationOfGeneExpression 3036 3045	defective
+T1093319	PositiveRegulationOfGeneExpression 3049 3059	activation
+T1093320	GeneticModification 3120 3127	mutants
+T1093321	NegativeRegulationOfGeneExpression 3168 3177	defective
+T1093322	TranscriptionOfGene 3181 3194	transcription
+T1093323	PositiveRegulationOfGeneExpression 3195 3205	activation
+T1093324	GeneticModification 3243 3250	mutants
+T1093325	TranscriptionOfGene 3383 3396	transcription
+E1	PositiveRegulationOfGeneExpression: Cause:T1313225 Theme:T1313226
+E2	PositiveRegulationOfGeneExpression: Cause:T1313227 Theme:T1313228
+E3	PositiveRegulationOfGeneExpression: Cause:T1313247 Theme:T1313248
+E4	PositiveRegulationOfGeneExpression: Cause:T1313251 Theme:T1313250

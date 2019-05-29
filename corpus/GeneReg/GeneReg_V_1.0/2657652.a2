@@ -1,0 +1,17 @@
+T1098061	RegulationOfGeneExpression 53 63	regulators
+T1098062	RegulationOfGeneExpression 140 150	regulatory
+T1098063	TranscriptionOfGene 416 427	transcribed
+T1098064	TranscriptionOfGene 503 516	Transcription
+T1098065	PositiveRegulationOfGeneExpression 549 556	induced
+T1098066	TranscriptionOfGene 596 609	transcription
+T1098067	TranscriptionOfGene 665 676	transcribed
+T1098068	PositiveRegulationOfGeneExpression 699 706	induced
+T1098069	RegulationOfGeneExpression 831 841	regulatory
+T1098070	TranscriptionOfGene 1173 1188	transcriptional
+T1098071	PositiveRegulationOfGeneExpression 1189 1198	activator
+T1098072	RegulationOfGeneExpression 1331 1341	regulatory
+T1098073	RegulationOfGeneExpression 1390 1400	regulatory
+T1208053	Entity 560 567	nitrate
+E1	PositiveRegulationOfGeneExpression: Cause:T1208053 Theme:T1318022
+T1208054	Entity 710 717	nitrate
+E2	PositiveRegulationOfGeneExpression: Cause:T1208054 Theme:T1318023

@@ -1,0 +1,7 @@
+T1091920	GeneticModification 23 32	defective
+T1091921	GeneticModification 132 133	-
+T1091922	GeneExpression 332 342	expression
+T1091923	NegativeRegulationOfGeneExpression 361 371	repression
+T1091924	RegulationOfGeneExpression 403 412	dependent
+T1201918	Entity 353 360	glucose
+E1	NegativeRegulationOfGeneExpression: Cause:T1201918 Theme:T1311916

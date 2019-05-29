@@ -1,0 +1,16 @@
+T1096706	PositiveRegulationOfGeneExpression 8 22	overexpression
+T1096707	GeneticModification 40 46	mutant
+T1096708	GeneticModification 396 405	mutations
+T1096709	GeneExpression 704 714	expression
+T1096710	NegativeRegulationOfGeneExpression 751 759	inhibits
+T1096711	GeneExpression 760 791	protein, RNA, and DNA synthesis
+T1096712	TranscriptionOfGene 769 791	RNA, and DNA synthesis
+T1096713	RegulationOfGeneExpression 855 861	effect
+T1096714	GeneExpression 865 882	protein synthesis
+T1096715	GeneExpression 932 942	expression
+T1096716	GeneExpression 1174 1184	expression
+T1096717	GeneExpression 1234 1244	expression
+T1096718	GeneticModification 1252 1258	mutant
+T1096719	NegativeRegulationOfGeneExpression 1305 1312	inhibit
+T1096720	GeneExpression 1313 1330	protein synthesis
+T1096721	GeneExpression 1569 1579	expression

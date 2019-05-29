@@ -1,0 +1,20 @@
+T109782	NegativeRegulationOfGeneExpression 0 10	Repression
+T109783	PositiveRegulationOfGeneExpression 15 25	activation
+T109784	Increase 214 222	presence
+T109785	GeneticModification 421 427	mutant
+T109786	GeneticModification 490 498	mutation
+T109787	GeneticModification 704 711	mutated
+T109788	GeneticModification 974 981	mutated
+T109789	GeneticModification 1012 1020	mutation
+T109790	RegulationOfGeneExpression 1269 1307	function as transcriptional regulators
+T109791	TranscriptionOfGene 1281 1296	transcriptional
+T109792	PositiveRegulationOfGeneExpression 1349 1358	activates
+T109793	Increase 1486 1494	presence
+T109794	NegativeRegulationOfGeneExpression 1515 1523	inhibits
+T109795	GeneExpression 1532 1541	synthesis
+E1	NegativeRegulationOfGeneExpression: Cause:T131755 Theme:T131754
+E2	PositiveRegulationOfGeneExpression: Cause:T131755 Theme:T131754
+E3	PositiveRegulationOfGeneExpression: Cause:T131765 Theme:T131766
+T120781	Entity 1498 1508	L-arginine
+E4	NegativeRegulationOfGeneExpression: Cause:T120781 Theme:T131768
+E5	NegativeRegulationOfGeneExpression: Cause:T131767 Theme:T131768

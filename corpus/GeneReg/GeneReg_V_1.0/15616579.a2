@@ -1,0 +1,17 @@
+T1095684	RegulationOfGeneExpression 41 49	controls
+T1095685	GeneExpression 50 65	gene expression
+T1095686	TranscriptionOfGene 641 654	transcription
+T1095687	PositiveRegulationOfGeneExpression 655 664	activator
+T1095688	PositiveRegulationOfGeneExpression 727 737	stimulates
+T1095689	TranscriptionOfGene 738 751	transcription
+T1095690	NegativeRegulationOfGeneExpression 801 814	autorepresses
+T1095691	TranscriptionOfGene 820 833	transcription
+T1095692	NegativeRegulationOfGeneExpression 915 966	act antagonistically as coactivator and corepressor
+T1095693	PositiveRegulationOfGeneExpression 915 950	act antagonistically as coactivator
+T1095694	TranscriptionOfGene 974 987	transcription
+T1095695	PositiveRegulationOfGeneExpression 988 997	activator
+T1095696	Increase 1066 1074	presence
+T1095697	Decrease 1174 1181	absence
+T1205677	Entity 780 787	sigma70
+E1	PositiveRegulationOfGeneExpression: Cause:T1205677 Theme:T1315660
+E2	NegativeRegulationOfGeneExpression: Cause:T1315661 Theme:T1315662

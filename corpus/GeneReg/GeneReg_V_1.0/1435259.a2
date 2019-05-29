@@ -1,0 +1,17 @@
+T1094634	TranscriptionOfGene 0 15	Transcriptional
+T1094635	RegulationOfGeneExpression 16 23	control
+T1094636	GeneExpression 627 636	synthesis
+T1094637	TranscriptionOfGene 708 719	transcribed
+T1094638	RegulationOfGeneExpression 733 742	dependent
+T1094639	GeneExpression 801 811	expression
+T1094640	NegativeRegulationOfGeneExpression 829 838	repressed
+T1094641	PositiveRegulationOfGeneExpression 853 860	induced
+T1094642	GeneExpression 1031 1040	expressed
+T1094643	GeneticModification 1220 1227	lacking
+E1	RegulationOfGeneExpression: Cause:T1314614 Theme:T1314613
+E2	RegulationOfGeneExpression: Cause:T1314614 Theme:T1314615
+T1204633	Entity 868 884	anaerobic growth
+E3	PositiveRegulationOfGeneExpression: Cause:T1204633 Theme:T1314616
+T1204632	Entity 842 848	oxygen
+E4	NegativeRegulationOfGeneExpression: Cause:T1204632 Theme:T1314616
+E5	RegulationOfGeneExpression: Cause:T1314621 Theme:T1314622

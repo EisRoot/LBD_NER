@@ -1,0 +1,57 @@
+T10910794	PositiveRegulationOfGeneExpression 0 14	Autoactivation
+T10910795	TranscriptionOfGene 79 94	transcriptional
+T10910796	PositiveRegulationOfGeneExpression 95 104	activator
+T10910797	TranscriptionOfGene 126 141	Transcriptional
+T10910798	PositiveRegulationOfGeneExpression 142 152	activation
+T10910799	PositiveRegulationOfGeneExpression 238 247	inducible
+T10910800	RegulationOfGeneExpression 378 385	effects
+T10910801	TranscriptionOfGene 406 419	transcription
+T10910802	TranscriptionOfGene 491 504	transcription
+T10910803	GeneExpression 555 566	synthesized
+T10910804	PositiveRegulationOfGeneExpression 629 639	stimulated
+T10910805	TranscriptionOfGene 644 657	transcription
+T10910806	GeneticModification 861 869	Deletion
+T10910807	NegativeRegulationOfGeneExpression 919 928	abolished
+T10910808	PositiveRegulationOfGeneExpression 933 944	stimulatory
+T10910809	TranscriptionOfGene 973 986	transcription
+T10910810	NegativeRegulationOfGeneExpression 1001 1008	reduced
+T10910811	GeneExpression 1020 1029	synthesis
+T10910812	GeneticModification 1052 1060	Deletion
+T10910813	NegativeRegulationOfGeneExpression 1098 1105	reduced
+T10910814	TranscriptionOfGene 1142 1157	transcriptional
+T10910815	PositiveRegulationOfGeneExpression 1158 1168	activation
+T10910816	NegativeRegulationOfGeneExpression 1260 1269	repressor
+T10910817	GeneticModification 1418 1426	deletion
+T10910818	GeneticModification 1436 1444	deletion
+T10910819	PositiveRegulationOfGeneExpression 1499 1509	stimulates
+T10910820	TranscriptionOfGene 1514 1527	transcription
+T10910821	PositiveRegulationOfGeneExpression 1558 1568	stimulates
+T10910822	TranscriptionOfGene 1573 1586	transcription
+T10910823	NegativeRegulationOfGeneExpression 1595 1607	antagonizing
+T10910824	TranscriptionOfGene 1656 1669	transcription
+T10910825	NegativeRegulationOfGeneExpression 1694 1707	autorepressed
+T10910826	PositiveRegulationOfGeneExpression 1720 1733	autoactivated
+T10910827	PositiveRegulationOfGeneExpression 1769 1778	activated
+E1	PositiveRegulationOfGeneExpression: Cause:T13110749 Theme:T13110748
+E2	PositiveRegulationOfGeneExpression: Cause:T13110752 Theme:T13110750
+E3	PositiveRegulationOfGeneExpression: Cause:T13110753 Theme:T13110750
+E4	PositiveRegulationOfGeneExpression: Cause:T13110753 Theme:T13110751
+E5	PositiveRegulationOfGeneExpression: Cause:T13110752 Theme:T13110751
+E6	RegulationOfGeneExpression: Cause:T13110755 Theme:T13110756
+E7	RegulationOfGeneExpression: Cause:T13110754 Theme:T13110756
+E8	PositiveRegulationOfGeneExpression: Cause:T13110760 Theme:T13110763
+E9	PositiveRegulationOfGeneExpression: Cause:T13110762 Theme:T13110763
+E10	PositiveRegulationOfGeneExpression: Cause:T13110767 Theme:T13110766
+E11	PositiveRegulationOfGeneExpression: Cause:T13110768 Theme:T13110766
+E12	NegativeRegulationOfGeneExpression: Cause:T13110774 Theme:T13110773
+E13	PositiveRegulationOfGeneExpression: Cause:T13110780 Theme:T13110779
+T12010792	Entity 1490 1498	paraquat
+E14	PositiveRegulationOfGeneExpression: Cause:T12010792 Theme:T13110779
+E15	NegativeRegulationOfGeneExpression: Cause:T13110782 Theme:T13110781
+T12010793	Entity 1547 1557	salicylate
+E16	PositiveRegulationOfGeneExpression: Cause:T12010793 Theme:T13110781
+E17	RegulationOfGeneExpression: Cause:T13110784 Theme:T13110781
+E18	NegativeRegulationOfGeneExpression: Cause:T12010793 Theme:T13110783
+E19	NegativeRegulationOfGeneExpression: Cause:T13110786 Theme:T13110785
+E20	PositiveRegulationOfGeneExpression: Cause:T13110788 Theme:T13110785
+E21	PositiveRegulationOfGeneExpression: Cause:T13110787 Theme:T13110785

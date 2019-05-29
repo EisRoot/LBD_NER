@@ -1,0 +1,17 @@
+T109901	TranscriptionOfGene 161 176	transcriptional
+T109902	RegulationOfGeneExpression 177 187	regulators
+T109903	PositiveRegulationOfGeneExpression 256 266	activation
+T109904	GeneExpression 278 290	biosynthesis
+T109905	GeneExpression 484 496	biosynthesis
+T109906	GeneExpression 584 596	biosynthesis
+T109907	RegulationOfGeneExpression 724 738	autoregulation
+T109908	RegulationOfGeneExpression 744 751	depends
+T109909	TranscriptionOfGene 1090 1105	transcriptional
+T109910	PositiveRegulationOfGeneExpression 1153 1162	induction
+T109911	RegulationOfGeneExpression 1170 1179	regulated
+T109912	GeneticModification 1205 1214	mutations
+T109913	NegativeRegulationOfGeneExpression 1360 1369	reduction
+T109914	GeneExpression 1387 1397	expression
+E1	PositiveRegulationOfGeneExpression: Cause:T131876 Theme:T131877
+E2	PositiveRegulationOfGeneExpression: Cause:T131875 Theme:T131877
+E3	RegulationOfGeneExpression: Cause:T131887 Theme:T131888

@@ -1,0 +1,9 @@
+T109711	TranscriptionOfGene 47 62	transcriptional
+T109712	PositiveRegulationOfGeneExpression 63 73	activation
+T109713	TranscriptionOfGene 309 324	transcriptional
+T109714	PositiveRegulationOfGeneExpression 325 335	activators
+T109715	TranscriptionOfGene 1303 1318	transcriptional
+T109716	PositiveRegulationOfGeneExpression 1319 1329	activation
+E1	PositiveRegulationOfGeneExpression: Cause:T131701 Theme:T131698
+E2	PositiveRegulationOfGeneExpression: Cause:T131702 Theme:T131699
+E3	PositiveRegulationOfGeneExpression: Cause:T131703 Theme:T131700

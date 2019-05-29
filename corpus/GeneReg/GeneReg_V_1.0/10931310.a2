@@ -1,0 +1,17 @@
+T1091301	RegulationOfGeneExpression 1152 1162	controlled
+T1091302	NegativeRegulationOfGeneExpression 1168 1177	repressor
+T1091303	RegulationOfGeneExpression 1236 1244	responds
+T1091304	GeneticModification 1319 1327	deletion
+T1091305	GeneticModification 1374 1378	lack
+T1091306	GeneticModification 1525 1532	deleted
+T1091307	GeneticModification 1689 1697	deletion
+T1091308	GeneticModification 1719 1728	mutations
+E1	NegativeRegulationOfGeneExpression: Cause:T1311279 Theme:T1311274
+E2	NegativeRegulationOfGeneExpression: Cause:T1311279 Theme:T1311275
+E3	NegativeRegulationOfGeneExpression: Cause:T1311279 Theme:T1311276
+E4	NegativeRegulationOfGeneExpression: Cause:T1311279 Theme:T1311277
+E5	NegativeRegulationOfGeneExpression: Cause:T1311279 Theme:T1311278
+T1201299	Entity 1248 1254	GalNAc
+E6	RegulationOfGeneExpression: Cause:T1201299 Theme:T1311283
+T1201300	Entity 1259 1263	GalN
+E7	RegulationOfGeneExpression: Cause:T1201300 Theme:T1311283

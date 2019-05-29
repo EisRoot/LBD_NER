@@ -1,0 +1,75 @@
+T10910522	GeneExpression 31 41	expression
+T10910523	TranscriptionOfGene 119 134	transcriptional
+T10910524	PositiveRegulationOfGeneExpression 135 144	activator
+T10910525	GeneExpression 170 180	expression
+T10910526	TranscriptionOfGene 185 200	transcriptional
+T10910527	RegulationOfGeneExpression 201 211	regulation
+T10910528	PositiveRegulationOfGeneExpression 475 484	activated
+T10910529	TranscriptionOfGene 485 498	transcription
+T10910530	GeneExpression 600 610	expression
+T10910531	RegulationOfGeneExpression 638 646	affected
+T10910532	Increase 687 695	presence
+T10910533	NegativeRegulationOfGeneExpression 743 752	repressed
+T10910534	GeneExpression 757 767	expression
+T10910535	NegativeRegulationOfGeneExpression 804 814	repression
+T10910536	RegulationOfGeneExpression 829 838	dependent
+T10910537	PositiveRegulationOfGeneExpression 850 860	high level
+T10910538	GeneExpression 864 874	expression
+T10910539	PositiveRegulationOfGeneExpression 1008 1017	induction
+T10910540	RegulationOfGeneExpression 1131 1141	regulation
+T10910541	Decrease 1320 1328	limiting
+T10910542	GeneExpression 1371 1381	expression
+T10910543	PositiveRegulationOfGeneExpression 1402 1409	induced
+T10910544	PositiveRegulationOfGeneExpression 1458 1467	induction
+T10910545	RegulationOfGeneExpression 1505 1514	dependent
+T10910546	GeneExpression 1528 1538	expression
+T10910547	RegulationOfGeneExpression 1563 1571	affected
+T10910548	RegulationOfGeneExpression 1707 1717	regulation
+T10910549	RegulationOfGeneExpression 1765 1775	controlled
+T10910550	GeneExpression 1878 1888	expression
+T10910551	PositiveRegulationOfGeneExpression 1958 1965	induced
+T10910552	Decrease 1979 1989	starvation
+T10910553	Decrease 2051 2059	limiting
+T10910554	PositiveRegulationOfGeneExpression 2092 2101	induction
+T10910555	RegulationOfGeneExpression 2115 2124	dependent
+T10910556	RegulationOfGeneExpression 2183 2192	influence
+T10910557	TranscriptionOfGene 2200 2213	transcription
+T10910558	RegulationOfGeneExpression 2273 2279	effect
+T10910559	PositiveRegulationOfGeneExpression 2287 2296	induction
+T10910560	Decrease 2310 2320	starvation
+E1	PositiveRegulationOfGeneExpression: Cause:T13110473 Theme:T13110475
+E2	PositiveRegulationOfGeneExpression: Cause:T13110474 Theme:T13110475
+T12010505	Entity 540 556	stationary phase
+E3	PositiveRegulationOfGeneExpression: Cause:T12010505 Theme:T13110475
+T12010506	Entity 567 594	anaerobic growth conditions
+E4	PositiveRegulationOfGeneExpression: Cause:T12010506 Theme:T13110475
+T12010507	Entity 654 681	anaerobic energy metabolism
+E5	RegulationOfGeneExpression: Cause:T12010507 Theme:T13110476
+T12010508	Entity 722 729	nitrate
+E6	NegativeRegulationOfGeneExpression: Cause:T12010508 Theme:T13110477
+T12010509	Entity 734 742	fumarate
+E7	NegativeRegulationOfGeneExpression: Cause:T12010509 Theme:T13110477
+T12010511	Entity 905 945	glucose medium supplemented with formate
+E8	PositiveRegulationOfGeneExpression: Cause:T12010511 Theme:T13110479
+E9	PositiveRegulationOfGeneExpression: Cause:T13110488 Theme:T13110487
+E10	PositiveRegulationOfGeneExpression: Cause:T13110490 Theme:T13110487
+T12010512	Entity 1425 1437	anaerobiosis
+E11	PositiveRegulationOfGeneExpression: Cause:T12010512 Theme:T13110487
+E12	PositiveRegulationOfGeneExpression: Cause:T13110489 Theme:T13110487
+T12010513	Entity 1593 1620	anaerobic energy metabolism
+E13	RegulationOfGeneExpression: Cause:T12010513 Theme:T13110492
+T12010514	Entity 1697 1706	anaerobic
+E14	RegulationOfGeneExpression: Cause:T12010514 Theme:T13110494
+E15	RegulationOfGeneExpression: Cause:T13110496 Theme:T13110495
+T12010515	Entity 1939 1950	growth rate
+E16	NegativeRegulationOfGeneExpression: Cause:T12010515 Theme:T13110500
+T12010517	Entity 2019 2035	stationary phase
+E17	PositiveRegulationOfGeneExpression: Cause:T12010517 Theme:T13110500
+T12010516	Entity 1969 1978	phosphate
+E18	NegativeRegulationOfGeneExpression: Cause:T12010516 Theme:T13110500
+T12010520	Entity 2249 2265	stationary phase
+E19	RegulationOfGeneExpression: Cause:T12010520 Theme:T13110503
+T12010519	Entity 2163 2170	sigma S
+E20	RegulationOfGeneExpression: Cause:T12010519 Theme:T13110503
+T12010521	Entity 2300 2309	phosphate
+E21	PositiveRegulationOfGeneExpression: Cause:T12010521 Theme:T13110503

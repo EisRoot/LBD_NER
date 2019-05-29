@@ -1,0 +1,23 @@
+T1095859	PositiveRegulationOfGeneExpression 31 47	positive control
+T1095860	TranscriptionOfGene 51 64	transcription
+T1095861	GeneExpression 256 266	expression
+T1095862	RegulationOfGeneExpression 320 329	regulated
+T1095863	PositiveRegulationOfGeneExpression 379 387	required
+T1095864	GeneExpression 392 402	expression
+T1095865	TranscriptionOfGene 486 499	transcription
+T1095866	RegulationOfGeneExpression 500 510	regulators
+T1095867	TranscriptionOfGene 757 772	transcriptional
+T1095868	PositiveRegulationOfGeneExpression 773 783	activators
+T1095869	PositiveRegulationOfGeneExpression 868 874	needed
+T1095870	GeneExpression 884 894	expression
+T1095871	TranscriptionOfGene 1065 1078	transcription
+T1095872	TranscriptionOfGene 1162 1175	transcription
+T1095873	GeneticModification 1491 1499	Deletion
+T1095874	GeneticModification 1524 1533	mutations
+T1095875	PositiveRegulationOfGeneExpression 1660 1668	increase
+T1095876	TranscriptionOfGene 1789 1804	transcriptional
+T1095877	PositiveRegulationOfGeneExpression 1805 1814	activator
+T1095878	GeneticModification 1837 1843	mutant
+E1	PositiveRegulationOfGeneExpression: Cause:T1315846 Theme:T1315847
+T1205857	Entity 1588 1598	cyclic AMP
+E2	PositiveRegulationOfGeneExpression: Cause:T1205857 Theme:T1315847

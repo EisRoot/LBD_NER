@@ -1,0 +1,23 @@
+T1097189	NegativeRegulationOfGeneExpression 146 156	abolishing
+T1097190	PositiveRegulationOfGeneExpression 172 181	induction
+T1097191	GeneticModification 205 212	Mutants
+T1097192	GeneExpression 324 331	express
+T1097193	GeneticModification 365 373	mutation
+T1097194	NegativeRegulationOfGeneExpression 382 391	abolishes
+T1097195	GeneExpression 409 419	expression
+T1097196	NegativeRegulationOfGeneExpression 486 495	repressor
+T1097197	NegativeRegulationOfGeneExpression 567 576	repressor
+T1097198	RegulationOfGeneExpression 685 694	regulates
+T1097199	GeneExpression 1050 1059	expressed
+T1097200	GeneticModification 1100 1106	mutant
+T1097201	GeneticModification 1138 1143	delta
+T1097202	GeneticModification 1880 1886	mutant
+T1097203	NegativeRegulationOfGeneExpression 1941 1948	abolish
+T1097204	GeneticModification 1995 2001	mutant
+T1097205	PositiveRegulationOfGeneExpression 2007 2021	overexpression
+T1097206	NegativeRegulationOfGeneExpression 2103 2113	interferes
+T1097207	GeneExpression 2186 2195	expresses
+T1097208	PositiveRegulationOfGeneExpression 2284 2291	inducer
+E1	RegulationOfGeneExpression: Cause:T1317156 Theme:T1317157
+E2	RegulationOfGeneExpression: Cause:T1317156 Theme:T1317159
+E3	NegativeRegulationOfGeneExpression: Cause:T1317179 Theme:T1317180

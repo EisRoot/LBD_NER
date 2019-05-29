@@ -1,0 +1,7 @@
+T1091745	GeneExpression 21 31	expression
+T1091746	GeneticModification 726 735	disrupted
+T1091747	GeneticModification 736 742	mutant
+T1091748	RegulationOfGeneExpression 801 809	mediated
+T1091749	RegulationOfGeneExpression 810 817	control
+T1091750	GeneExpression 843 858	gene expression
+E1	RegulationOfGeneExpression: Cause:T1311739 Theme:T1311740

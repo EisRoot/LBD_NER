@@ -1,0 +1,12 @@
+T1097873	PositiveRegulationOfGeneExpression 0 14	Overexpression
+T1097874	GeneticModification 33 44	mutagenesis
+T1097875	GeneExpression 346 355	expressed
+T1097876	GeneExpression 390 399	expresses
+T1097877	GeneticModification 566 577	mutagenesis
+T1097878	GeneExpression 594 604	expression
+T1097879	GeneExpression 894 904	expression
+T1097880	GeneticModification 1233 1244	mutagenesis
+T1097881	NegativeRegulationOfGeneExpression 2287 2296	repressor
+T1097882	TranscriptionOfGene 2379 2394	transcriptional
+T1097883	RegulationOfGeneExpression 2395 2405	regulators
+E1	NegativeRegulationOfGeneExpression: Cause:T1317864 Theme:T1317865

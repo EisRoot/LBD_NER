@@ -1,0 +1,22 @@
+T10910316	TranscriptionOfGene 98 113	transcriptional
+T10910317	PositiveRegulationOfGeneExpression 114 124	activation
+T10910318	TranscriptionOfGene 212 225	transcription
+T10910319	PositiveRegulationOfGeneExpression 226 236	activation
+T10910320	GeneticModification 364 375	truncations
+T10910321	GeneticModification 382 405	amino acid substitution
+T10910322	GeneticModification 407 413	Mutant
+T10910323	RegulationOfGeneExpression 440 447	respond
+T10910324	TranscriptionOfGene 451 464	transcription
+T10910325	PositiveRegulationOfGeneExpression 465 475	activation
+T10910326	RegulationOfGeneExpression 496 505	dependent
+T10910327	GeneticModification 664 670	mutant
+T10910328	PositiveRegulationOfGeneExpression 889 898	essential
+T10910329	TranscriptionOfGene 907 920	transcription
+T10910330	PositiveRegulationOfGeneExpression 921 931	activation
+T10910331	RegulationOfGeneExpression 944 953	dependent
+T12010311	Entity 414 429	RNA polymerases
+E1	PositiveRegulationOfGeneExpression: Cause:T12010311 Theme:T13110298
+E2	PositiveRegulationOfGeneExpression: Cause:T13110297 Theme:T13110298
+T12010314	Entity 811 843	C-terminal contact site I region
+E3	PositiveRegulationOfGeneExpression: Cause:T12010314 Theme:T13110304
+E4	PositiveRegulationOfGeneExpression: Cause:T13110303 Theme:T13110304

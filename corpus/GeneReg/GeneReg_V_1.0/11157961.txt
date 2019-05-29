@@ -1,0 +1,2 @@
+Unexpected presence of defective glpR alleles in various strains of Escherichia coli. Alleles of glpR associated with the same GlpR(-) phenotype produce substitutions in different conserved portions of the glycerol 3-phosphate repressor which are not part of the helix-turn-helix motif. Analysis of the effects on growth and enzyme expression show that glucose repression of glycerol utilization is not dependent on a functional repressor.
+

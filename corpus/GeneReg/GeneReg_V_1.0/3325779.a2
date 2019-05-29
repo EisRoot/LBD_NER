@@ -1,0 +1,6 @@
+T1098409	RegulationOfGeneExpression 526 536	regulatory
+T1098410	TranscriptionOfGene 826 839	transcription
+T1098411	TranscriptionOfGene 949 960	transcribed
+T1098412	TranscriptionOfGene 991 1002	transcribed
+T1098413	PositiveRegulationOfGeneExpression 1043 1052	activates
+E1	PositiveRegulationOfGeneExpression: Cause:T1318406 Theme:T1318407

@@ -1,0 +1,29 @@
+T10911897	TranscriptionOfGene 31 46	transcriptional
+T10911898	PositiveRegulationOfGeneExpression 47 57	activation
+T10911899	PositiveRegulationOfGeneExpression 154 163	activator
+T10911900	TranscriptionOfGene 184 197	Transcription
+T10911901	PositiveRegulationOfGeneExpression 250 259	increases
+T10911902	PositiveRegulationOfGeneExpression 293 303	activators
+T10911903	RegulationOfGeneExpression 521 530	dependent
+T10911904	PositiveRegulationOfGeneExpression 531 541	activation
+T10911905	TranscriptionOfGene 607 620	transcription
+T10911906	PositiveRegulationOfGeneExpression 1132 1141	activated
+T10911907	PositiveRegulationOfGeneExpression 1275 1283	enhanced
+T10911908	GeneticModification 1392 1399	absence
+T10911909	GeneticModification 1432 1439	absence
+T10911910	NegativeRegulationOfGeneExpression 1483 1490	lowered
+T10911911	TranscriptionOfGene 1614 1629	transcriptional
+T10911912	PositiveRegulationOfGeneExpression 1630 1639	activator
+E1	PositiveRegulationOfGeneExpression: Cause:T13111856 Theme:T13111857
+E2	PositiveRegulationOfGeneExpression: Cause:T13111858 Theme:T13111857
+E3	PositiveRegulationOfGeneExpression: Cause:T13111859 Theme:T13111857
+E4	PositiveRegulationOfGeneExpression: Cause:T13111860 Theme:T13111857
+E5	PositiveRegulationOfGeneExpression: Cause:T13111864 Theme:T13111861
+E6	PositiveRegulationOfGeneExpression: Cause:T13111863 Theme:T13111861
+E7	PositiveRegulationOfGeneExpression: Cause:T13111862 Theme:T13111861
+E8	PositiveRegulationOfGeneExpression: Cause:T13111873 Theme:T13111875
+E9	PositiveRegulationOfGeneExpression: Cause:T13111874 Theme:T13111875
+E10	PositiveRegulationOfGeneExpression: Cause:T13111872 Theme:T13111875
+E11	PositiveRegulationOfGeneExpression: Cause:T13111880 Theme:T13111881
+E12	NegativeRegulationOfGeneExpression: Cause:T13111886 Theme:T13111887
+E13	PositiveRegulationOfGeneExpression: Cause:T13111889 Theme:T13111890

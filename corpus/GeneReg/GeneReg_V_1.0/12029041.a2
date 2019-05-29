@@ -1,0 +1,54 @@
+T1092961	TranscriptionOfGene 47 62	transcriptional
+T1092962	RegulationOfGeneExpression 73 84	coordinates
+T1092963	GeneExpression 135 145	expression
+T1092964	GeneExpression 187 197	Expression
+T1092965	PositiveRegulationOfGeneExpression 335 344	increased
+T1092966	PositiveRegulationOfGeneExpression 385 395	stimulated
+T1092967	Increase 403 411	addition
+T1092968	RegulationOfGeneExpression 502 510	mediated
+T1092969	GeneExpression 630 645	gene expression
+T1092970	NegativeRegulationOfGeneExpression 649 657	impaired
+T1092971	GeneticModification 668 677	defective
+T1092972	RegulationOfGeneExpression 739 746	control
+T1092973	NegativeRegulationOfGeneExpression 747 756	abrogates
+T1092974	RegulationOfGeneExpression 777 786	dependent
+T1092975	PositiveRegulationOfGeneExpression 787 796	induction
+T1092976	TranscriptionOfGene 1009 1022	transcription
+T1092977	TranscriptionOfGene 1183 1196	transcription
+T1092978	GeneticModification 1220 1229	mutations
+T1092979	GeneExpression 1378 1393	gene expression
+T1092980	GeneticModification 1417 1425	deletion
+T1092981	GeneExpression 1473 1483	expression
+T1092982	RegulationOfGeneExpression 1625 1634	dependent
+T1092983	GeneExpression 1640 1650	expression
+T1092984	RegulationOfGeneExpression 1758 1765	control
+T1092985	GeneExpression 1774 1789	gene expression
+T1092986	Decrease 1841 1849	limiting
+T1202945	Entity 163 172	molybdate
+E1	RegulationOfGeneExpression: Cause:T1202945 Theme:T1312912
+T1202944	Entity 151 158	nitrate
+E2	RegulationOfGeneExpression: Cause:T1202944 Theme:T1312912
+T1202941	Entity 4 13	molybdate
+E3	RegulationOfGeneExpression: Cause:T1202941 Theme:T1312912
+E4	RegulationOfGeneExpression: Cause:T1312911 Theme:T1312912
+T1202949	Entity 448 455	nitrite
+E5	PositiveRegulationOfGeneExpression: Cause:T1202949 Theme:T1312913
+T1202948	Entity 415 422	nitrate
+E6	PositiveRegulationOfGeneExpression: Cause:T1202948 Theme:T1312913
+T1202947	Entity 360 372	anaerobiosis
+E7	PositiveRegulationOfGeneExpression: Cause:T1202947 Theme:T1312913
+T1202951	Entity 686 695	molybdate
+E8	PositiveRegulationOfGeneExpression: Cause:T1202951 Theme:T1312920
+E9	PositiveRegulationOfGeneExpression: Cause:T1312921 Theme:T1312920
+E10	RegulationOfGeneExpression: Cause:T1312933 Theme:T1312932
+T1202957	Entity 1602 1609	nitrate
+E11	RegulationOfGeneExpression: Cause:T1202957 Theme:T1312934
+E12	RegulationOfGeneExpression: Cause:T1312936 Theme:T1312934
+E13	RegulationOfGeneExpression: Cause:T1312938 Theme:T1312934
+T1202958	Entity 1615 1624	molybdate
+E14	RegulationOfGeneExpression: Cause:T1202958 Theme:T1312934
+E15	RegulationOfGeneExpression: Cause:T1312935 Theme:T1312934
+E16	RegulationOfGeneExpression: Cause:T1312937 Theme:T1312934
+T1202959	Entity 1750 1757	nitrate
+E17	RegulationOfGeneExpression: Cause:T1202959 Theme:T1312940
+E18	RegulationOfGeneExpression: Cause:T1312939 Theme:T1312940

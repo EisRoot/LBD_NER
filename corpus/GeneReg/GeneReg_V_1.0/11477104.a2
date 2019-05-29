@@ -1,0 +1,6 @@
+T1092475	NegativeRegulationOfGeneExpression 515 524	repressor
+T1092476	NegativeRegulationOfGeneExpression 731 740	repressor
+T1092477	GeneticModification 856 863	mutants
+T1092478	GeneticModification 976 983	mutants
+T1092479	NegativeRegulationOfGeneExpression 1047 1057	repression
+T1092480	RegulationOfGeneExpression 1217 1231	autoregulation

@@ -1,0 +1,23 @@
+T1095812	TranscriptionOfGene 0 15	Transcriptional
+T1095813	RegulationOfGeneExpression 16 26	regulation
+T1095814	RegulationOfGeneExpression 534 544	regulation
+T1095815	GeneticModification 638 644	mutant
+T1095816	TranscriptionOfGene 665 678	Transcription
+T1095817	PositiveRegulationOfGeneExpression 705 712	induced
+T1095818	GeneticModification 751 757	mutant
+T1095819	NegativeRegulationOfGeneExpression 762 771	defective
+T1095820	GeneExpression 779 789	expression
+T1095821	PositiveRegulationOfGeneExpression 812 819	induced
+T1095822	TranscriptionOfGene 820 833	transcription
+T1095823	PositiveRegulationOfGeneExpression 860 869	activated
+T1095824	TranscriptionOfGene 1047 1060	Transcription
+T1095825	PositiveRegulationOfGeneExpression 1190 1203	overexpressed
+T1205807	Entity 720 736	anaerobic growth
+E1	PositiveRegulationOfGeneExpression: Cause:T1205807 Theme:T1315789
+E2	PositiveRegulationOfGeneExpression: Cause:T1315790 Theme:T1315791
+E3	PositiveRegulationOfGeneExpression: Cause:T1315793 Theme:T1315792
+T1205809	Entity 804 811	nitrite
+E4	PositiveRegulationOfGeneExpression: Cause:T1205809 Theme:T1315792
+T1205808	Entity 791 798	Nitrate
+E5	PositiveRegulationOfGeneExpression: Cause:T1205808 Theme:T1315792
+E6	PositiveRegulationOfGeneExpression: Cause:T1315794 Theme:T1315792

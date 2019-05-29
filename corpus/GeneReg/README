@@ -1,0 +1,54 @@
+
+GeneReg corpus, V_1.0
+
+- Contains 314 PubMed abstracts and their named entity, triggers and gene expression regulation relation
+  annotations.
+
+- For format details, please refer to the BioNLP 2009 Shared Task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+1. Description
+
+The GeneReg corpus consists of 314 Medline abstracts dealing with the regulation of gene expression in the model
+organism E. coli. The regulation of gene expression can be described as the process that modulates the frequency,
+rate or extent of gene expression. During gene expression, the coding sequence of a gene is converted into a mature
+gene product or products, namely proteins or RNA (taken from the definition of the Gene Ontology class Regulation
+of Gene Expression, GO:0010468). GeneReg provides three types of semantic annotations: named entities involved in 
+gene regulatory processes, such as transcription factors and genes, pairwise relations between regulators and regulated 
+genes, and event triggers (clue verbs) essential for the description of, e.g., gene expression and gene regulation events.
+For all three annotation levels, the annotation vocabulary was taken from the Gene Regulation Ontology (GRO) 
+(http://www.obofoundry.org/cgi-bin/detail.cgi?id=gene_regulation).
+
+
+2. Version
+
+1.0
+
+
+3. File Descriptions:
+
+*.txt	files contain the target text.
+*.a1	files contain standoff annotations for gene/proteins.
+*.a2	files contain standoff annotations for other named entities, trigger words and relations. 
+	Trigger words and relations are currently not interlinked.
+
+
+4. Authors, Publications
+
+Ekaterina Buyko, Elena Beisswanger and Udo Hahn. The GeneReg Corpus for Gene Expression Regulation Events - An Overview of the Corpus and its In-Domain and Out-of-Domain Interoperability. In Proceedings of the 
+7thInternational Conference on Language Resources and Evaluation (LREC 2010), May 2010.
+
+Ekaterina Buyko, Elena Beisswanger and Udo Hahn. Testing Different ACE-Style Feature Sets for the Extraction of Gene Regulation Relations from Medline Abstracts. Proceedings of the Third International Symposium on 
+Semantic Mining in Biomedicine (SMBM 2008) , September 2008
+
+
+5. Contact
+
+Ekaterina Buyko
+Jena University Language and Information Engineering (JULIE) Lab
+Friedrich-Schiller Universität Jena, Germany
+email: ekaterina.buyko@uni-jena.de
+URL:   http://www.julielab.de
+
+

@@ -1,0 +1,6 @@
+T1096311	NegativeRegulationOfGeneExpression 223 232	repressor
+T1096312	TranscriptionOfGene 449 460	transcribed
+T1096313	PositiveRegulationOfGeneExpression 509 518	activated
+T1096314	GeneticModification 526 535	insertion
+T1096315	NegativeRegulationOfGeneExpression 560 569	repressor
+E1	NegativeRegulationOfGeneExpression: Cause:T1316304 Theme:T1316303

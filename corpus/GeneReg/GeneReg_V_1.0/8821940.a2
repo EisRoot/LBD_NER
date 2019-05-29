@@ -1,0 +1,55 @@
+T10911150	NegativeRegulationOfGeneExpression 10 19	repressor
+T10911151	RegulationOfGeneExpression 33 43	modulating
+T10911152	RegulationOfGeneExpression 56 66	regulation
+T10911153	TranscriptionOfGene 225 238	transcription
+T10911154	PositiveRegulationOfGeneExpression 251 260	increased
+T10911155	RegulationOfGeneExpression 502 511	governing
+T10911156	RegulationOfGeneExpression 516 526	regulation
+T10911157	NegativeRegulationOfGeneExpression 590 599	repressor
+T10911158	PositiveRegulationOfGeneExpression 654 663	increased
+T10911159	TranscriptionOfGene 664 677	transcription
+T10911160	NegativeRegulationOfGeneExpression 694 701	absence
+T10911161	PositiveRegulationOfGeneExpression 755 764	increased
+T10911162	TranscriptionOfGene 769 782	transcription
+T10911163	PositiveRegulationOfGeneExpression 876 883	induced
+T10911164	TranscriptionOfGene 884 897	transcription
+T10911165	RegulationOfGeneExpression 920 928	mediated
+T10911166	RegulationOfGeneExpression 939 949	regulatory
+T10911167	RegulationOfGeneExpression 1033 1042	modulator
+T10911168	TranscriptionOfGene 1075 1088	transcription
+T10911169	PositiveRegulationOfGeneExpression 1117 1131	overexpression
+T10911170	RegulationOfGeneExpression 1197 1207	regulating
+T10911171	GeneExpression 1208 1223	gene expression
+T10911172	PositiveRegulationOfGeneExpression 1268 1281	up-regulation
+T10911173	GeneExpression 1291 1301	expression
+T10911174	RegulationOfGeneExpression 1354 1362	mediated
+T10911175	RegulationOfGeneExpression 1383 1393	regulators
+T10911176	PositiveRegulationOfGeneExpression 1426 1434	elevated
+T10911177	PositiveRegulationOfGeneExpression 1474 1482	increase
+T10911178	TranscriptionOfGene 1487 1500	transcription
+E1	RegulationOfGeneExpression: Cause:T13111116 Theme:T13111117
+T12011138	Entity 105 126	global stress signals
+E2	RegulationOfGeneExpression: Cause:T12011138 Theme:T13111117
+T12011140	Entity 299 309	4% ethanol
+E3	PositiveRegulationOfGeneExpression: Cause:T12011140 Theme:T13111119
+T12011141	Entity 311 321	0.5 M NaCl
+E4	PositiveRegulationOfGeneExpression: Cause:T12011141 Theme:T13111119
+T12011142	Entity 331 347	stationary phase
+E5	PositiveRegulationOfGeneExpression: Cause:T12011142 Theme:T13111119
+T12011139	Entity 267 292	general stress conditions
+E6	PositiveRegulationOfGeneExpression: Cause:T12011139 Theme:T13111119
+E7	NegativeRegulationOfGeneExpression: Cause:T13111122 Theme:T13111123
+T12011144	Entity 628 653	general stress conditions
+E8	PositiveRegulationOfGeneExpression: Cause:T12011144 Theme:T13111124
+T12011145	Entity 731 741	conditions
+E9	PositiveRegulationOfGeneExpression: Cause:T12011145 Theme:T13111127
+E10	PositiveRegulationOfGeneExpression: Cause:T12011144 Theme:T13111128
+T12011146	Entity 861 875	general-stress
+E11	PositiveRegulationOfGeneExpression: Cause:T12011146 Theme:T13111129
+E12	RegulationOfGeneExpression: Cause:T13111130 Theme:T13111131
+T12011148	Entity 1308 1333	general stress conditions
+E13	PositiveRegulationOfGeneExpression: Cause:T12011148 Theme:T13111133
+E14	RegulationOfGeneExpression: Cause:T13111135 Theme:T13111133
+E15	RegulationOfGeneExpression: Cause:T13111134 Theme:T13111133
+E16	PositiveRegulationOfGeneExpression: Cause:T13111135 Theme:T13111136
+E17	PositiveRegulationOfGeneExpression: Cause:T13111134 Theme:T13111136

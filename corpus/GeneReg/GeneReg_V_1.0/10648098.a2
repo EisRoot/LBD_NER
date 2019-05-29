@@ -1,0 +1,8 @@
+T109868	GeneExpression 634 644	Expression
+T109869	RegulationOfGeneExpression 666 676	controlled
+T109870	RegulationOfGeneExpression 687 697	responsive
+T109871	NegativeRegulationOfGeneExpression 698 707	repressor
+T109872	RegulationOfGeneExpression 773 782	regulator
+T120864	Entity 684 686	Ni
+E1	NegativeRegulationOfGeneExpression: Cause:T120864 Theme:T131850
+E2	NegativeRegulationOfGeneExpression: Cause:T131852 Theme:T131850

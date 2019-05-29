@@ -1,0 +1,37 @@
+T1098844	GeneExpression 0 10	Expression
+T1098845	RegulationOfGeneExpression 110 120	regulation
+T1098846	PositiveRegulationOfGeneExpression 125 133	requires
+T1098847	PositiveRegulationOfGeneExpression 146 155	activator
+T1098848	GeneticModification 193 200	mutants
+T1098849	GeneticModification 285 296	mutagenesis
+T1098850	GeneticModification 306 316	insertions
+T1098851	RegulationOfGeneExpression 1202 1212	regulatory
+T1098852	TranscriptionOfGene 1279 1290	transcribed
+T1098853	PositiveRegulationOfGeneExpression 1305 1314	essential
+T1098854	PositiveRegulationOfGeneExpression 1356 1365	activator
+T1098855	GeneExpression 1374 1384	expression
+T1098856	GeneExpression 1390 1400	expression
+T1098857	PositiveRegulationOfGeneExpression 1413 1420	induced
+T1098858	RegulationOfGeneExpression 1444 1452	affected
+T1098859	GeneExpression 1504 1514	expression
+T1098860	RegulationOfGeneExpression 1519 1532	autoregulated
+T1098861	GeneticModification 1549 1558	Mutations
+T1098862	RegulationOfGeneExpression 1624 1633	influence
+T1098863	GeneExpression 1641 1656	gene expression
+T1098864	GeneticModification 1835 1842	mutants
+T1098865	PositiveRegulationOfGeneExpression 1898 1906	required
+E1	RegulationOfGeneExpression: Cause:T1318788 Theme:T1318786
+E2	PositiveRegulationOfGeneExpression: Cause:T1318808 Theme:T1318810
+E3	PositiveRegulationOfGeneExpression: Cause:T1318808 Theme:T1318812
+T1208835	Entity 1424 1431	proline
+E4	PositiveRegulationOfGeneExpression: Cause:T1208835 Theme:T1318814
+T1208836	Entity 1456 1463	ammonia
+E5	RegulationOfGeneExpression: Cause:T1208836 Theme:T1318814
+T1208837	Entity 1467 1484	other amino acids
+E6	RegulationOfGeneExpression: Cause:T1208837 Theme:T1318814
+E7	PositiveRegulationOfGeneExpression: Cause:T1318817 Theme:T1318816
+E8	RegulationOfGeneExpression: Cause:T1318818 Theme:T1318819
+T1208842	Entity 1607 1615	sigma 54
+E9	RegulationOfGeneExpression: Cause:T1208842 Theme:T1318819
+T1208839	Entity 1575 1579	ntrC
+E10	RegulationOfGeneExpression: Cause:T1208839 Theme:T1318819

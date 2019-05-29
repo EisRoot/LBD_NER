@@ -1,0 +1,39 @@
+T1099182	TranscriptionOfGene 22 37	transcriptional
+T1099183	PositiveRegulationOfGeneExpression 38 47	activator
+T1099184	RegulationOfGeneExpression 48 59	controlling
+T1099185	PositiveRegulationOfGeneExpression 169 178	induction
+T1099186	TranscriptionOfGene 394 405	transcribed
+T1099187	RegulationOfGeneExpression 536 546	regulators
+T1099188	PositiveRegulationOfGeneExpression 644 653	activates
+T1099189	GeneExpression 654 664	expression
+T1099190	RegulationOfGeneExpression 728 738	regulatory
+T1099191	PositiveRegulationOfGeneExpression 790 799	induction
+T1099192	PositiveRegulationOfGeneExpression 838 847	Induction
+T1099193	PositiveRegulationOfGeneExpression 913 920	inducer
+T1099194	TranscriptionOfGene 974 987	transcription
+T1099195	RegulationOfGeneExpression 1093 1106	autoregulates
+T1099196	RegulationOfGeneExpression 1183 1192	influence
+T1099197	GeneExpression 1193 1203	expression
+T1099198	GeneticModification 1225 1233	mutation
+T1099199	PositiveRegulationOfGeneExpression 1270 1278	increase
+T1099200	GeneExpression 1282 1292	expression
+T1099201	NegativeRegulationOfGeneExpression 1324 1333	repressor
+T1099202	GeneExpression 1491 1501	expression
+E1	PositiveRegulationOfGeneExpression: Cause:T1319151 Theme:T1319152
+T1209172	Entity 221 251	fermentative growth conditions
+E2	PositiveRegulationOfGeneExpression: Cause:T1209172 Theme:T1319152
+T1209174	Entity 803 810	acetate
+E3	PositiveRegulationOfGeneExpression: Cause:T1209174 Theme:T1319157
+E4	PositiveRegulationOfGeneExpression: Cause:T1319156 Theme:T1319157
+T1209175	Entity 812 818	low pH
+E5	PositiveRegulationOfGeneExpression: Cause:T1209175 Theme:T1319157
+T1209176	Entity 824 836	anaerobiosis
+E6	PositiveRegulationOfGeneExpression: Cause:T1209176 Theme:T1319157
+E7	RegulationOfGeneExpression: Cause:T1319160 Theme:T1319161
+E8	RegulationOfGeneExpression: Cause:T1319162 Theme:T1319165
+E9	RegulationOfGeneExpression: Cause:T1319164 Theme:T1319165
+T1209178	Entity 1160 1164	ntrA
+E10	RegulationOfGeneExpression: Cause:T1209178 Theme:T1319165
+T1209179	Entity 1170 1174	katF
+E11	RegulationOfGeneExpression: Cause:T1209179 Theme:T1319165
+E12	RegulationOfGeneExpression: Cause:T1319163 Theme:T1319165

@@ -1,0 +1,24 @@
+T1091802	TranscriptionOfGene 935 948	transcription
+T1091803	RegulationOfGeneExpression 949 959	regulatory
+T1091804	RegulationOfGeneExpression 986 995	modulated
+T1091805	GeneExpression 1138 1148	expression
+T1091806	PositiveRegulationOfGeneExpression 1149 1158	increases
+T1091807	PositiveRegulationOfGeneExpression 1201 1209	requires
+T1091808	PositiveRegulationOfGeneExpression 1223 1247	positively autoregulated
+T1091809	PositiveRegulationOfGeneExpression 1268 1277	activated
+T1091810	GeneticModification 1301 1308	absence
+T1091811	NegativeRegulationOfGeneExpression 1321 1341	negatively regulated
+T1091812	GeneExpression 1380 1389	synthesis
+T1091813	TranscriptionOfGene 1511 1522	transcribed
+T1091814	Decrease 1644 1654	starvation
+T1091815	GeneticModification 1700 1706	mutant
+T1091816	Decrease 1781 1791	starvation
+T1091817	RegulationOfGeneExpression 1792 1801	regulator
+E1	PositiveRegulationOfGeneExpression: Cause:T1311783 Theme:T1311782
+E2	NegativeRegulationOfGeneExpression: Cause:T1311787 Theme:T1311782
+E3	PositiveRegulationOfGeneExpression: Cause:T1311784 Theme:T1311782
+E4	PositiveRegulationOfGeneExpression: Cause:T1311785 Theme:T1311782
+T1201800	Entity 1210 1214	RpoS
+E5	PositiveRegulationOfGeneExpression: Cause:T1201800 Theme:T1311782
+T1201799	Entity 1183 1199	stationary phase
+E6	PositiveRegulationOfGeneExpression: Cause:T1201799 Theme:T1311782

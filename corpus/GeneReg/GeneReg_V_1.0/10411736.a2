@@ -1,0 +1,21 @@
+T109442	RegulationOfGeneExpression 11 25	autoregulatory
+T109443	NegativeRegulationOfGeneExpression 38 58	negatively regulates
+T109444	RegulationOfGeneExpression 413 421	controls
+T109445	GeneExpression 426 436	expression
+T109446	PositiveRegulationOfGeneExpression 554 568	overexpression
+T109447	Increase 907 915	addition
+T109448	TranscriptionOfGene 1385 1398	transcription
+T109449	NegativeRegulationOfGeneExpression 1458 1467	represses
+T109450	TranscriptionOfGene 1468 1481	transcription
+T109451	RegulationOfGeneExpression 1523 1532	dependent
+T109452	TranscriptionOfGene 1587 1600	transcription
+T109453	NegativeRegulationOfGeneExpression 1645 1654	repressor
+T109454	RegulationOfGeneExpression 1705 1714	regulates
+T109455	TranscriptionOfGene 1723 1736	transcription
+E1	RegulationOfGeneExpression: Cause:T131408 Theme:T131409
+E2	NegativeRegulationOfGeneExpression: Cause:T131408 Theme:T131410
+E3	RegulationOfGeneExpression: Cause:T131412 Theme:T131413
+E4	NegativeRegulationOfGeneExpression: Cause:T131426 Theme:T131427
+E5	NegativeRegulationOfGeneExpression: Cause:T131429 Theme:T131430
+E6	RegulationOfGeneExpression: Cause:T131429 Theme:T131431
+E7	RegulationOfGeneExpression: Cause:T131429 Theme:T131432

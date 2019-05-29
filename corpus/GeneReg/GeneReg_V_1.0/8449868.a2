@@ -1,0 +1,5 @@
+T10910133	PositiveRegulationOfGeneExpression 134 148	overexpression
+T10910134	PositiveRegulationOfGeneExpression 217 224	induced
+T10910135	GeneticModification 1429 1439	frameshift
+T12010131	Entity 228 237	anaerobic
+E1	PositiveRegulationOfGeneExpression: Cause:T12010131 Theme:T13110123

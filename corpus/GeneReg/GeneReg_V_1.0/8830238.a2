@@ -1,0 +1,15 @@
+T10911239	PositiveRegulationOfGeneExpression 28 37	essential
+T10911240	GeneExpression 46 55	synthesis
+T10911241	TranscriptionOfGene 915 926	transcribed
+T10911242	GeneticModification 1245 1254	mutations
+T10911243	GeneticModification 1274 1281	absence
+T10911244	TranscriptionOfGene 1436 1447	transcribed
+T10911245	RegulationOfGeneExpression 1466 1475	dependent
+T10911246	RegulationOfGeneExpression 1492 1501	regulated
+T10911247	RegulationOfGeneExpression 1581 1590	regulated
+E1	RegulationOfGeneExpression: Cause:T13111232 Theme:T13111231
+E2	RegulationOfGeneExpression: Cause:T13111234 Theme:T13111231
+E3	RegulationOfGeneExpression: Cause:T13111233 Theme:T13111231
+E4	RegulationOfGeneExpression: Cause:T13111233 Theme:T13111235
+E5	RegulationOfGeneExpression: Cause:T13111232 Theme:T13111235
+E6	RegulationOfGeneExpression: Cause:T13111234 Theme:T13111235

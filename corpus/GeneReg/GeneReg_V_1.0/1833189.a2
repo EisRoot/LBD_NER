@@ -1,0 +1,13 @@
+T1097132	RegulationOfGeneExpression 27 35	involved
+T1097133	NegativeRegulationOfGeneExpression 46 56	inhibition
+T1097134	GeneExpression 65 82	protein synthesis
+T1097135	GeneticModification 105 112	mutants
+T1097136	TranscriptionOfGene 183 196	transcription
+T1097137	GeneticModification 252 260	mutation
+T1097138	GeneExpression 261 271	synthesize
+T1097139	GeneExpression 359 376	protein synthesis
+T1097140	GeneticModification 424 433	mutations
+T1097141	GeneticModification 526 533	mutants
+T1097142	GeneticModification 588 595	mutants
+T1097143	TranscriptionOfGene 640 653	transcription
+T1097144	GeneticModification 906 912	mutant

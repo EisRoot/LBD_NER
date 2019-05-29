@@ -1,0 +1,6 @@
+T1092275	PositiveRegulationOfGeneExpression 569 578	inducible
+T1092276	RegulationOfGeneExpression 839 849	modulating
+T1092277	PositiveRegulationOfGeneExpression 946 955	induction
+T1092278	RegulationOfGeneExpression 1107 1117	regulators
+T1202272	Entity 921 930	pH stress
+E1	RegulationOfGeneExpression: Cause:T1202272 Theme:T1312266

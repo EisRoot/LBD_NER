@@ -1,0 +1,22 @@
+T109613	NegativeRegulationOfGeneExpression 35 44	silencing
+T109614	GeneticModification 68 77	truncated
+T109615	GeneExpression 210 220	expression
+T109616	NegativeRegulationOfGeneExpression 224 230	silent
+T109617	RegulationOfGeneExpression 357 365	involved
+T109618	NegativeRegulationOfGeneExpression 373 382	silencing
+T109619	GeneExpression 422 432	expression
+T109620	NegativeRegulationOfGeneExpression 442 448	silent
+T109621	GeneticModification 476 485	mutations
+T109622	GeneticModification 734 741	mutated
+T109623	GeneticModification 818 825	mutants
+T109624	GeneticModification 899 905	mutant
+T109625	GeneticModification 1031 1040	mutations
+T109626	GeneticModification 1520 1526	mutant
+T109627	NegativeRegulationOfGeneExpression 1622 1631	silencing
+T120603	Entity 0 4	rpoS
+E1	NegativeRegulationOfGeneExpression: Cause:T120603 Theme:T131580
+E2	NegativeRegulationOfGeneExpression: Cause:T131581 Theme:T131580
+E3	NegativeRegulationOfGeneExpression: Cause:T131584 Theme:T131585
+E4	PositiveRegulationOfGeneExpression: Cause:T131587 Theme:T131586
+T120612	Entity 1564 1568	rpoS
+E5	NegativeRegulationOfGeneExpression: Cause:T120612 Theme:T131598

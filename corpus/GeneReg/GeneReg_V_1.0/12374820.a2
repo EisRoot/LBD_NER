@@ -1,0 +1,5 @@
+T1093463	GeneticModification 0 10	Truncation
+T1093464	GeneticModification 245 255	truncation
+T1093465	GeneExpression 309 318	expressed
+T1093466	GeneticModification 538 546	deletion
+T1093467	GeneticModification 1105 1112	deleted

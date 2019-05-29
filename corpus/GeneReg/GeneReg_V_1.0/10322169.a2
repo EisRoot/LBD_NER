@@ -1,0 +1,13 @@
+T109352	RegulationOfGeneExpression 284 294	regulation
+T109353	RegulationOfGeneExpression 422 429	control
+T109354	PositiveRegulationOfGeneExpression 617 626	activated
+T109355	RegulationOfGeneExpression 640 648	affected
+T109356	RegulationOfGeneExpression 795 801	affect
+T109357	TranscriptionOfGene 802 815	transcription
+T120347	Entity 582 594	sigma factor
+E1	RegulationOfGeneExpression: Cause:T120347 Theme:T131333
+E2	RegulationOfGeneExpression: Cause:T131336 Theme:T131333
+E3	RegulationOfGeneExpression: Cause:T131334 Theme:T131333
+E4	RegulationOfGeneExpression: Cause:T131335 Theme:T131333
+E5	RegulationOfGeneExpression: Cause:T131337 Theme:T131333
+E6	RegulationOfGeneExpression: Cause:T131338 Theme:T131333

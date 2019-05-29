@@ -1,0 +1,21 @@
+T1099850	GeneExpression 46 55	expresses
+T1099851	TranscriptionOfGene 350 360	transcript
+T1099852	PositiveRegulationOfGeneExpression 397 406	inducible
+T1099853	TranscriptionOfGene 439 449	transcript
+T1099854	NegativeRegulationOfGeneExpression 564 584	negatively regulates
+T1099855	GeneExpression 589 598	synthesis
+T1099856	PositiveRegulationOfGeneExpression 730 738	inducing
+T1099857	RegulationOfGeneExpression 739 749	coeffector
+T1099858	RegulationOfGeneExpression 921 931	controlled
+T1209848	Entity 388 396	pyruvate
+E1	PositiveRegulationOfGeneExpression: Cause:T1209848 Theme:T1319832
+T1209849	Entity 679 687	pyruvate
+E2	PositiveRegulationOfGeneExpression: Cause:T1209849 Theme:T1319837
+E3	NegativeRegulationOfGeneExpression: Cause:T1319835 Theme:T1319837
+E4	NegativeRegulationOfGeneExpression: Cause:T1319835 Theme:T1319838
+E5	PositiveRegulationOfGeneExpression: Cause:T1209849 Theme:T1319838
+E6	NegativeRegulationOfGeneExpression: Cause:T1319835 Theme:T1319839
+E7	PositiveRegulationOfGeneExpression: Cause:T1209849 Theme:T1319839
+E8	RegulationOfGeneExpression: Cause:T1319843 Theme:T1319842
+E9	RegulationOfGeneExpression: Cause:T1319845 Theme:T1319842
+E10	RegulationOfGeneExpression: Cause:T1319844 Theme:T1319842

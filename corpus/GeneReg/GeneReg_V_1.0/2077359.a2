@@ -1,0 +1,32 @@
+T1097388	RegulationOfGeneExpression 37 46	dependent
+T1097389	PositiveRegulationOfGeneExpression 61 70	inducible
+T1097390	GeneticModification 121 130	deletions
+T1097391	GeneticModification 156 165	mutations
+T1097392	RegulationOfGeneExpression 248 257	dependent
+T1097393	PositiveRegulationOfGeneExpression 258 267	induction
+T1097394	RegulationOfGeneExpression 316 325	dependent
+T1097395	PositiveRegulationOfGeneExpression 326 337	stimulation
+T1097396	GeneExpression 341 351	expression
+T1097397	GeneticModification 515 524	mutations
+T1097398	RegulationOfGeneExpression 567 576	dependent
+T1097399	PositiveRegulationOfGeneExpression 577 588	stimulation
+T1097400	GeneExpression 592 602	expression
+T1097401	RegulationOfGeneExpression 640 649	dependent
+T1097402	GeneticModification 695 703	deletion
+T1097403	GeneticModification 707 716	insertion
+T1097404	NegativeRegulationOfGeneExpression 751 758	disrupt
+T1097405	GeneticModification 900 909	insertion
+T1097406	RegulationOfGeneExpression 984 994	dependency
+T1097407	GeneExpression 998 1008	expression
+T1097408	GeneExpression 1018 1028	expression
+T1097409	NegativeRegulationOfGeneExpression 1079 1088	repressed
+T1097410	RegulationOfGeneExpression 1157 1166	dependent
+E1	PositiveRegulationOfGeneExpression: Cause:T1317368 Theme:T1317369
+T1207385	Entity 47 60	anaerobically
+E2	PositiveRegulationOfGeneExpression: Cause:T1207385 Theme:T1317369
+T1207387	Entity 308 315	nitrite
+E3	PositiveRegulationOfGeneExpression: Cause:T1207387 Theme:T1317370
+T1207386	Entity 283 295	anaerobiosis
+E4	PositiveRegulationOfGeneExpression: Cause:T1207386 Theme:T1317370
+E5	PositiveRegulationOfGeneExpression: Cause:T1317371 Theme:T1317370
+E6	PositiveRegulationOfGeneExpression: Cause:T1317374 Theme:T1317375

@@ -1,0 +1,54 @@
+T1096109	NegativeRegulationOfGeneExpression 11 21	repression
+T1096110	RegulationOfGeneExpression 114 125	involvement
+T1096111	TranscriptionOfGene 246 261	transcriptional
+T1096112	PositiveRegulationOfGeneExpression 262 272	activation
+T1096113	PositiveRegulationOfGeneExpression 295 303	requires
+T1096114	TranscriptionOfGene 320 333	transcription
+T1096115	TranscriptionOfGene 395 408	transcription
+T1096116	NegativeRegulationOfGeneExpression 449 463	down-regulated
+T1096117	Increase 471 479	addition
+T1096118	RegulationOfGeneExpression 539 548	regulated
+T1096119	GeneticModification 620 631	mutagenesis
+T1096120	RegulationOfGeneExpression 752 759	control
+T1096121	GeneticModification 792 799	defects
+T1096122	NegativeRegulationOfGeneExpression 824 831	reduced
+T1096123	TranscriptionOfGene 832 847	transcriptional
+T1096124	PositiveRegulationOfGeneExpression 848 858	activation
+T1096125	NegativeRegulationOfGeneExpression 978 988	repression
+T1096126	TranscriptionOfGene 1003 1018	transcriptional
+T1096127	RegulationOfGeneExpression 1019 1028	regulator
+T1096128	RegulationOfGeneExpression 1047 1057	regulation
+T1096129	RegulationOfGeneExpression 1061 1069	effected
+T1096130	RegulationOfGeneExpression 1078 1085	control
+T1096131	RegulationOfGeneExpression 1098 1107	regulator
+T1096132	RegulationOfGeneExpression 1178 1188	regulation
+T1096133	RegulationOfGeneExpression 1276 1285	dependent
+T1096134	NegativeRegulationOfGeneExpression 1297 1307	repression
+T1096135	TranscriptionOfGene 1370 1385	transcriptional
+T1096136	PositiveRegulationOfGeneExpression 1386 1396	activators
+T1206097	Entity 133 143	cyclic AMP
+E1	NegativeRegulationOfGeneExpression: Cause:T1206097 Theme:T1316069
+E2	NegativeRegulationOfGeneExpression: Cause:T1316070 Theme:T1316069
+E3	PositiveRegulationOfGeneExpression: Cause:T1316072 Theme:T1316071
+T1206099	Entity 347 355	sigma-54
+E4	PositiveRegulationOfGeneExpression: Cause:T1206099 Theme:T1316071
+E5	PositiveRegulationOfGeneExpression: Cause:T1316073 Theme:T1316071
+T1206100	Entity 483 490	glucose
+E6	NegativeRegulationOfGeneExpression: Cause:T1206100 Theme:T1316074
+E7	NegativeRegulationOfGeneExpression: Cause:T1316079 Theme:T1316074
+T1206103	Entity 568 572	cAMP
+E8	NegativeRegulationOfGeneExpression: Cause:T1206103 Theme:T1316074
+T1206101	Entity 494 502	glycerol
+E9	NegativeRegulationOfGeneExpression: Cause:T1206101 Theme:T1316074
+E10	NegativeRegulationOfGeneExpression: Cause:T1206103 Theme:T1316076
+E11	NegativeRegulationOfGeneExpression: Cause:T1206100 Theme:T1316076
+E12	NegativeRegulationOfGeneExpression: Cause:T1206101 Theme:T1316076
+E13	NegativeRegulationOfGeneExpression: Cause:T1316079 Theme:T1316076
+E14	RegulationOfGeneExpression: Cause:T1316085 Theme:T1316082
+E15	RegulationOfGeneExpression: Cause:T1316085 Theme:T1316083
+E16	RegulationOfGeneExpression: Cause:T1316085 Theme:T1316084
+E17	PositiveRegulationOfGeneExpression: Cause:T1316086 Theme:T1316088
+E18	PositiveRegulationOfGeneExpression: Cause:T1316086 Theme:T1316089
+E19	NegativeRegulationOfGeneExpression: Cause:T1316091 Theme:T1316090
+E20	RegulationOfGeneExpression: Cause:T1316091 Theme:T1316093
+E21	RegulationOfGeneExpression: Cause:T1316091 Theme:T1316094

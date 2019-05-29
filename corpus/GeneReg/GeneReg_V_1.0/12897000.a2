@@ -1,0 +1,7 @@
+T1094227	NegativeRegulationOfGeneExpression 515 524	represses
+T1094228	GeneExpression 529 539	expression
+T1094229	Increase 1343 1351	addition
+T1094230	PositiveRegulationOfGeneExpression 1392 1401	induction
+E1	NegativeRegulationOfGeneExpression: Cause:T1314206 Theme:T1314209
+T1204225	Entity 1355 1366	sialic acid
+E2	PositiveRegulationOfGeneExpression: Cause:T1204225 Theme:T1314216

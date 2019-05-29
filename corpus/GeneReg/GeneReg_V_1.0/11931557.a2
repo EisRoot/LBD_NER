@@ -1,0 +1,6 @@
+T1092844	GeneExpression 79 88	synthesis
+T1092845	RegulationOfGeneExpression 169 179	controlled
+T1092846	Decrease 433 440	absence
+T1092847	TranscriptionOfGene 827 842	transcriptional
+T1092848	RegulationOfGeneExpression 854 865	controlling
+E1	RegulationOfGeneExpression: Cause:T1312814 Theme:T1312813

@@ -1,0 +1,19 @@
+T10910868	RegulationOfGeneExpression 234 244	regulatory
+T10910869	TranscriptionOfGene 541 552	transcribed
+T10910870	RegulationOfGeneExpression 673 683	regulatory
+T10910871	GeneExpression 1435 1445	Expression
+T10910872	GeneExpression 1489 1499	expression
+T10910873	PositiveRegulationOfGeneExpression 1512 1519	induced
+T10910874	NegativeRegulationOfGeneExpression 1579 1589	repression
+T10910875	RegulationOfGeneExpression 1741 1754	under control
+T10910876	PositiveRegulationOfGeneExpression 1811 1820	induction
+T12010866	Entity 1523 1532	gluconate
+E1	PositiveRegulationOfGeneExpression: Cause:T12010866 Theme:T13110853
+T12010867	Entity 1560 1567	glucose
+E2	NegativeRegulationOfGeneExpression: Cause:T12010867 Theme:T13110853
+E3	RegulationOfGeneExpression: Cause:T13110858 Theme:T13110854
+E4	RegulationOfGeneExpression: Cause:T13110858 Theme:T13110855
+E5	RegulationOfGeneExpression: Cause:T13110858 Theme:T13110856
+E6	RegulationOfGeneExpression: Cause:T13110858 Theme:T13110857
+E7	PositiveRegulationOfGeneExpression: Cause:T13110858 Theme:T13110859
+E8	PositiveRegulationOfGeneExpression: Cause:T13110858 Theme:T13110860

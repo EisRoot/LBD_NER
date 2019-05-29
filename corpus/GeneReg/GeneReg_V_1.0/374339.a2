@@ -1,0 +1,15 @@
+T1098500	GeneticModification 50 57	mutants
+T1098501	GeneticModification 127 134	mutants
+T1098502	GeneticModification 263 270	mutants
+T1098503	GeneticModification 473 479	mutant
+T1098504	GeneticModification 774 781	mutants
+T1098505	GeneticModification 842 848	mutant
+T1098506	GeneExpression 915 924	synthesis
+T1098507	RegulationOfGeneExpression 1059 1066	control
+T1098508	RegulationOfGeneExpression 1097 1106	regulates
+T1098509	GeneExpression 1113 1123	expression
+T1098510	GeneticModification 1221 1230	mutations
+E1	RegulationOfGeneExpression: Cause:T1318495 Theme:T1318492
+E2	RegulationOfGeneExpression: Cause:T1318495 Theme:T1318493
+E3	RegulationOfGeneExpression: Cause:T1318495 Theme:T1318494
+E4	RegulationOfGeneExpression: Cause:T1318495 Theme:T1318496

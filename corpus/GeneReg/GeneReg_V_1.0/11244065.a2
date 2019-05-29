@@ -1,0 +1,11 @@
+T1091943	PositiveRegulationOfGeneExpression 157 164	inducer
+T1091944	GeneticModification 251 258	mutants
+T1091945	PositiveRegulationOfGeneExpression 470 484	overexpression
+T1091946	TranscriptionOfGene 657 672	transcriptional
+T1091947	PositiveRegulationOfGeneExpression 673 683	activation
+T1091948	TranscriptionOfGene 711 726	transcriptional
+T1091949	PositiveRegulationOfGeneExpression 727 736	activator
+T1201940	Entity 117 120	MMC
+E1	PositiveRegulationOfGeneExpression: Cause:T1201940 Theme:T1311925
+E2	PositiveRegulationOfGeneExpression: Cause:T1311934 Theme:T1311935
+E3	PositiveRegulationOfGeneExpression: Cause:T1311936 Theme:T1311937

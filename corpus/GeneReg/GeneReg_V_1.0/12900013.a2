@@ -1,0 +1,32 @@
+T1094260	RegulationOfGeneExpression 342 351	dependent
+T1094261	RegulationOfGeneExpression 392 401	directing
+T1094262	GeneExpression 406 416	expression
+T1094263	PositiveRegulationOfGeneExpression 455 461	active
+T1094264	PositiveRegulationOfGeneExpression 473 488	over-expression
+T1094265	RegulationOfGeneExpression 727 736	dependent
+T1094266	RegulationOfGeneExpression 761 770	dependent
+T1094267	RegulationOfGeneExpression 781 789	governed
+T1094268	GeneExpression 790 800	expression
+T1204256	Entity 337 341	rpoE
+E1	RegulationOfGeneExpression: Cause:T1204256 Theme:T1314232
+T1204257	Entity 492 496	rpoE
+E2	PositiveRegulationOfGeneExpression: Cause:T1204257 Theme:T1314233
+T1204258	Entity 722 726	rpoE
+E3	RegulationOfGeneExpression: Cause:T1204258 Theme:T1314235
+T1204259	Entity 756 760	rpoE
+E4	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314236
+E5	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314237
+E6	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314238
+E7	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314239
+E8	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314240
+E9	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314241
+E10	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314242
+E11	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314243
+E12	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314244
+E13	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314245
+E14	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314246
+E15	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314247
+E16	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314248
+E17	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314249
+E18	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314250
+E19	RegulationOfGeneExpression: Cause:T1204259 Theme:T1314251

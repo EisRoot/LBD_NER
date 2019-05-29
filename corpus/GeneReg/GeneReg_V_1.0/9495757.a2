@@ -1,0 +1,18 @@
+T10912082	RegulationOfGeneExpression 98 107	regulates
+T10912083	TranscriptionOfGene 359 374	transcriptional
+T10912084	RegulationOfGeneExpression 375 385	regulators
+T10912085	GeneExpression 469 484	gene expression
+T10912086	RegulationOfGeneExpression 741 750	regulated
+T10912087	PositiveRegulationOfGeneExpression 1180 1190	activation
+T10912088	NegativeRegulationOfGeneExpression 1223 1234	suppression
+T10912089	RegulationOfGeneExpression 1431 1441	regulation
+T10912090	PositiveRegulationOfGeneExpression 1455 1475	positively regulated
+T10912091	RegulationOfGeneExpression 1731 1740	regulated
+E1	RegulationOfGeneExpression: Cause:T13112053 Theme:T13112055
+E2	PositiveRegulationOfGeneExpression: Cause:T13112069 Theme:T13112070
+E3	PositiveRegulationOfGeneExpression: Cause:T13112068 Theme:T13112070
+E4	NegativeRegulationOfGeneExpression: Cause:T13112068 Theme:T13112071
+E5	NegativeRegulationOfGeneExpression: Cause:T13112069 Theme:T13112071
+E6	RegulationOfGeneExpression: Cause:T13112080 Theme:T13112077
+E7	RegulationOfGeneExpression: Cause:T13112080 Theme:T13112078
+E8	RegulationOfGeneExpression: Cause:T13112080 Theme:T13112079

@@ -1,0 +1,19 @@
+T1098343	RegulationOfGeneExpression 0 10	Regulatory
+T1098344	GeneticModification 11 20	mutations
+T1098345	GeneticModification 111 118	mutants
+T1098346	GeneExpression 222 231	expressed
+T1098347	PositiveRegulationOfGeneExpression 250 261	high levels
+T1098348	GeneticModification 275 282	mutants
+T1098349	PositiveRegulationOfGeneExpression 294 307	higher levels
+T1098350	Increase 364 372	presence
+T1098351	GeneticModification 407 414	mutants
+T1098352	PositiveRegulationOfGeneExpression 443 452	increases
+T1098353	GeneticModification 490 499	mutations
+T1098354	GeneticModification 570 577	mutants
+T1098355	GeneticModification 730 739	mutations
+T1098356	GeneticModification 861 869	mutation
+T1098357	GeneExpression 870 880	expressing
+T1098358	GeneticModification 953 962	mutations
+T1098359	RegulationOfGeneExpression 1275 1285	regulatory
+T1098360	GeneticModification 1286 1295	mutations
+T1098361	GeneticModification 1363 1371	mutation

@@ -1,0 +1,36 @@
+T10955	RegulationOfGeneExpression 35 44	dependent
+T10956	RegulationOfGeneExpression 57 67	regulation
+T10957	TranscriptionOfGene 122 139	transcriptionally
+T10958	RegulationOfGeneExpression 140 149	regulated
+T10959	RegulationOfGeneExpression 268 276	involved
+T10960	PositiveRegulationOfGeneExpression 280 299	positive regulation
+T10961	GeneticModification 325 333	deletion
+T10962	NegativeRegulationOfGeneExpression 334 341	reduced
+T10963	GeneExpression 342 352	expression
+T10964	GeneticModification 600 608	deletion
+T10965	NegativeRegulationOfGeneExpression 637 645	decrease
+T10966	GeneExpression 659 669	expression
+T10967	GeneExpression 685 695	expression
+T10968	PositiveRegulationOfGeneExpression 700 708	restored
+T10969	GeneticModification 773 781	deletion
+T10970	GeneExpression 814 824	expression
+T10971	GeneticModification 872 880	mutation
+T10972	RegulationOfGeneExpression 908 916	regulate
+T10973	PositiveRegulationOfGeneExpression 1034 1042	increase
+T10974	GeneExpression 1056 1066	expression
+T10975	RegulationOfGeneExpression 1142 1152	regulation
+T10976	TranscriptionOfGene 1299 1312	transcription
+T10977	RegulationOfGeneExpression 1406 1414	mediated
+T10978	RegulationOfGeneExpression 1415 1425	regulation
+T10979	GeneExpression 1439 1449	expression
+T10980	GeneExpression 1451 1461	Expression
+T10981	GeneticModification 1507 1513	mutant
+T10982	RegulationOfGeneExpression 1543 1552	dependent
+E1	RegulationOfGeneExpression: Cause:T13121 Theme:T13123
+E2	RegulationOfGeneExpression: Cause:T13122 Theme:T13123
+E3	RegulationOfGeneExpression: Cause:T13127 Theme:T13124
+E4	RegulationOfGeneExpression: Cause:T13128 Theme:T13124
+E5	RegulationOfGeneExpression: Cause:T13125 Theme:T13124
+E6	RegulationOfGeneExpression: Cause:T13126 Theme:T13124
+E7	PositiveRegulationOfGeneExpression: Cause:T13129 Theme:T13132
+E8	PositiveRegulationOfGeneExpression: Cause:T13133 Theme:T13134

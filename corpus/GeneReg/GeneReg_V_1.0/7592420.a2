@@ -1,0 +1,20 @@
+T1098890	TranscriptionOfGene 17 32	transcriptional
+T1098891	RegulationOfGeneExpression 33 43	regulation
+T1098892	TranscriptionOfGene 155 168	transcription
+T1098893	RegulationOfGeneExpression 169 179	regulation
+T1098894	RegulationOfGeneExpression 360 369	regulator
+T1098895	TranscriptionOfGene 711 724	cotranscribed
+T1098896	PositiveRegulationOfGeneExpression 812 821	activator
+T1098897	TranscriptionOfGene 850 865	transcriptional
+T1098898	RegulationOfGeneExpression 866 876	regulators
+T1098899	PositiveRegulationOfGeneExpression 895 903	required
+T1098900	GeneExpression 913 923	expression
+T1098901	RegulationOfGeneExpression 974 981	depends
+T1098902	PositiveRegulationOfGeneExpression 1030 1040	activators
+T1098903	RegulationOfGeneExpression 1075 1083	activate
+T1098904	TranscriptionOfGene 1084 1097	transcription
+E1	RegulationOfGeneExpression: Cause:T1318869 Theme:T1318868
+E2	PositiveRegulationOfGeneExpression: Cause:T1318880 Theme:T1318882
+T1208888	Entity 989 999	cyclic AMP
+E3	PositiveRegulationOfGeneExpression: Cause:T1208888 Theme:T1318883
+E4	PositiveRegulationOfGeneExpression: Cause:T1318884 Theme:T1318883

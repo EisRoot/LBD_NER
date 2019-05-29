@@ -1,0 +1,6 @@
+T1094474	RegulationOfGeneExpression 363 370	affects
+T1094475	GeneExpression 375 385	expression
+T1094476	PositiveRegulationOfGeneExpression 581 595	over-producing
+T1094477	GeneticModification 906 914	deletion
+T1094478	GeneticModification 997 1011	transformation
+T1094479	PositiveRegulationOfGeneExpression 1104 1117	overproducing

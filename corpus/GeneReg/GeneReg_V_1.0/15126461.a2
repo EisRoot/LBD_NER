@@ -1,0 +1,72 @@
+T1095320	TranscriptionOfGene 103 118	Transcriptional
+T1095321	GeneticModification 155 161	mutant
+T1095322	PositiveRegulationOfGeneExpression 232 240	enhanced
+T1095323	GeneExpression 241 251	expression
+T1095324	RegulationOfGeneExpression 268 277	regulated
+T1095325	PositiveRegulationOfGeneExpression 444 458	overproduction
+T1095326	PositiveRegulationOfGeneExpression 491 499	enhanced
+T1095327	TranscriptionOfGene 500 513	transcription
+T1095328	PositiveRegulationOfGeneExpression 549 557	activate
+T1095329	GeneExpression 558 568	expression
+T1095330	RegulationOfGeneExpression 586 595	regulated
+T1095331	PositiveRegulationOfGeneExpression 746 754	required
+T1095332	PositiveRegulationOfGeneExpression 775 783	enhanced
+T1095333	GeneExpression 784 794	expression
+E1	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315292
+E2	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315292
+E3	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315292
+E4	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315292
+E5	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315293
+E6	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315293
+E7	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315293
+E8	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315293
+E9	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315294
+E10	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315294
+E11	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315294
+E12	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315294
+E13	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315295
+E14	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315295
+E15	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315295
+E16	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315295
+E17	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315297
+E18	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315297
+E19	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315297
+E20	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315297
+E21	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315299
+E22	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315299
+E23	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315299
+E24	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315299
+E25	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315300
+E26	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315300
+E27	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315300
+E28	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315300
+E29	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315302
+E30	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315302
+E31	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315302
+E32	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315302
+E33	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315304
+E34	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315304
+E35	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315304
+E36	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315304
+E37	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315305
+E38	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315305
+E39	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315305
+E40	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315305
+E41	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315306
+E42	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315306
+E43	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315306
+E44	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315306
+E45	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315307
+E46	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315307
+E47	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315307
+E48	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315307
+E49	RegulationOfGeneExpression: Cause:T1315290 Theme:T1315308
+E50	PositiveRegulationOfGeneExpression: Cause:T1315289 Theme:T1315308
+E51	RegulationOfGeneExpression: Cause:T1315291 Theme:T1315308
+E52	PositiveRegulationOfGeneExpression: Cause:T1315288 Theme:T1315308
+E53	RegulationOfGeneExpression: Cause:T1315312 Theme:T1315311
+E54	RegulationOfGeneExpression: Cause:T1315313 Theme:T1315311
+E55	PositiveRegulationOfGeneExpression: Cause:T1315314 Theme:T1315318
+E56	PositiveRegulationOfGeneExpression: Cause:T1315317 Theme:T1315318
+E57	PositiveRegulationOfGeneExpression: Cause:T1315315 Theme:T1315318
+E58	PositiveRegulationOfGeneExpression: Cause:T1315316 Theme:T1315318

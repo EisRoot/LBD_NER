@@ -1,0 +1,65 @@
+T109298	TranscriptionOfGene 0 15	Transcriptional
+T109299	RegulationOfGeneExpression 16 26	regulation
+T109300	GeneExpression 44 53	synthesis
+T109301	NegativeRegulationOfGeneExpression 119 128	repressor
+T109302	PositiveRegulationOfGeneExpression 173 213	is a secondary transcriptional activator
+T109303	TranscriptionOfGene 188 203	transcriptional
+T109304	GeneExpression 441 450	Synthesis
+T109305	TranscriptionOfGene 512 527	transcriptional
+T109306	PositiveRegulationOfGeneExpression 528 538	activators
+T109307	PositiveRegulationOfGeneExpression 554 562	requires
+T109308	PositiveRegulationOfGeneExpression 661 669	required
+T109309	TranscriptionOfGene 674 687	transcription
+T109310	NegativeRegulationOfGeneExpression 780 789	repressor
+T109311	RegulationOfGeneExpression 790 801	controlling
+T109312	TranscriptionOfGene 802 815	transcription
+T109313	PositiveRegulationOfGeneExpression 935 943	required
+T109314	PositiveRegulationOfGeneExpression 961 971	activation
+T109315	Increase 1021 1029	presence
+T109316	GeneticModification 1044 1050	Mutant
+T109317	NegativeRegulationOfGeneExpression 1101 1111	repression
+T109318	GeneExpression 1148 1158	expression
+T109319	Decrease 1194 1201	absence
+T109320	RegulationOfGeneExpression 1224 1233	dependent
+T109321	PositiveRegulationOfGeneExpression 1234 1245	enhancement
+T109322	TranscriptionOfGene 1249 1262	transcription
+T109323	NegativeRegulationOfGeneExpression 1291 1300	abolished
+T109324	GeneticModification 1311 1317	mutant
+T109325	NegativeRegulationOfGeneExpression 1367 1374	reduced
+T109326	GeneticModification 1398 1404	mutant
+T109327	Increase 1504 1512	presence
+T109328	TranscriptionOfGene 1986 2001	transcriptional
+T109329	PositiveRegulationOfGeneExpression 2002 2011	activator
+T109330	PositiveRegulationOfGeneExpression 2056 2065	activated
+T109331	TranscriptionOfGene 2083 2098	transcriptional
+T109332	PositiveRegulationOfGeneExpression 2099 2109	activators
+T120274	Entity 77 99	response to molybdenum
+E1	RegulationOfGeneExpression: Cause:T120274 Theme:T131224
+T120275	Entity 106 115	molybdate
+E2	NegativeRegulationOfGeneExpression: Cause:T120275 Theme:T131226
+E3	NegativeRegulationOfGeneExpression: Cause:T131225 Theme:T131226
+E4	PositiveRegulationOfGeneExpression: Cause:T131225 Theme:T131227
+E5	PositiveRegulationOfGeneExpression: Cause:T131225 Theme:T131228
+T120282	Entity 563 572	molybdate
+E6	PositiveRegulationOfGeneExpression: Cause:T120282 Theme:T131235
+T120283	Entity 643 652	molybdate
+E7	PositiveRegulationOfGeneExpression: Cause:T120283 Theme:T131236
+E8	NegativeRegulationOfGeneExpression: Cause:T131237 Theme:T131238
+T120286	Entity 1033 1042	molybdate
+E9	PositiveRegulationOfGeneExpression: Cause:T120286 Theme:T131240
+E10	PositiveRegulationOfGeneExpression: Cause:T131239 Theme:T131240
+T120287	Entity 1075 1084	molybdate
+E11	NegativeRegulationOfGeneExpression: Cause:T120287 Theme:T131243
+E12	NegativeRegulationOfGeneExpression: Cause:T131242 Theme:T131243
+T120289	Entity 1216 1223	Nitrate
+E13	PositiveRegulationOfGeneExpression: Cause:T120289 Theme:T131248
+E14	PositiveRegulationOfGeneExpression: Cause:T131250 Theme:T131248
+E15	PositiveRegulationOfGeneExpression: Cause:T131255 Theme:T131251
+T120290	Entity 1319 1326	Nitrate
+E16	PositiveRegulationOfGeneExpression: Cause:T120290 Theme:T131251
+E17	PositiveRegulationOfGeneExpression: Cause:T131255 Theme:T131253
+E18	PositiveRegulationOfGeneExpression: Cause:T120290 Theme:T131253
+E19	PositiveRegulationOfGeneExpression: Cause:T131269 Theme:T131270
+E20	PositiveRegulationOfGeneExpression: Cause:T131272 Theme:T131270
+E21	PositiveRegulationOfGeneExpression: Cause:T131269 Theme:T131271
+E22	PositiveRegulationOfGeneExpression: Cause:T131273 Theme:T131271

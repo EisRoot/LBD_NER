@@ -1,0 +1,7 @@
+T1097284	NegativeRegulationOfGeneExpression 612 621	repressor
+T1097285	RegulationOfGeneExpression 622 630	involved
+T1097286	RegulationOfGeneExpression 642 652	regulation
+T1097287	TranscriptionOfGene 914 925	transcribed
+E1	NegativeRegulationOfGeneExpression: Cause:T1317275 Theme:T1317276
+T1207283	Entity 634 641	choline
+E2	RegulationOfGeneExpression: Cause:T1207283 Theme:T1317276

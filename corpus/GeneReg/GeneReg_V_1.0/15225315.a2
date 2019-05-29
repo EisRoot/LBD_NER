@@ -1,0 +1,41 @@
+T1095395	TranscriptionOfGene 0 13	Transcription
+T1095396	PositiveRegulationOfGeneExpression 14 24	activation
+T1095397	RegulationOfGeneExpression 97 106	dependent
+T1095398	GeneExpression 138 148	Expression
+T1095399	RegulationOfGeneExpression 191 203	co-dependent
+T1095400	TranscriptionOfGene 256 269	transcription
+T1095401	TranscriptionOfGene 308 321	transcription
+T1095402	PositiveRegulationOfGeneExpression 322 332	activators
+T1095403	RegulationOfGeneExpression 474 483	dependent
+T1095404	PositiveRegulationOfGeneExpression 484 494	activation
+T1095405	NegativeRegulationOfGeneExpression 498 507	repressed
+T1095406	PositiveRegulationOfGeneExpression 996 1005	increases
+T1095407	RegulationOfGeneExpression 1010 1019	dependent
+T1095408	PositiveRegulationOfGeneExpression 1020 1030	activation
+T1095409	NegativeRegulationOfGeneExpression 1034 1044	decreasing
+T1095410	NegativeRegulationOfGeneExpression 1049 1059	repression
+T1095411	RegulationOfGeneExpression 1060 1068	mediated
+T1095412	PositiveRegulationOfGeneExpression 1157 1166	activates
+T1095413	NegativeRegulationOfGeneExpression 1235 1248	counteracting
+T1095414	NegativeRegulationOfGeneExpression 1253 1271	repressive effects
+T1095415	PositiveRegulationOfGeneExpression 1546 1556	activation
+T1095416	RegulationOfGeneExpression 1645 1654	dependent
+T1095417	TranscriptionOfGene 1655 1668	transcription
+E1	PositiveRegulationOfGeneExpression: Cause:T1315345 Theme:T1315347
+E2	PositiveRegulationOfGeneExpression: Cause:T1315346 Theme:T1315347
+E3	PositiveRegulationOfGeneExpression: Cause:T1315349 Theme:T1315348
+E4	PositiveRegulationOfGeneExpression: Cause:T1315351 Theme:T1315348
+E5	PositiveRegulationOfGeneExpression: Cause:T1315350 Theme:T1315348
+T1205394	Entity 358 365	nitrate
+E6	PositiveRegulationOfGeneExpression: Cause:T1205394 Theme:T1315348
+T1205393	Entity 346 353	nitrite
+E7	PositiveRegulationOfGeneExpression: Cause:T1205393 Theme:T1315348
+E8	PositiveRegulationOfGeneExpression: Cause:T1315354 Theme:T1315353
+E9	NegativeRegulationOfGeneExpression: Cause:T1315357 Theme:T1315353
+E10	NegativeRegulationOfGeneExpression: Cause:T1315355 Theme:T1315353
+E11	PositiveRegulationOfGeneExpression: Cause:T1315376 Theme:T1315378
+E12	NegativeRegulationOfGeneExpression: Cause:T1315379 Theme:T1315378
+E13	NegativeRegulationOfGeneExpression: Cause:T1315380 Theme:T1315378
+E14	PositiveRegulationOfGeneExpression: Cause:T1315377 Theme:T1315378
+E15	RegulationOfGeneExpression: Cause:T1315390 Theme:T1315388
+E16	PositiveRegulationOfGeneExpression: Cause:T1315389 Theme:T1315388

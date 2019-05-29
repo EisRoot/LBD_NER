@@ -1,0 +1,30 @@
+T1093138	TranscriptionOfGene 14 27	transcription
+T1093139	RegulationOfGeneExpression 28 38	regulation
+T1093140	RegulationOfGeneExpression 89 98	regulator
+T1093141	RegulationOfGeneExpression 231 242	controlling
+T1093142	TranscriptionOfGene 331 344	transcription
+T1093143	RegulationOfGeneExpression 345 355	regulation
+T1093144	TranscriptionOfGene 394 405	transcribed
+T1093145	NegativeRegulationOfGeneExpression 477 486	repressor
+T1093146	Decrease 551 559	limiting
+T1093147	RegulationOfGeneExpression 1077 1086	dependent
+T1093148	TranscriptionOfGene 1087 1100	transcription
+T1093149	TranscriptionOfGene 1523 1536	transcription
+T1093150	TranscriptionOfGene 1767 1780	transcription
+T1093151	GeneticModification 1787 1793	mutant
+T1093152	TranscriptionOfGene 1854 1867	transcription
+T1093153	NegativeRegulationOfGeneExpression 1897 1906	repressed
+T1093154	PositiveRegulationOfGeneExpression 1924 1934	activation
+T1093155	TranscriptionOfGene 1945 1958	transcription
+T1093156	NegativeRegulationOfGeneExpression 2065 2075	repression
+E1	RegulationOfGeneExpression: Cause:T1313094 Theme:T1313095
+E2	RegulationOfGeneExpression: Cause:T1313098 Theme:T1313099
+E3	RegulationOfGeneExpression: Cause:T1313097 Theme:T1313099
+E4	RegulationOfGeneExpression: Cause:T1313100 Theme:T1313101
+E5	RegulationOfGeneExpression: Cause:T1313100 Theme:T1313103
+E6	NegativeRegulationOfGeneExpression: Cause:T1313102 Theme:T1313104
+E7	RegulationOfGeneExpression: Cause:T1313109 Theme:T1313110
+E8	NegativeRegulationOfGeneExpression: Cause:T1313120 Theme:T1313121
+E9	PositiveRegulationOfGeneExpression: Cause:T1313120 Theme:T1313122
+T1203137	Entity 2036 2045	alpha CTD
+E10	NegativeRegulationOfGeneExpression: Cause:T1203137 Theme:T1313124

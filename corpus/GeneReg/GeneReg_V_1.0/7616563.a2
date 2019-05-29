@@ -1,0 +1,37 @@
+T1099068	RegulationOfGeneExpression 11 21	regulation
+T1099069	RegulationOfGeneExpression 189 196	control
+T1099070	RegulationOfGeneExpression 351 358	control
+T1099071	RegulationOfGeneExpression 532 542	regulatory
+T1099072	RegulationOfGeneExpression 768 775	control
+T1099073	RegulationOfGeneExpression 879 886	control
+T1099074	GeneticModification 1025 1034	Mutations
+T1099075	NegativeRegulationOfGeneExpression 1057 1063	impair
+T1099076	RegulationOfGeneExpression 1079 1089	regulation
+T1099077	NegativeRegulationOfGeneExpression 1197 1205	impaired
+T1099078	GeneticModification 1213 1220	absence
+T1099079	GeneticModification 1255 1262	mutants
+T1099080	PositiveRegulationOfGeneExpression 1433 1442	increased
+T1099081	GeneExpression 1443 1453	expression
+T1099082	PositiveRegulationOfGeneExpression 1476 1485	increased
+T1099083	NegativeRegulationOfGeneExpression 1486 1496	repression
+T1099084	Increase 1504 1512	presence
+T1099085	RegulationOfGeneExpression 1784 1792	mediated
+T1099086	RegulationOfGeneExpression 1793 1803	regulation
+T1099087	GeneExpression 1820 1830	expression
+T1099088	GeneticModification 1832 1841	Mutations
+T1099089	NegativeRegulationOfGeneExpression 1882 1892	reductions
+T1099090	NegativeRegulationOfGeneExpression 1956 1970	repressibility
+T1099091	RegulationOfGeneExpression 2120 2127	require
+T1099092	RegulationOfGeneExpression 2169 2176	control
+T1099093	RegulationOfGeneExpression 2404 2413	modulates
+E1	RegulationOfGeneExpression: Cause:T1319035 Theme:T1319032
+T1209065	Entity 1457 1471	minimal medium
+E2	PositiveRegulationOfGeneExpression: Cause:T1209065 Theme:T1319053
+T1209066	Entity 1516 1535	pyrimidine residues
+E3	NegativeRegulationOfGeneExpression: Cause:T1209066 Theme:T1319053
+E4	NegativeRegulationOfGeneExpression: Cause:T1319052 Theme:T1319053
+E5	RegulationOfGeneExpression: Cause:T1319052 Theme:T1319053
+E6	RegulationOfGeneExpression: Cause:T1319054 Theme:T1319056
+T1209067	Entity 1974 1993	pyrimidine residues
+E7	NegativeRegulationOfGeneExpression: Cause:T1209067 Theme:T1319057
+E8	RegulationOfGeneExpression: Cause:T1319061 Theme:T1319063

@@ -1,0 +1,19 @@
+T109213	RegulationOfGeneExpression 155 164	regulated
+T109214	GeneticModification 1039 1048	deficient
+T109215	GeneticModification 1439 1446	mutants
+T109216	RegulationOfGeneExpression 1550 1559	regulated
+T109217	GeneticModification 1623 1630	mutants
+T109218	PositiveRegulationOfGeneExpression 1635 1644	locked on
+T109219	GeneExpression 1654 1664	expression
+T109220	GeneticModification 1678 1685	mutants
+T109221	NegativeRegulationOfGeneExpression 1690 1700	locked off
+T109222	GeneExpression 1710 1720	expression
+T109223	RegulationOfGeneExpression 1759 1769	regulation
+E1	RegulationOfGeneExpression: Cause:T131179 Theme:T131177
+E2	RegulationOfGeneExpression: Cause:T131180 Theme:T131177
+E3	RegulationOfGeneExpression: Cause:T131197 Theme:T131194
+E4	RegulationOfGeneExpression: Cause:T131196 Theme:T131194
+E5	NegativeRegulationOfGeneExpression: Cause:T131198 Theme:T131199
+E6	PositiveRegulationOfGeneExpression: Cause:T131200 Theme:T131201
+E7	RegulationOfGeneExpression: Cause:T131203 Theme:T131204
+E8	RegulationOfGeneExpression: Cause:T131202 Theme:T131204

@@ -1,0 +1,11 @@
+T1098172	GeneExpression 19 29	expression
+T1098173	TranscriptionOfGene 191 204	Transcription
+T1098174	TranscriptionOfGene 462 475	transcription
+T1098175	TranscriptionOfGene 521 534	transcription
+T1098176	TranscriptionOfGene 961 974	transcription
+T1098177	GeneExpression 1023 1032	synthesis
+T1098178	GeneExpression 1131 1142	synthesized
+T1098179	GeneExpression 1243 1258	gene expression
+T1098180	NegativeRegulationOfGeneExpression 1313 1320	decline
+T1208171	Entity 1328 1349	late stationary phase
+E1	NegativeRegulationOfGeneExpression: Cause:T1208171 Theme:T1318169

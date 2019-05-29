@@ -1,0 +1,11 @@
+T1095624	TranscriptionOfGene 703 718	transcriptional
+T1095625	RegulationOfGeneExpression 719 728	regulator
+T1095626	RegulationOfGeneExpression 905 935	cause a significant alteration
+T1095627	TranscriptionOfGene 958 976	gene transcription
+T1095628	PositiveRegulationOfGeneExpression 1003 1011	increase
+T1095629	TranscriptionOfGene 1019 1029	transcript
+T1205623	Entity 880 892	nitric oxide
+E1	PositiveRegulationOfGeneExpression: Cause:T1205623 Theme:T1315620
+E2	PositiveRegulationOfGeneExpression: Cause:T1205623 Theme:T1315620
+E3	PositiveRegulationOfGeneExpression: Cause:T1205623 Theme:T1315620
+E4	PositiveRegulationOfGeneExpression: Cause:T1205623 Theme:T1315620

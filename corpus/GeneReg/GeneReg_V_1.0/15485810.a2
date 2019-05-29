@@ -1,0 +1,26 @@
+T1095547	PositiveRegulationOfGeneExpression 196 208	up-regulated
+T1095548	PositiveRegulationOfGeneExpression 224 238	overexpression
+T1095549	GeneExpression 603 612	synthesis
+T1095550	PositiveRegulationOfGeneExpression 684 697	up-regulation
+T1095551	PositiveRegulationOfGeneExpression 765 777	up-regulated
+T1095552	RegulationOfGeneExpression 1030 1043	co-controlled
+T1095553	GeneExpression 1167 1177	expression
+T1095554	RegulationOfGeneExpression 1181 1187	driven
+T1095555	PositiveRegulationOfGeneExpression 1217 1226	activated
+T1095556	NegativeRegulationOfGeneExpression 1268 1288	negatively regulated
+T1095557	RegulationOfGeneExpression 1316 1325	regulates
+T1095558	PositiveRegulationOfGeneExpression 1393 1402	increased
+T1095559	GeneExpression 1403 1413	expression
+T1095560	RegulationOfGeneExpression 1498 1510	co-regulated
+T1205544	Entity 297 325	many other stress conditions
+E1	PositiveRegulationOfGeneExpression: Cause:T1205544 Theme:T1315514
+T1205545	Entity 336 361	defects in protein export
+E2	PositiveRegulationOfGeneExpression: Cause:T1205545 Theme:T1315514
+E3	PositiveRegulationOfGeneExpression: Cause:T1315531 Theme:T1315529
+E4	PositiveRegulationOfGeneExpression: Cause:T1315530 Theme:T1315529
+T1205546	Entity 1191 1215	sigma(54)-RNA polymerase
+E5	RegulationOfGeneExpression: Cause:T1205546 Theme:T1315529
+E6	NegativeRegulationOfGeneExpression: Cause:T1315532 Theme:T1315529
+E7	RegulationOfGeneExpression: Cause:T1315533 Theme:T1315534
+E8	RegulationOfGeneExpression: Cause:T1315533 Theme:T1315536
+E9	RegulationOfGeneExpression: Cause:T1315533 Theme:T1315537

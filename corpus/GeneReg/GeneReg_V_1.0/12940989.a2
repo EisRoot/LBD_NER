@@ -1,0 +1,48 @@
+T1094339	PositiveRegulationOfGeneExpression 12 21	activates
+T1094340	RegulationOfGeneExpression 46 55	dependent
+T1094341	RegulationOfGeneExpression 511 519	mediates
+T1094342	PositiveRegulationOfGeneExpression 520 529	induction
+T1094343	PositiveRegulationOfGeneExpression 667 675	required
+T1094344	GeneExpression 680 690	expression
+T1094345	PositiveRegulationOfGeneExpression 924 930	needed
+T1094346	GeneExpression 943 953	expression
+T1094347	PositiveRegulationOfGeneExpression 980 994	Overexpression
+T1094348	PositiveRegulationOfGeneExpression 1055 1069	overexpression
+T1094349	PositiveRegulationOfGeneExpression 1295 1302	induced
+T1094350	PositiveRegulationOfGeneExpression 1381 1390	induction
+T1094351	PositiveRegulationOfGeneExpression 1434 1443	induction
+T1094352	PositiveRegulationOfGeneExpression 1453 1465	Constitutive
+T1094353	GeneExpression 1466 1476	expression
+T1094354	NegativeRegulationOfGeneExpression 1485 1492	removes
+T1094355	RegulationOfGeneExpression 1501 1508	control
+T1094356	RegulationOfGeneExpression 1597 1604	control
+T1094357	RegulationOfGeneExpression 1608 1616	governed
+T1094358	GeneticModification 1654 1663	mutations
+T1094359	RegulationOfGeneExpression 1756 1766	influences
+T1094360	GeneExpression 1771 1781	expression
+T1094361	GeneExpression 1935 1945	expression
+T1094362	RegulationOfGeneExpression 1984 1993	regulated
+E1	PositiveRegulationOfGeneExpression: Cause:T1314288 Theme:T1314290
+T1204329	Entity 560 573	various media
+E2	RegulationOfGeneExpression: Cause:T1204329 Theme:T1314295
+T1204330	Entity 575 577	pH
+E3	RegulationOfGeneExpression: Cause:T1204330 Theme:T1314295
+T1204331	Entity 582 602	growth phase signals
+E4	RegulationOfGeneExpression: Cause:T1204331 Theme:T1314295
+E5	PositiveRegulationOfGeneExpression: Cause:T1314297 Theme:T1314299
+E6	PositiveRegulationOfGeneExpression: Cause:T1314297 Theme:T1314300
+E7	PositiveRegulationOfGeneExpression: Cause:T1314302 Theme:T1314304
+E8	PositiveRegulationOfGeneExpression: Cause:T1314303 Theme:T1314304
+T1204334	Entity 1306 1370	low pH in exponential phase cells grown in minimal glucose media
+E9	PositiveRegulationOfGeneExpression: Cause:T1204334 Theme:T1314313
+E10	PositiveRegulationOfGeneExpression: Cause:T1204334 Theme:T1314314
+E11	PositiveRegulationOfGeneExpression: Cause:T1204334 Theme:T1314316
+E12	PositiveRegulationOfGeneExpression: Cause:T1314318 Theme:T1314317
+T1204335	Entity 1376 1380	acid
+E13	PositiveRegulationOfGeneExpression: Cause:T1204335 Theme:T1314317
+T1204336	Entity 1429 1433	acid
+E14	PositiveRegulationOfGeneExpression: Cause:T1204336 Theme:T1314319
+T1204337	Entity 1498 1500	pH
+E15	RegulationOfGeneExpression: Cause:T1204337 Theme:T1314321
+E16	RegulationOfGeneExpression: Cause:T1314320 Theme:T1314321
+E17	RegulationOfGeneExpression: Cause:T1314325 Theme:T1314326

@@ -1,0 +1,25 @@
+T10911200	RegulationOfGeneExpression 26 35	dependent
+T10911201	RegulationOfGeneExpression 36 43	control
+T10911202	RegulationOfGeneExpression 318 327	dependent
+T10911203	RegulationOfGeneExpression 328 338	regulation
+T10911204	TranscriptionOfGene 475 490	Transcriptional
+T10911205	GeneExpression 612 622	Expression
+T10911206	NegativeRegulationOfGeneExpression 636 643	reduced
+T10911207	RegulationOfGeneExpression 721 728	control
+T10911208	RegulationOfGeneExpression 756 764	mediated
+T10911209	NegativeRegulationOfGeneExpression 765 775	repression
+T10911210	GeneticModification 825 832	mutated
+T10911211	RegulationOfGeneExpression 933 940	control
+T10911212	RegulationOfGeneExpression 973 982	dependent
+T10911213	RegulationOfGeneExpression 983 991	controls
+T10911214	NegativeRegulationOfGeneExpression 997 1006	abolished
+T10911215	GeneticModification 1014 1022	mutation
+T10911216	RegulationOfGeneExpression 1040 1050	regulatory
+T10911217	NegativeRegulationOfGeneExpression 1141 1150	repressor
+T12011194	Entity 14 25	growth-rate
+E1	RegulationOfGeneExpression: Cause:T12011194 Theme:T13111179
+T12011195	Entity 650 670	stringent conditions
+E2	NegativeRegulationOfGeneExpression: Cause:T12011195 Theme:T13111184
+E3	RegulationOfGeneExpression: Cause:T13111190 Theme:T13111185
+E4	NegativeRegulationOfGeneExpression: Cause:T13111187 Theme:T13111185
+E5	RegulationOfGeneExpression: Cause:T13111191 Theme:T13111185

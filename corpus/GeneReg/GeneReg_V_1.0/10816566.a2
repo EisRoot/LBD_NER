@@ -1,0 +1,16 @@
+T1091024	RegulationOfGeneExpression 20 29	regulator
+T1091025	RegulationOfGeneExpression 42 49	control
+T1091026	GeneExpression 138 147	synthesis
+T1091027	RegulationOfGeneExpression 229 238	regulated
+T1091028	GeneticModification 316 328	Inactivation
+T1091029	NegativeRegulationOfGeneExpression 367 386	acts as a repressor
+T1091030	GeneticModification 426 432	mutant
+T1091031	GeneticModification 514 523	mutations
+T1091032	RegulationOfGeneExpression 1078 1092	autoregulation
+T1091033	GeneticModification 1183 1189	mutant
+T1091034	GeneticModification 1319 1325	mutant
+E1	RegulationOfGeneExpression: Cause:T131989 Theme:T131990
+E2	RegulationOfGeneExpression: Cause:T131994 Theme:T131993
+T1201014	Entity 272 276	zinc
+E3	RegulationOfGeneExpression: Cause:T1201014 Theme:T131993
+E4	RegulationOfGeneExpression: Cause:T1311004 Theme:T1311005

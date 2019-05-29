@@ -1,0 +1,10 @@
+T1099604	TranscriptionOfGene 60 75	transcriptional
+T1099605	RegulationOfGeneExpression 76 86	regulation
+T1099606	PositiveRegulationOfGeneExpression 221 241	positively regulated
+T1099607	RegulationOfGeneExpression 312 322	regulatory
+T1099608	PositiveRegulationOfGeneExpression 699 706	inducer
+T1209599	Entity 245 252	cyanate
+E1	PositiveRegulationOfGeneExpression: Cause:T1209599 Theme:T1319585
+E2	PositiveRegulationOfGeneExpression: Cause:T1319586 Theme:T1319585
+T1209602	Entity 679 684	azide
+E3	PositiveRegulationOfGeneExpression: Cause:T1209602 Theme:T1319596

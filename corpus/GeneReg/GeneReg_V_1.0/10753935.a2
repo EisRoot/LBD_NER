@@ -1,0 +1,19 @@
+T109929	PositiveRegulationOfGeneExpression 8 22	overproduction
+T109930	TranscriptionOfGene 57 70	transcription
+T109931	GeneExpression 94 103	synthesis
+T109932	GeneticModification 111 118	absence
+T109933	NegativeRegulationOfGeneExpression 376 393	inhibitory effect
+T109934	GeneExpression 432 447	gene expression
+T109935	GeneExpression 524 533	synthesis
+T109936	NegativeRegulationOfGeneExpression 551 559	impaired
+T109937	TranscriptionOfGene 576 589	transcription
+T109938	GeneticModification 623 630	lacking
+T109939	NegativeRegulationOfGeneExpression 671 681	inhibition
+T109940	TranscriptionOfGene 692 707	transcriptional
+T109941	PositiveRegulationOfGeneExpression 724 738	overproduction
+T109942	NegativeRegulationOfGeneExpression 769 775	reduce
+T109943	TranscriptionOfGene 795 810	transcriptional
+T109944	NegativeRegulationOfGeneExpression 811 817	blocks
+T109945	TranscriptionOfGene 864 879	transcriptional
+T109946	GeneticModification 1009 1016	absence
+T109947	TranscriptionOfGene 1335 1348	transcription

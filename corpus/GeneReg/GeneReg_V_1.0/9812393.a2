@@ -1,0 +1,8 @@
+T10912481	RegulationOfGeneExpression 12 22	regulatory
+T10912482	GeneticModification 775 782	lesions
+T10912483	RegulationOfGeneExpression 890 898	involved
+T10912484	GeneExpression 902 911	synthesis
+T10912485	PositiveRegulationOfGeneExpression 1455 1464	inducible
+E1	RegulationOfGeneExpression: Cause:T13112478 Theme:T13112480
+E2	RegulationOfGeneExpression: Cause:T13112477 Theme:T13112480
+E3	RegulationOfGeneExpression: Cause:T13112479 Theme:T13112480

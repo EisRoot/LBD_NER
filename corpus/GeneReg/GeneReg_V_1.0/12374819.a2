@@ -1,0 +1,26 @@
+T1093421	RegulationOfGeneExpression 47 56	dependent
+T1093422	GeneExpression 57 67	expression
+T1093423	GeneExpression 131 141	Expression
+T1093424	RegulationOfGeneExpression 218 227	regulated
+T1093425	GeneExpression 276 286	expression
+T1093426	GeneExpression 339 349	expression
+T1093427	PositiveRegulationOfGeneExpression 368 378	stimulated
+T1093428	RegulationOfGeneExpression 435 445	regulation
+T1093429	TranscriptionOfGene 471 484	transcription
+T1093430	RegulationOfGeneExpression 605 615	regulation
+T1093431	GeneExpression 624 634	expression
+T1093432	PositiveRegulationOfGeneExpression 814 823	activated
+T1093433	GeneExpression 829 839	expression
+T1093434	RegulationOfGeneExpression 880 889	dependent
+T1093435	NegativeRegulationOfGeneExpression 933 942	repressed
+T1093436	GeneExpression 948 958	expression
+T1093437	GeneticModification 1017 1025	deletion
+T1093438	RegulationOfGeneExpression 1123 1132	dependent
+T1093439	PositiveRegulationOfGeneExpression 1133 1143	activation
+T1093440	GeneExpression 1147 1162	gene expression
+T1203417	Entity 34 46	growth phase
+E1	RegulationOfGeneExpression: Cause:T1203417 Theme:T1313405
+T1203418	Entity 235 247	growth phase
+E2	RegulationOfGeneExpression: Cause:T1203418 Theme:T1313407
+E3	RegulationOfGeneExpression: Cause:T1313411 Theme:T1313409
+E4	PositiveRegulationOfGeneExpression: Cause:T1313413 Theme:T1313414

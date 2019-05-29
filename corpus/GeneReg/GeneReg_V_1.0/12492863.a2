@@ -1,0 +1,16 @@
+T1093824	TranscriptionOfGene 23 36	transcription
+T1093825	NegativeRegulationOfGeneExpression 37 47	repression
+T1093826	NegativeRegulationOfGeneExpression 106 115	repressor
+T1093827	NegativeRegulationOfGeneExpression 312 321	represses
+T1093828	GeneExpression 326 336	expression
+T1093829	TranscriptionOfGene 404 417	transcription
+T1093830	TranscriptionOfGene 583 596	transcription
+T1093831	NegativeRegulationOfGeneExpression 597 607	repression
+T1093832	NegativeRegulationOfGeneExpression 1031 1041	repression
+T1093833	TranscriptionOfGene 1050 1063	transcription
+T1093834	NegativeRegulationOfGeneExpression 1308 1318	repression
+E1	NegativeRegulationOfGeneExpression: Cause:T1313789 Theme:T1313788
+E2	NegativeRegulationOfGeneExpression: Cause:T1313790 Theme:T1313791
+E3	NegativeRegulationOfGeneExpression: Cause:T1313795 Theme:T1313797
+E4	NegativeRegulationOfGeneExpression: Cause:T1313799 Theme:T1313801
+E5	NegativeRegulationOfGeneExpression: Cause:T1313810 Theme:T1313813

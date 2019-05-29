@@ -1,0 +1,13 @@
+T1098083	GeneticModification 42 51	mutations
+T1098084	GeneticModification 138 145	mutants
+T1098085	PositiveRegulationOfGeneExpression 218 229	derepressed
+T1098086	GeneExpression 230 240	expression
+T1098087	GeneticModification 290 297	mutants
+T1098088	PositiveRegulationOfGeneExpression 375 382	induced
+T1098089	GeneExpression 383 393	expression
+T1098090	GeneticModification 453 462	mutations
+T1098091	TranscriptionOfGene 579 592	transcription
+T1098092	GeneticModification 651 660	mutations
+T1098093	GeneticModification 789 798	mutations
+T1098094	GeneticModification 820 828	mutation
+E1	NegativeRegulationOfGeneExpression: Cause:T1318075 Theme:T1318077

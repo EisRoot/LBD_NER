@@ -1,0 +1,12 @@
+T1098377	NegativeRegulationOfGeneExpression 201 211	repression
+T1098378	GeneExpression 410 420	expression
+T1098379	GeneticModification 690 696	mutant
+T1098380	NegativeRegulationOfGeneExpression 720 730	repression
+T1098381	RegulationOfGeneExpression 739 747	affected
+T1098382	RegulationOfGeneExpression 861 874	co-regulation
+T1098383	NegativeRegulationOfGeneExpression 960 970	repression
+T1098384	TranscriptionOfGene 991 1004	transcription
+T1208376	Entity 191 200	anaerobic
+E1	NegativeRegulationOfGeneExpression: Cause:T1208376 Theme:T1318364
+E2	NegativeRegulationOfGeneExpression: Cause:T1318371 Theme:T1318372
+E3	NegativeRegulationOfGeneExpression: Cause:T1318371 Theme:T1318373

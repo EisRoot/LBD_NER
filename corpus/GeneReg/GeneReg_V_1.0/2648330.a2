@@ -1,0 +1,21 @@
+T1097963	RegulationOfGeneExpression 45 53	involved
+T1097964	RegulationOfGeneExpression 64 74	regulation
+T1097965	RegulationOfGeneExpression 86 96	controlled
+T1097966	RegulationOfGeneExpression 220 228	involved
+T1097967	RegulationOfGeneExpression 239 249	regulation
+T1097968	RegulationOfGeneExpression 273 283	controlled
+T1097969	RegulationOfGeneExpression 665 675	regulatory
+T1097970	RegulationOfGeneExpression 765 775	regulatory
+T1097971	RegulationOfGeneExpression 866 874	required
+T1097972	RegulationOfGeneExpression 887 894	control
+T1097973	RegulationOfGeneExpression 903 913	regulation
+T1097974	GeneExpression 932 941	synthesis
+T1097975	TranscriptionOfGene 1174 1187	transcription
+T1207958	Entity 78 85	nitrate
+E1	RegulationOfGeneExpression: Cause:T1207958 Theme:T1317942
+E2	RegulationOfGeneExpression: Cause:T1317941 Theme:T1317942
+T1207959	Entity 265 272	nitrate
+E3	RegulationOfGeneExpression: Cause:T1207959 Theme:T1317944
+E4	RegulationOfGeneExpression: Cause:T1207959 Theme:T1317945
+E5	RegulationOfGeneExpression: Cause:T1207959 Theme:T1317946
+E6	RegulationOfGeneExpression: Cause:T1207959 Theme:T1317947

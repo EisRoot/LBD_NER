@@ -1,0 +1,71 @@
+T10910271	PositiveRegulationOfGeneExpression 0 9	Induction
+T10910272	TranscriptionOfGene 130 145	transcriptional
+T10910273	RegulationOfGeneExpression 146 156	regulation
+T10910274	TranscriptionOfGene 158 173	Transcriptional
+T10910275	RegulationOfGeneExpression 174 184	regulation
+T10910276	RegulationOfGeneExpression 397 407	regulatory
+T10910277	GeneticModification 408 415	mutants
+T10910278	GeneExpression 463 475	biosynthesis
+T10910279	PositiveRegulationOfGeneExpression 592 598	induce
+T10910280	PositiveRegulationOfGeneExpression 690 699	induction
+T10910281	GeneticModification 734 740	mutant
+T10910282	PositiveRegulationOfGeneExpression 756 765	induction
+T10910283	RegulationOfGeneExpression 850 859	dependent
+T10910284	PositiveRegulationOfGeneExpression 1035 1045	activation
+T10910285	TranscriptionOfGene 1054 1067	transcription
+T10910286	PositiveRegulationOfGeneExpression 1138 1144	induce
+T10910287	PositiveRegulationOfGeneExpression 1180 1191	stimulation
+T10910288	TranscriptionOfGene 1200 1213	transcription
+T10910289	PositiveRegulationOfGeneExpression 1259 1266	induces
+T10910290	GeneExpression 1273 1285	biosynthesis
+T10910291	RegulationOfGeneExpression 1328 1336	mediated
+T10910292	RegulationOfGeneExpression 1340 1347	effects
+T10910293	RegulationOfGeneExpression 1369 1377	mediated
+T10910294	NegativeRegulationOfGeneExpression 1378 1388	repression
+T12010253	Entity 58 67	anaerobic
+E1	PositiveRegulationOfGeneExpression: Cause:T12010253 Theme:T13110220
+T12010254	Entity 88 95	diamide
+E2	PositiveRegulationOfGeneExpression: Cause:T12010254 Theme:T13110220
+T12010255	Entity 100 119	1,10-phenanthroline
+E3	PositiveRegulationOfGeneExpression: Cause:T12010255 Theme:T13110220
+T12010256	Entity 417 424	Diamide
+E4	PositiveRegulationOfGeneExpression: Cause:T12010256 Theme:T13110224
+T12010257	Entity 453 462	anaerobic
+E5	PositiveRegulationOfGeneExpression: Cause:T12010257 Theme:T13110224
+E6	PositiveRegulationOfGeneExpression: Cause:T12010256 Theme:T13110225
+T12010258	Entity 578 591	anaerobically
+E7	PositiveRegulationOfGeneExpression: Cause:T12010258 Theme:T13110225
+T12010260	Entity 680 689	anaerobic
+E8	PositiveRegulationOfGeneExpression: Cause:T12010260 Theme:T13110230
+T12010259	Entity 645 667	Metal chelating agents
+E9	PositiveRegulationOfGeneExpression: Cause:T12010259 Theme:T13110230
+E10	PositiveRegulationOfGeneExpression: Cause:T13110236 Theme:T13110234
+T12010261	Entity 826 845	1,10-phenanthroline
+E11	PositiveRegulationOfGeneExpression: Cause:T12010261 Theme:T13110234
+E12	PositiveRegulationOfGeneExpression: Cause:T12010261 Theme:T13110235
+E13	PositiveRegulationOfGeneExpression: Cause:T13110236 Theme:T13110235
+T12010264	Entity 1025 1034	anaerobic
+E14	PositiveRegulationOfGeneExpression: Cause:T12010264 Theme:T13110240
+T12010263	Entity 998 1017	1,10-phenanthroline
+E15	PositiveRegulationOfGeneExpression: Cause:T12010263 Theme:T13110240
+T12010262	Entity 986 993	diamide
+E16	PositiveRegulationOfGeneExpression: Cause:T12010262 Theme:T13110240
+T12010267	Entity 1163 1176	anaerobically
+E17	PositiveRegulationOfGeneExpression: Cause:T12010267 Theme:T13110241
+T12010266	Entity 1118 1137	1,10-phenanthroline
+E18	PositiveRegulationOfGeneExpression: Cause:T12010266 Theme:T13110241
+E19	PositiveRegulationOfGeneExpression: Cause:T13110243 Theme:T13110241
+T12010265	Entity 1106 1113	diamide
+E20	PositiveRegulationOfGeneExpression: Cause:T12010265 Theme:T13110241
+E21	PositiveRegulationOfGeneExpression: Cause:T12010266 Theme:T13110244
+E22	PositiveRegulationOfGeneExpression: Cause:T12010265 Theme:T13110244
+T12010268	Entity 1220 1227	diamide
+E23	PositiveRegulationOfGeneExpression: Cause:T12010268 Theme:T13110245
+E24	RegulationOfGeneExpression: Cause:T13110246 Theme:T13110245
+T12010269	Entity 1237 1252	metal chelators
+E25	PositiveRegulationOfGeneExpression: Cause:T12010269 Theme:T13110245
+E26	NegativeRegulationOfGeneExpression: Cause:T13110249 Theme:T13110250
+E27	NegativeRegulationOfGeneExpression: Cause:T13110247 Theme:T13110250
+E28	NegativeRegulationOfGeneExpression: Cause:T13110248 Theme:T13110250
+T12010270	Entity 1484 1496	redox status
+E29	RegulationOfGeneExpression: Cause:T12010270 Theme:T13110252

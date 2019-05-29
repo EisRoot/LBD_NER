@@ -1,0 +1,12 @@
+T1096814	RegulationOfGeneExpression 172 181	regulated
+T1096815	Decrease 296 306	starvation
+T1096816	GeneticModification 341 348	mutated
+T1096817	Decrease 415 425	starvation
+T1096818	RegulationOfGeneExpression 447 453	effect
+T1096819	GeneExpression 462 472	expression
+T1096820	GeneticModification 478 484	mutant
+T1096821	GeneticModification 924 930	mutant
+T1206811	Entity 167 171	RpoS
+E1	RegulationOfGeneExpression: Cause:T1206811 Theme:T1316802
+T1206812	Entity 431 435	RpoS
+E2	RegulationOfGeneExpression: Cause:T1206812 Theme:T1316805

@@ -1,0 +1,36 @@
+T10911092	RegulationOfGeneExpression 36 44	mediates
+T10911093	PositiveRegulationOfGeneExpression 49 58	induction
+T10911094	GeneticModification 194 203	mutations
+T10911095	GeneExpression 257 267	expression
+T10911096	GeneticModification 368 377	mutations
+T10911097	RegulationOfGeneExpression 395 405	regulatory
+T10911098	RegulationOfGeneExpression 486 496	regulatory
+T10911099	GeneticModification 509 517	mutation
+T10911100	GeneExpression 557 567	expression
+T10911101	GeneticModification 587 595	deletion
+T10911102	GeneticModification 727 736	mutations
+T10911103	PositiveRegulationOfGeneExpression 748 757	induction
+T10911104	Increase 801 806	added
+T10911105	GeneticModification 824 837	substitutions
+T10911106	PositiveRegulationOfGeneExpression 1328 1337	induction
+T10911107	PositiveRegulationOfGeneExpression 1356 1364	requires
+T10911108	RegulationOfGeneExpression 1383 1392	regulator
+T10911109	GeneticModification 1521 1530	insertion
+T10911110	NegativeRegulationOfGeneExpression 1543 1552	abolishes
+T10911111	GeneExpression 1564 1574	expression
+T10911112	PositiveRegulationOfGeneExpression 1615 1628	overexpressed
+T10911113	PositiveRegulationOfGeneExpression 1647 1658	requirement
+T10911114	GeneExpression 1729 1739	expression
+T10911115	GeneticModification 1763 1769	mutant
+E1	PositiveRegulationOfGeneExpression: Cause:T13111050 Theme:T13111051
+T12011077	Entity 239 243	TMAO
+E2	PositiveRegulationOfGeneExpression: Cause:T12011077 Theme:T13111052
+T12011083	Entity 793 797	TMAO
+E3	PositiveRegulationOfGeneExpression: Cause:T12011083 Theme:T13111055
+E4	PositiveRegulationOfGeneExpression: Cause:T13111060 Theme:T13111058
+E5	PositiveRegulationOfGeneExpression: Cause:T13111059 Theme:T13111058
+T12011089	Entity 1323 1327	TMAO
+E6	PositiveRegulationOfGeneExpression: Cause:T12011089 Theme:T13111058
+E7	PositiveRegulationOfGeneExpression: Cause:T13111064 Theme:T13111065
+E8	PositiveRegulationOfGeneExpression: Cause:T13111067 Theme:T13111069
+E9	PositiveRegulationOfGeneExpression: Cause:T13111066 Theme:T13111069

@@ -1,0 +1,63 @@
+T1092350	RegulationOfGeneExpression 0 10	Regulation
+T1092351	GeneExpression 34 44	expression
+T1092352	TranscriptionOfGene 79 92	transcription
+T1092353	GeneExpression 94 104	Expression
+T1092354	RegulationOfGeneExpression 161 170	regulated
+T1092355	PositiveRegulationOfGeneExpression 215 225	stimulated
+T1092356	TranscriptionOfGene 435 448	transcription
+T1092357	RegulationOfGeneExpression 486 495	dependent
+T1092358	GeneExpression 557 567	expression
+T1092359	GeneticModification 588 600	null mutants
+T1092360	RegulationOfGeneExpression 648 656	involved
+T1092361	TranscriptionOfGene 660 673	transcription
+T1092362	PositiveRegulationOfGeneExpression 702 716	Overproduction
+T1092363	NegativeRegulationOfGeneExpression 728 737	decreased
+T1092364	RegulationOfGeneExpression 743 751	directed
+T1092365	TranscriptionOfGene 752 765	transcription
+T1092366	PositiveRegulationOfGeneExpression 909 918	stimulate
+T1092367	TranscriptionOfGene 919 932	transcription
+T1092368	GeneticModification 948 955	absence
+T1092369	GeneticModification 985 991	mutant
+T1092370	NegativeRegulationOfGeneExpression 1007 1016	decreased
+T1092371	GeneExpression 1041 1051	expression
+T1092372	GeneExpression 1057 1067	production
+T1092373	NegativeRegulationOfGeneExpression 1084 1093	decreased
+T1092374	NegativeRegulationOfGeneExpression 1101 1107	absent
+T1092375	GeneticModification 1129 1135	mutant
+T1092376	NegativeRegulationOfGeneExpression 1204 1213	repressed
+T1092377	GeneExpression 1225 1235	expression
+T1092378	GeneExpression 1315 1325	expression
+T1092379	GeneticModification 1336 1342	mutant
+T1092380	RegulationOfGeneExpression 1406 1415	dependent
+T1092381	TranscriptionOfGene 1445 1458	transcription
+T1092382	GeneticModification 1487 1495	Mutation
+T1092383	GeneticModification 1500 1501	-
+T1092384	PositiveRegulationOfGeneExpression 1518 1526	increase
+T1092385	GeneExpression 1541 1551	expression
+T1092386	GeneticModification 1573 1579	mutant
+T1202335	Entity 192 207	phase of growth
+E1	PositiveRegulationOfGeneExpression: Cause:T1202335 Theme:T1312301
+T1202336	Entity 237 265	decelerating phase of growth
+E2	PositiveRegulationOfGeneExpression: Cause:T1202336 Theme:T1312302
+T1202338	Entity 509 513	RpoS
+E3	RegulationOfGeneExpression: Cause:T1202338 Theme:T1312306
+T1202340	Entity 626 638	sigma factor
+E4	RegulationOfGeneExpression: Cause:T1202340 Theme:T1312309
+T1202341	Entity 720 727	sigma70
+E5	NegativeRegulationOfGeneExpression: Cause:T1202341 Theme:T1312310
+T1202344	Entity 873 883	cyclic AMP
+E6	PositiveRegulationOfGeneExpression: Cause:T1202344 Theme:T1312312
+E7	PositiveRegulationOfGeneExpression: Cause:T1312311 Theme:T1312312
+T1202345	Entity 966 970	cAMP
+E8	PositiveRegulationOfGeneExpression: Cause:T1202345 Theme:T1312316
+E9	PositiveRegulationOfGeneExpression: Cause:T1312313 Theme:T1312316
+T1202346	Entity 1111 1115	rpoS
+E10	PositiveRegulationOfGeneExpression: Cause:T1202346 Theme:T1312318
+E11	PositiveRegulationOfGeneExpression: Cause:T1312319 Theme:T1312318
+E12	NegativeRegulationOfGeneExpression: Cause:T1312320 Theme:T1312322
+E13	NegativeRegulationOfGeneExpression: Cause:T1312321 Theme:T1312322
+T1202347	Entity 1401 1405	rpoS
+E14	RegulationOfGeneExpression: Cause:T1202347 Theme:T1312329
+T1202348	Entity 1420 1424	rpoS
+E15	RegulationOfGeneExpression: Cause:T1202348 Theme:T1312329
+E16	NegativeRegulationOfGeneExpression: Cause:T1312330 Theme:T1312331

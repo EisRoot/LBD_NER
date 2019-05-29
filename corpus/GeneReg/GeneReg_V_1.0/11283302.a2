@@ -1,0 +1,12 @@
+T1092125	GeneExpression 357 367	expression
+T1092126	PositiveRegulationOfGeneExpression 411 418	induced
+T1092127	RegulationOfGeneExpression 446 455	regulated
+T1092128	PositiveRegulationOfGeneExpression 463 472	activator
+T1092129	GeneExpression 657 667	Expression
+T1092130	GeneticModification 867 873	mutant
+T1092131	GeneticModification 1129 1135	mutant
+T1092132	GeneExpression 1202 1212	expressing
+T1092133	GeneticModification 1464 1470	mutant
+E1	PositiveRegulationOfGeneExpression: Cause:T1312101 Theme:T1312100
+T1202123	Entity 422 441	growth on glycolate
+E2	PositiveRegulationOfGeneExpression: Cause:T1202123 Theme:T1312100

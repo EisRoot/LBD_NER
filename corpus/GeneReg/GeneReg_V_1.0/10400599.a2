@@ -1,0 +1,18 @@
+T109394	GeneticModification 34 43	mutations
+T109395	RegulationOfGeneExpression 68 78	regulatory
+T109396	RegulationOfGeneExpression 184 193	regulates
+T109397	GeneExpression 198 208	expression
+T109398	GeneExpression 323 333	expression
+T109399	PositiveRegulationOfGeneExpression 342 350	requires
+T109400	PositiveRegulationOfGeneExpression 390 397	inducer
+T109401	PositiveRegulationOfGeneExpression 450 472	function as an inducer
+T109402	GeneticModification 587 594	mutants
+T109403	PositiveRegulationOfGeneExpression 607 614	induced
+T109404	GeneticModification 677 684	mutants
+T109405	PositiveRegulationOfGeneExpression 774 781	inducer
+T109406	GeneticModification 896 905	mutations
+T109407	PositiveRegulationOfGeneExpression 1131 1138	inducer
+E1	RegulationOfGeneExpression: Cause:T131379 Theme:T131380
+E2	PositiveRegulationOfGeneExpression: Cause:T131383 Theme:T131382
+T120389	Entity 398 408	xanthosine
+E3	PositiveRegulationOfGeneExpression: Cause:T120389 Theme:T131382

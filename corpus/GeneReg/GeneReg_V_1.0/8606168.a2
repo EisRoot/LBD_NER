@@ -1,0 +1,60 @@
+T10910433	TranscriptionOfGene 71 86	transcriptional
+T10910434	PositiveRegulationOfGeneExpression 87 96	activator
+T10910435	PositiveRegulationOfGeneExpression 128 135	induced
+T10910436	PositiveRegulationOfGeneExpression 227 234	induced
+T10910437	TranscriptionOfGene 423 436	Transcription
+T10910438	RegulationOfGeneExpression 458 464	driven
+T10910439	PositiveRegulationOfGeneExpression 493 503	stimulated
+T10910440	TranscriptionOfGene 571 586	transcriptional
+T10910441	PositiveRegulationOfGeneExpression 587 596	activator
+T10910442	RegulationOfGeneExpression 626 634	controls
+T10910443	GeneExpression 635 645	expression
+T10910444	GeneticModification 739 750	mutagenesis
+T10910445	NegativeRegulationOfGeneExpression 799 808	abolished
+T10910446	RegulationOfGeneExpression 817 826	dependent
+T10910447	PositiveRegulationOfGeneExpression 827 836	induction
+T10910448	TranscriptionOfGene 925 936	transcribed
+T10910449	PositiveRegulationOfGeneExpression 1037 1045	enhancer
+T10910450	TranscriptionOfGene 1080 1095	transcriptional
+T10910451	PositiveRegulationOfGeneExpression 1096 1106	activators
+T10910452	PositiveRegulationOfGeneExpression 1165 1175	activators
+T10910453	RegulationOfGeneExpression 1274 1284	regulatory
+T10910454	GeneticModification 1336 1342	mutant
+T10910455	GeneticModification 1379 1388	truncated
+T10910456	GeneticModification 1403 1408	delta
+T10910457	GeneticModification 1525 1530	delta
+T10910458	PositiveRegulationOfGeneExpression 1573 1581	activate
+T10910459	GeneExpression 1586 1596	expression
+T10910460	NegativeRegulationOfGeneExpression 1605 1612	absence
+T10910461	PositiveRegulationOfGeneExpression 1616 1624	inducing
+T10910462	GeneticModification 1671 1676	delta
+T10910463	NegativeRegulationOfGeneExpression 1691 1701	repression
+T10910464	RegulationOfGeneExpression 1720 1728	mediated
+T10910465	NegativeRegulationOfGeneExpression 1736 1754	negative regulator
+T12010407	Entity 121 127	stress
+E1	PositiveRegulationOfGeneExpression: Cause:T12010407 Theme:T13110384
+E2	PositiveRegulationOfGeneExpression: Cause:T13110383 Theme:T13110384
+T12010409	Entity 302 329	filamentous phage infection
+E3	PositiveRegulationOfGeneExpression: Cause:T12010409 Theme:T13110385
+T12010410	Entity 331 348	ethanol treatment
+E4	PositiveRegulationOfGeneExpression: Cause:T12010410 Theme:T13110385
+T12010413	Entity 405 421	stationary phase
+E5	PositiveRegulationOfGeneExpression: Cause:T12010413 Theme:T13110385
+T12010412	Entity 365 375	heat shock
+E6	PositiveRegulationOfGeneExpression: Cause:T12010412 Theme:T13110385
+T12010408	Entity 263 283	stressful conditions
+E7	PositiveRegulationOfGeneExpression: Cause:T12010408 Theme:T13110385
+T12010411	Entity 350 363	osmotic shock
+E8	PositiveRegulationOfGeneExpression: Cause:T12010411 Theme:T13110385
+T12010414	Entity 472 479	sigma54
+E9	RegulationOfGeneExpression: Cause:T12010414 Theme:T13110386
+E10	PositiveRegulationOfGeneExpression: Cause:T13110387 Theme:T13110386
+E11	PositiveRegulationOfGeneExpression: Cause:T13110388 Theme:T13110389
+T12010416	Entity 809 816	sigma54
+E12	RegulationOfGeneExpression: Cause:T12010416 Theme:T13110392
+E13	PositiveRegulationOfGeneExpression: Cause:T13110391 Theme:T13110392
+T12010417	Entity 966 974	sigma 70
+E14	RegulationOfGeneExpression: Cause:T12010417 Theme:T13110394
+E15	PositiveRegulationOfGeneExpression: Cause:T13110400 Theme:T13110401
+E16	NegativeRegulationOfGeneExpression: Cause:T13110405 Theme:T13110404
+E17	PositiveRegulationOfGeneExpression: Cause:T13110402 Theme:T13110404

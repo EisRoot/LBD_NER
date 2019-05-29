@@ -1,0 +1,54 @@
+T1091619	NegativeRegulationOfGeneExpression 0 9	Silencing
+T1091620	PositiveRegulationOfGeneExpression 14 24	activation
+T1091621	GeneExpression 43 53	expression
+T1091622	NegativeRegulationOfGeneExpression 221 229	silenced
+T1091623	TranscriptionOfGene 420 435	Transcriptional
+T1091624	PositiveRegulationOfGeneExpression 436 448	derepression
+T1091625	PositiveRegulationOfGeneExpression 453 463	activation
+T1091626	GeneticModification 542 552	deficiency
+T1091627	PositiveRegulationOfGeneExpression 562 576	overproduction
+T1091628	GeneticModification 600 609	deficient
+T1091629	GeneticModification 631 638	absence
+T1091630	PositiveRegulationOfGeneExpression 647 661	overproduction
+T1091631	PositiveRegulationOfGeneExpression 683 694	derepressed
+T1091632	GeneExpression 700 710	expression
+T1091633	PositiveRegulationOfGeneExpression 751 765	overproduction
+T1091634	PositiveRegulationOfGeneExpression 792 803	derepresses
+T1091635	TranscriptionOfGene 809 822	transcription
+T1091636	NegativeRegulationOfGeneExpression 826 839	counteracting
+T1091637	PositiveRegulationOfGeneExpression 888 896	required
+T1091638	GeneExpression 906 916	expression
+T1091639	GeneticModification 1033 1044	alterations
+T1091640	PositiveRegulationOfGeneExpression 1118 1131	higher levels
+T1091641	GeneExpression 1140 1150	expression
+T1091642	GeneticModification 1158 1169	alterations
+T1091643	NegativeRegulationOfGeneExpression 1212 1219	reduced
+T1091644	GeneExpression 1225 1235	expression
+T1091645	PositiveRegulationOfGeneExpression 1316 1325	important
+T1091646	GeneExpression 1335 1345	expression
+T1091647	PositiveRegulationOfGeneExpression 1374 1383	activated
+T1091648	PositiveRegulationOfGeneExpression 1387 1401	overexpression
+T1091649	TranscriptionOfGene 1423 1433	transcript
+T1091650	GeneticModification 1582 1589	absence
+T1091651	TranscriptionOfGene 1671 1688	transcriptionally
+T1091652	PositiveRegulationOfGeneExpression 1689 1698	activated
+T1091653	NegativeRegulationOfGeneExpression 1900 1909	silencing
+T1091654	RegulationOfGeneExpression 1957 1967	regulation
+T1091655	NegativeRegulationOfGeneExpression 1977 1985	silenced
+E1	NegativeRegulationOfGeneExpression: Cause:T1311575 Theme:T1311574
+E2	NegativeRegulationOfGeneExpression: Cause:T1311581 Theme:T1311579
+E3	PositiveRegulationOfGeneExpression: Cause:T1311582 Theme:T1311579
+E4	NegativeRegulationOfGeneExpression: Cause:T1311583 Theme:T1311585
+E5	PositiveRegulationOfGeneExpression: Cause:T1311586 Theme:T1311588
+E6	PositiveRegulationOfGeneExpression: Cause:T1311591 Theme:T1311592
+T1201615	Entity 850 860	cyclic AMP
+E7	PositiveRegulationOfGeneExpression: Cause:T1201615 Theme:T1311592
+E8	PositiveRegulationOfGeneExpression: Cause:T1311595 Theme:T1311596
+E9	PositiveRegulationOfGeneExpression: Cause:T1311597 Theme:T1311598
+T1201616	Entity 1244 1260	anaerobic growth
+E10	PositiveRegulationOfGeneExpression: Cause:T1201616 Theme:T1311601
+E11	PositiveRegulationOfGeneExpression: Cause:T1311600 Theme:T1311601
+E12	PositiveRegulationOfGeneExpression: Cause:T1311603 Theme:T1311602
+E13	PositiveRegulationOfGeneExpression: Cause:T1311609 Theme:T1311608
+E14	PositiveRegulationOfGeneExpression: Cause:T1311610 Theme:T1311608
+E15	NegativeRegulationOfGeneExpression: Cause:T1311613 Theme:T1311612

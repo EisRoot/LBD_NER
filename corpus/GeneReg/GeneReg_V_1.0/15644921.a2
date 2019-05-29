@@ -1,0 +1,24 @@
+T1095718	PositiveRegulationOfGeneExpression 29 39	activation
+T1095719	PositiveRegulationOfGeneExpression 119 127	required
+T1095720	GeneExpression 136 146	expression
+T1095721	GeneExpression 268 278	expression
+T1095722	PositiveRegulationOfGeneExpression 312 321	increased
+T1095723	GeneExpression 322 332	expression
+T1095724	PositiveRegulationOfGeneExpression 423 433	activation
+T1095725	PositiveRegulationOfGeneExpression 434 442	requires
+T1095726	TranscriptionOfGene 536 547	transcribed
+T1095727	PositiveRegulationOfGeneExpression 568 575	induced
+T1095728	PositiveRegulationOfGeneExpression 593 602	induction
+T1095729	PositiveRegulationOfGeneExpression 611 618	require
+T1095730	RegulationOfGeneExpression 637 643	effect
+T1095731	GeneExpression 659 669	expression
+E1	PositiveRegulationOfGeneExpression: Cause:T1315701 Theme:T1315700
+E2	PositiveRegulationOfGeneExpression: Cause:T1315699 Theme:T1315700
+E3	PositiveRegulationOfGeneExpression: Cause:T1315698 Theme:T1315700
+E4	PositiveRegulationOfGeneExpression: Cause:T1315702 Theme:T1315703
+E5	PositiveRegulationOfGeneExpression: Cause:T1315704 Theme:T1315705
+E6	PositiveRegulationOfGeneExpression: Cause:T1315710 Theme:T1315709
+E7	PositiveRegulationOfGeneExpression: Cause:T1315712 Theme:T1315711
+E8	PositiveRegulationOfGeneExpression: Cause:T1315713 Theme:T1315711
+E9	RegulationOfGeneExpression: Cause:T1315714 Theme:T1315715
+E10	RegulationOfGeneExpression: Cause:T1315714 Theme:T1315716

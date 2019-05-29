@@ -1,0 +1,49 @@
+T10912398	TranscriptionOfGene 0 13	Transcription
+T10912399	RegulationOfGeneExpression 726 735	regulator
+T10912400	RegulationOfGeneExpression 853 865	co-regulated
+T10912401	GeneExpression 928 938	expression
+T10912402	GeneExpression 940 950	Expression
+T10912403	NegativeRegulationOfGeneExpression 977 986	repressed
+T10912404	PositiveRegulationOfGeneExpression 1008 1017	activated
+T10912405	RegulationOfGeneExpression 1045 1054	regulated
+T10912406	NegativeRegulationOfGeneExpression 1095 1104	repressed
+T10912407	NegativeRegulationOfGeneExpression 1195 1205	repression
+T10912408	GeneExpression 1213 1222	synthesis
+T10912409	NegativeRegulationOfGeneExpression 1279 1288	repressed
+T10912410	RegulationOfGeneExpression 1357 1365	mediated
+T10912411	PositiveRegulationOfGeneExpression 1380 1389	activated
+T10912412	RegulationOfGeneExpression 1413 1422	regulated
+T10912413	TranscriptionOfGene 1495 1508	transcription
+T10912414	PositiveRegulationOfGeneExpression 1543 1552	initiated
+T10912415	RegulationOfGeneExpression 1557 1566	regulated
+T10912416	RegulationOfGeneExpression 1640 1652	co-regulated
+T10912417	RegulationOfGeneExpression 1682 1690	mediated
+T10912418	NegativeRegulationOfGeneExpression 1691 1701	repression
+T10912419	TranscriptionOfGene 1746 1762	co-transcription
+T10912420	GeneticModification 1870 1877	mutants
+E1	RegulationOfGeneExpression: Cause:T13112366 Theme:T13112363
+E2	RegulationOfGeneExpression: Cause:T13112365 Theme:T13112363
+T12012393	Entity 1108 1115	glucose
+E3	NegativeRegulationOfGeneExpression: Cause:T12012393 Theme:T13112363
+T12012394	Entity 1119 1131	anaerobiosis
+E4	NegativeRegulationOfGeneExpression: Cause:T12012394 Theme:T13112363
+T12012392	Entity 1021 1029	sigma 38
+E5	PositiveRegulationOfGeneExpression: Cause:T12012392 Theme:T13112363
+E6	NegativeRegulationOfGeneExpression: Cause:T13112364 Theme:T13112363
+E7	NegativeRegulationOfGeneExpression: Cause:T13112367 Theme:T13112363
+E8	RegulationOfGeneExpression: Cause:T13112368 Theme:T13112363
+E9	RegulationOfGeneExpression: Cause:T13112369 Theme:T13112363
+E10	RegulationOfGeneExpression: Cause:T13112376 Theme:T13112371
+E11	RegulationOfGeneExpression: Cause:T13112375 Theme:T13112371
+T12012396	Entity 1343 1355	anaerobiosis
+E12	NegativeRegulationOfGeneExpression: Cause:T12012396 Theme:T13112371
+E13	PositiveRegulationOfGeneExpression: Cause:T13112374 Theme:T13112371
+E14	NegativeRegulationOfGeneExpression: Cause:T13112373 Theme:T13112371
+T12012397	Entity 1444 1452	sigma 38
+E15	RegulationOfGeneExpression: Cause:T12012397 Theme:T13112371
+E16	RegulationOfGeneExpression: Cause:T13112377 Theme:T13112371
+E17	RegulationOfGeneExpression: Cause:T13112372 Theme:T13112371
+T12012395	Entity 1297 1304	glucose
+E18	NegativeRegulationOfGeneExpression: Cause:T12012395 Theme:T13112371
+E19	NegativeRegulationOfGeneExpression: Cause:T13112382 Theme:T13112380
+E20	NegativeRegulationOfGeneExpression: Cause:T13112382 Theme:T13112381

@@ -1,0 +1,7 @@
+T109837	GeneticModification 763 772	mutations
+T109838	PositiveRegulationOfGeneExpression 1548 1561	overexpressed
+T109839	TranscriptionOfGene 1741 1756	transcriptional
+T109840	RegulationOfGeneExpression 1817 1827	regulatory
+T109841	GeneticModification 1839 1847	Deletion
+T109842	GeneExpression 1892 1902	expression
+T109843	NegativeRegulationOfGeneExpression 1932 1949	negatively acting

@@ -1,0 +1,5 @@
+T1099771	RegulationOfGeneExpression 298 304	direct
+T1099772	TranscriptionOfGene 305 318	transcription
+T1099773	RegulationOfGeneExpression 1158 1166	effector
+T1209754	Entity 189 196	sigma E
+E1	RegulationOfGeneExpression: Cause:T1209754 Theme:T1319751

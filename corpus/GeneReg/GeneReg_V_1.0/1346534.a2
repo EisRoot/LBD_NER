@@ -1,0 +1,44 @@
+T1094524	RegulationOfGeneExpression 32 42	controlled
+T1094525	NegativeRegulationOfGeneExpression 175 216	regulate, either positively or negatively
+T1094526	PositiveRegulationOfGeneExpression 175 202	regulate, either positively
+T1094527	TranscriptionOfGene 222 235	transcription
+T1094528	GeneExpression 382 392	expression
+T1094529	GeneticModification 418 424	mutant
+T1094530	Increase 440 448	presence
+T1094531	Decrease 452 459	absence
+T1094532	GeneticModification 476 483	absence
+T1094533	RegulationOfGeneExpression 512 518	alters
+T1094534	GeneExpression 523 533	expression
+T1094535	GeneExpression 567 577	expression
+T1094536	RegulationOfGeneExpression 623 631	affected
+T1094537	Increase 639 647	presence
+T1094538	Decrease 651 658	absence
+T1094539	PositiveRegulationOfGeneExpression 1194 1217	is a positive regulator
+T1094540	RegulationOfGeneExpression 1309 1318	effect on
+T1094541	GeneExpression 1323 1333	expression
+T1094542	GeneticModification 1380 1388	deletion
+T1094543	GeneExpression 1452 1461	synthesis
+T1094544	GeneExpression 1511 1521	expression
+T1094545	RegulationOfGeneExpression 1559 1568	regulated
+T1094546	PositiveRegulationOfGeneExpression 1661 1669	requires
+T1094547	NegativeRegulationOfGeneExpression 2122 2142	negatively regulated
+T1094548	PositiveRegulationOfGeneExpression 2264 2284	positively regulated
+E1	RegulationOfGeneExpression: Cause:T1314481 Theme:T1314480
+T1204517	Entity 50 57	leucine
+E2	RegulationOfGeneExpression: Cause:T1204517 Theme:T1314480
+E3	PositiveRegulationOfGeneExpression: Cause:T1314483 Theme:T1314484
+E4	NegativeRegulationOfGeneExpression: Cause:T1314483 Theme:T1314484
+T1204518	Entity 113 120	leucine
+E5	NegativeRegulationOfGeneExpression: Cause:T1204518 Theme:T1314484
+E6	PositiveRegulationOfGeneExpression: Cause:T1204518 Theme:T1314484
+E7	RegulationOfGeneExpression: Cause:T1314487 Theme:T1314488
+T1204521	Entity 678 685	leucine
+E8	RegulationOfGeneExpression: Cause:T1204521 Theme:T1314489
+E9	PositiveRegulationOfGeneExpression: Cause:T1314501 Theme:T1314502
+T1204523	Entity 1284 1291	leucine
+E10	RegulationOfGeneExpression: Cause:T1204523 Theme:T1314502
+E11	PositiveRegulationOfGeneExpression: Cause:T1314501 Theme:T1314503
+E12	RegulationOfGeneExpression: Cause:T1204523 Theme:T1314503
+E13	RegulationOfGeneExpression: Cause:T1314507 Theme:T1314506
+E14	NegativeRegulationOfGeneExpression: Cause:T1314514 Theme:T1314513
+E15	PositiveRegulationOfGeneExpression: Cause:T1314516 Theme:T1314515

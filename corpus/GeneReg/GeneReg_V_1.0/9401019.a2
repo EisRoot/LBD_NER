@@ -1,0 +1,7 @@
+T10911940	PositiveRegulationOfGeneExpression 282 291	inducible
+T10911941	RegulationOfGeneExpression 312 329	under the control
+T10911942	NegativeRegulationOfGeneExpression 337 346	repressor
+T10911943	NegativeRegulationOfGeneExpression 400 410	repression
+T12011932	Entity 295 303	D-allose
+E1	PositiveRegulationOfGeneExpression: Cause:T12011932 Theme:T13111914
+E2	RegulationOfGeneExpression: Cause:T13111915 Theme:T13111914

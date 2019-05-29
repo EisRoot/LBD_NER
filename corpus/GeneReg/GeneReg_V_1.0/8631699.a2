@@ -1,0 +1,51 @@
+T10910721	TranscriptionOfGene 74 89	transcriptional
+T10910722	PositiveRegulationOfGeneExpression 90 99	activator
+T10910723	GeneExpression 145 155	Expression
+T10910724	PositiveRegulationOfGeneExpression 246 253	induced
+T10910725	GeneExpression 438 449	synthesized
+T10910726	TranscriptionOfGene 602 613	transcribed
+T10910727	PositiveRegulationOfGeneExpression 866 880	overexpression
+T10910728	GeneExpression 905 914	synthesis
+T10910729	TranscriptionOfGene 954 965	transcribed
+T10910730	Increase 1030 1038	presence
+T10910731	TranscriptionOfGene 1105 1118	transcription
+T10910732	PositiveRegulationOfGeneExpression 1256 1270	Overproduction
+T10910733	PositiveRegulationOfGeneExpression 1295 1306	stimulation
+T10910734	TranscriptionOfGene 1310 1323	transcription
+T10910735	Increase 1368 1376	presence
+T10910736	PositiveRegulationOfGeneExpression 1467 1797	activator, thereby mediating induction of carnitine metabolism. Moreover, CaiF could complement in trans the regulatory defect of laboratory strain MC4100 impaired in the carnitine pathway. Expression of a caiF-lacZ operon fusion was subject to FNR regulator-mediated anaerobic induction and cyclic AMP receptor protein activation
+T10910737	RegulationOfGeneExpression 1486 1495	mediating
+T10910738	PositiveRegulationOfGeneExpression 1496 1505	induction
+T10910739	RegulationOfGeneExpression 1576 1586	regulatory
+T10910740	GeneExpression 1657 1667	Expression
+T10910741	RegulationOfGeneExpression 1716 1725	regulator
+T10910742	RegulationOfGeneExpression 1726 1734	mediated
+T10910743	PositiveRegulationOfGeneExpression 1745 1754	induction
+T10910744	RegulationOfGeneExpression 1857 1866	regulator
+T10910745	NegativeRegulationOfGeneExpression 1876 1886	repressors
+T10910746	RegulationOfGeneExpression 1912 1920	controls
+T10910747	RegulationOfGeneExpression 1996 2006	regulation
+E1	PositiveRegulationOfGeneExpression: Cause:T13110670 Theme:T13110671
+T12010704	Entity 276 288	anaerobiosis
+E2	PositiveRegulationOfGeneExpression: Cause:T12010704 Theme:T13110672
+T12010703	Entity 262 271	carnitine
+E3	PositiveRegulationOfGeneExpression: Cause:T12010703 Theme:T13110672
+E4	PositiveRegulationOfGeneExpression: Cause:T12010704 Theme:T13110673
+E5	PositiveRegulationOfGeneExpression: Cause:T12010703 Theme:T13110673
+T12010706	Entity 1042 1051	carnitine
+E6	RegulationOfGeneExpression: Cause:T12010706 Theme:T13110680
+T12010709	Entity 1380 1389	carnitine
+E7	PositiveRegulationOfGeneExpression: Cause:T12010709 Theme:T13110684
+E8	PositiveRegulationOfGeneExpression: Cause:T13110683 Theme:T13110684
+E9	PositiveRegulationOfGeneExpression: Cause:T12010709 Theme:T13110685
+E10	PositiveRegulationOfGeneExpression: Cause:T13110683 Theme:T13110685
+E11	PositiveRegulationOfGeneExpression: Cause:T13110686 Theme:T13110687
+T12010710	Entity 1436 1445	carnitine
+E12	PositiveRegulationOfGeneExpression: Cause:T12010710 Theme:T13110687
+T12010715	Entity 1735 1744	anaerobic
+E13	PositiveRegulationOfGeneExpression: Cause:T12010715 Theme:T13110690
+T12010716	Entity 1759 1769	cyclic AMP
+E14	PositiveRegulationOfGeneExpression: Cause:T12010716 Theme:T13110690
+E15	PositiveRegulationOfGeneExpression: Cause:T13110693 Theme:T13110690
+E16	PositiveRegulationOfGeneExpression: Cause:T13110692 Theme:T13110690
+E17	RegulationOfGeneExpression: Cause:T13110697 Theme:T13110699

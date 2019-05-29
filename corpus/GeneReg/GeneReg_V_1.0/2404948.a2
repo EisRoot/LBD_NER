@@ -1,0 +1,19 @@
+T1097781	RegulationOfGeneExpression 31 40	regulator
+T1097782	RegulationOfGeneExpression 142 151	regulated
+T1097783	RegulationOfGeneExpression 341 351	regulators
+T1097784	PositiveRegulationOfGeneExpression 509 518	stimulate
+T1097785	RegulationOfGeneExpression 607 616	effectors
+T1097786	RegulationOfGeneExpression 824 831	control
+T1097787	RegulationOfGeneExpression 840 850	regulatory
+T1097788	RegulationOfGeneExpression 878 888	dependence
+T1097789	GeneExpression 934 943	synthesis
+E1	RegulationOfGeneExpression: Cause:T1317757 Theme:T1317758
+E2	RegulationOfGeneExpression: Cause:T1317756 Theme:T1317758
+E3	RegulationOfGeneExpression: Cause:T1317760 Theme:T1317759
+E4	RegulationOfGeneExpression: Cause:T1317761 Theme:T1317759
+E5	PositiveRegulationOfGeneExpression: Cause:T1317763 Theme:T1317764
+E6	PositiveRegulationOfGeneExpression: Cause:T1317762 Theme:T1317764
+E7	PositiveRegulationOfGeneExpression: Cause:T1317762 Theme:T1317765
+E8	PositiveRegulationOfGeneExpression: Cause:T1317763 Theme:T1317765
+T1207780	Entity 920 924	RpoN
+E9	RegulationOfGeneExpression: Cause:T1207780 Theme:T1317772

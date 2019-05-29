@@ -1,0 +1,59 @@
+T1094009	PositiveRegulationOfGeneExpression 65 79	Overexpression
+T1094010	NegativeRegulationOfGeneExpression 224 233	abolished
+T1094011	GeneticModification 237 245	deletion
+T1094012	PositiveRegulationOfGeneExpression 275 282	induced
+T1094013	PositiveRegulationOfGeneExpression 291 305	overexpression
+T1094014	PositiveRegulationOfGeneExpression 409 416	induced
+T1094015	PositiveRegulationOfGeneExpression 425 439	overexpression
+T1094016	GeneticModification 447 454	absence
+T1094017	PositiveRegulationOfGeneExpression 530 537	induced
+T1094018	PositiveRegulationOfGeneExpression 546 560	overexpression
+T1094019	PositiveRegulationOfGeneExpression 595 602	induced
+T1094020	PositiveRegulationOfGeneExpression 611 625	overexpression
+T1094021	PositiveRegulationOfGeneExpression 683 693	upregulate
+T1094022	PositiveRegulationOfGeneExpression 737 747	upregulate
+T1094023	RegulationOfGeneExpression 932 941	regulated
+T1094024	GeneticModification 1051 1060	mutations
+T1094025	NegativeRegulationOfGeneExpression 1131 1140	reduction
+T1094026	PositiveRegulationOfGeneExpression 1149 1156	induced
+T1094027	GeneExpression 1171 1181	expression
+T1094028	PositiveRegulationOfGeneExpression 1269 1280	upregulates
+T1094029	PositiveRegulationOfGeneExpression 1303 1317	Overexpression
+T1094030	PositiveRegulationOfGeneExpression 1412 1426	overexpression
+T1094031	PositiveRegulationOfGeneExpression 1485 1494	activated
+T1094032	PositiveRegulationOfGeneExpression 1516 1523	induced
+T1094033	PositiveRegulationOfGeneExpression 1527 1541	overexpression
+T1094034	PositiveRegulationOfGeneExpression 1589 1596	induced
+T1094035	PositiveRegulationOfGeneExpression 1631 1638	induced
+T1094036	PositiveRegulationOfGeneExpression 1647 1661	overexpression
+T1094037	NegativeRegulationOfGeneExpression 1666 1675	abolished
+T1094038	GeneticModification 1679 1687	deletion
+T1094039	PositiveRegulationOfGeneExpression 1733 1740	induced
+T1094040	PositiveRegulationOfGeneExpression 1749 1763	overexpression
+T1094041	PositiveRegulationOfGeneExpression 1812 1819	induced
+E1	PositiveRegulationOfGeneExpression: Cause:T1313956 Theme:T1313951
+E2	PositiveRegulationOfGeneExpression: Cause:T1313956 Theme:T1313953
+E3	PositiveRegulationOfGeneExpression: Cause:T1313956 Theme:T1313955
+E4	PositiveRegulationOfGeneExpression: Cause:T1313958 Theme:T1313957
+E5	PositiveRegulationOfGeneExpression: Cause:T1313963 Theme:T1313962
+E6	PositiveRegulationOfGeneExpression: Cause:T1313965 Theme:T1313964
+E7	PositiveRegulationOfGeneExpression: Cause:T1313967 Theme:T1313968
+E8	PositiveRegulationOfGeneExpression: Cause:T1313967 Theme:T1313969
+E9	PositiveRegulationOfGeneExpression: Cause:T1313970 Theme:T1313969
+E10	RegulationOfGeneExpression: Cause:T1313972 Theme:T1313971
+E11	PositiveRegulationOfGeneExpression: Cause:T1313975 Theme:T1313976
+E12	PositiveRegulationOfGeneExpression: Cause:T1313975 Theme:T1313978
+E13	PositiveRegulationOfGeneExpression: Cause:T1313980 Theme:T1313981
+E14	PositiveRegulationOfGeneExpression: Cause:T1313986 Theme:T1313987
+E15	PositiveRegulationOfGeneExpression: Cause:T1313990 Theme:T1313988
+E16	PositiveRegulationOfGeneExpression: Cause:T1313989 Theme:T1313988
+E17	PositiveRegulationOfGeneExpression: Cause:T1313993 Theme:T1313992
+E18	RegulationOfGeneExpression: Cause:T1313995 Theme:T1313994
+E19	PositiveRegulationOfGeneExpression: Cause:T1313996 Theme:T1313994
+E20	PositiveRegulationOfGeneExpression: Cause:T1314003 Theme:T1313997
+E21	PositiveRegulationOfGeneExpression: Cause:T1314003 Theme:T1313998
+E22	PositiveRegulationOfGeneExpression: Cause:T1314003 Theme:T1313999
+E23	PositiveRegulationOfGeneExpression: Cause:T1314003 Theme:T1314000
+E24	PositiveRegulationOfGeneExpression: Cause:T1314003 Theme:T1314001
+E25	PositiveRegulationOfGeneExpression: Cause:T1314003 Theme:T1314002
+E26	PositiveRegulationOfGeneExpression: Cause:T1314004 Theme:T1314005

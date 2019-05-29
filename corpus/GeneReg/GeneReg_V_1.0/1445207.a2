@@ -1,0 +1,11 @@
+T1094659	PositiveRegulationOfGeneExpression 0 14	Overexpression
+T1094660	TranscriptionOfGene 79 92	transcription
+T1094661	PositiveRegulationOfGeneExpression 93 102	activator
+T1094662	PositiveRegulationOfGeneExpression 224 237	overexpressed
+T1094663	GeneticModification 328 337	truncated
+T1094664	GeneticModification 460 469	truncated
+T1094665	PositiveRegulationOfGeneExpression 515 527	overproduced
+T1094666	GeneticModification 700 709	mutations
+T1094667	RegulationOfGeneExpression 718 727	dependent
+T1094668	TranscriptionOfGene 728 741	transcription
+E1	RegulationOfGeneExpression: Cause:T1314652 Theme:T1314653

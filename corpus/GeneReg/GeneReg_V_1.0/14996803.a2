@@ -1,0 +1,31 @@
+T1095139	RegulationOfGeneExpression 0 10	Regulation
+T1095140	GeneExpression 14 24	expression
+T1095141	TranscriptionOfGene 242 253	transcribed
+T1095142	NegativeRegulationOfGeneExpression 298 318	negatively regulated
+T1095143	NegativeRegulationOfGeneExpression 324 333	repressor
+T1095144	NegativeRegulationOfGeneExpression 433 443	repression
+T1095145	NegativeRegulationOfGeneExpression 504 513	repressor
+T1095146	RegulationOfGeneExpression 560 569	dependent
+T1095147	GeneticModification 728 732	Lack
+T1095148	NegativeRegulationOfGeneExpression 782 790	relieved
+T1095149	NegativeRegulationOfGeneExpression 795 805	repression
+T1095150	RegulationOfGeneExpression 850 859	dependent
+T1095151	NegativeRegulationOfGeneExpression 920 930	repression
+T1095152	GeneticModification 1010 1018	deletion
+T1095153	NegativeRegulationOfGeneExpression 1137 1146	represses
+T1095154	RegulationOfGeneExpression 1196 1205	dependent
+T1095155	PositiveRegulationOfGeneExpression 1279 1286	inducer
+T1095156	RegulationOfGeneExpression 1333 1341	mediated
+T1095157	RegulationOfGeneExpression 1446 1454	affected
+T1095158	GeneExpression 1464 1474	expression
+E1	NegativeRegulationOfGeneExpression: Cause:T1315117 Theme:T1315115
+E2	NegativeRegulationOfGeneExpression: Cause:T1315120 Theme:T1315119
+E3	NegativeRegulationOfGeneExpression: Cause:T1315122 Theme:T1315121
+T1205136	Entity 1221 1225	cAMP
+E4	NegativeRegulationOfGeneExpression: Cause:T1205136 Theme:T1315125
+E5	NegativeRegulationOfGeneExpression: Cause:T1315128 Theme:T1315125
+T1205134	Entity 1129 1136	Glucose
+E6	NegativeRegulationOfGeneExpression: Cause:T1205134 Theme:T1315125
+E7	RegulationOfGeneExpression: Cause:T1315129 Theme:T1315130
+T1205138	Entity 1430 1434	cAMP
+E8	RegulationOfGeneExpression: Cause:T1205138 Theme:T1315130

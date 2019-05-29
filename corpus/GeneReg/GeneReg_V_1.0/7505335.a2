@@ -1,0 +1,22 @@
+T1098686	GeneExpression 19 28	synthesis
+T1098687	GeneticModification 66 75	Mutations
+T1098688	PositiveRegulationOfGeneExpression 592 606	overproduction
+T1098689	NegativeRegulationOfGeneExpression 637 647	repression
+T1098690	GeneExpression 655 664	synthesis
+T1098691	TranscriptionOfGene 783 796	transcription
+T1098692	PositiveRegulationOfGeneExpression 874 881	induced
+T1098693	NegativeRegulationOfGeneExpression 909 929	negatively regulates
+T1098694	PositiveRegulationOfGeneExpression 965 983	positive regulator
+T1098695	RegulationOfGeneExpression 1006 1016	Regulation
+T1098696	GeneExpression 1023 1032	synthesis
+T1098697	NegativeRegulationOfGeneExpression 1042 1048	affect
+T1098698	GeneExpression 1400 1409	synthesis
+T1098699	PositiveRegulationOfGeneExpression 1431 1450	positive regulatory
+T1098700	GeneExpression 1483 1493	expression
+T1098701	PositiveRegulationOfGeneExpression 1524 1535	stimulating
+T1098702	GeneExpression 1541 1550	synthesis
+E1	PositiveRegulationOfGeneExpression: Cause:T1318666 Theme:T1318667
+E2	RegulationOfGeneExpression: Cause:T1318668 Theme:T1318670
+E3	PositiveRegulationOfGeneExpression: Cause:T1318681 Theme:T1318682
+E4	PositiveRegulationOfGeneExpression: Cause:T1318680 Theme:T1318682
+E5	PositiveRegulationOfGeneExpression: Cause:T1318679 Theme:T1318684

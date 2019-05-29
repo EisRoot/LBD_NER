@@ -1,0 +1,31 @@
+T1092671	RegulationOfGeneExpression 78 87	regulated
+T1092672	GeneticModification 172 183	inactivated
+T1092673	GeneExpression 408 418	Expression
+T1092674	RegulationOfGeneExpression 541 550	regulated
+T1092675	PositiveRegulationOfGeneExpression 601 608	induced
+T1092676	PositiveRegulationOfGeneExpression 690 699	Induction
+T1092677	NegativeRegulationOfGeneExpression 730 739	abolished
+T1092678	GeneticModification 745 754	deltarelA
+T1092679	GeneticModification 755 764	deltaspoT
+T1092680	GeneticModification 811 820	mutations
+T1092681	PositiveRegulationOfGeneExpression 960 973	overproducing
+T1092682	PositiveRegulationOfGeneExpression 1006 1015	induction
+T1092683	GeneExpression 1038 1048	expression
+T1092684	PositiveRegulationOfGeneExpression 1075 1083	elevated
+T1092685	GeneticModification 1089 1097	mutation
+T1092686	PositiveRegulationOfGeneExpression 1139 1154	super-induction
+T1092687	NegativeRegulationOfGeneExpression 1164 1174	suppressed
+T1092688	GeneticModification 1178 1190	inactivating
+T1092689	GeneticModification 1298 1314	deletion mutants
+T1092690	PositiveRegulationOfGeneExpression 1362 1376	Overexpression
+T1092691	GeneticModification 1410 1414	lack
+T1092692	PositiveRegulationOfGeneExpression 1479 1493	overproduction
+T1092693	GeneticModification 1524 1528	lack
+T1092694	GeneticModification 1579 1588	mutations
+T1092695	RegulationOfGeneExpression 1743 1753	regulation
+T1202665	Entity 649 679	stresses causing growth arrest
+E1	PositiveRegulationOfGeneExpression: Cause:T1202665 Theme:T1312647
+T1202664	Entity 612 628	stationary phase
+E2	PositiveRegulationOfGeneExpression: Cause:T1202664 Theme:T1312647
+T1202670	Entity 926 931	ppGpp
+E3	PositiveRegulationOfGeneExpression: Cause:T1202670 Theme:T1312651

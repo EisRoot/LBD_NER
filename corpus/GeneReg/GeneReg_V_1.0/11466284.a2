@@ -1,0 +1,39 @@
+T1092432	NegativeRegulationOfGeneExpression 5 15	repression
+T1092433	NegativeRegulationOfGeneExpression 463 472	repressed
+T1092434	GeneticModification 500 512	Inactivation
+T1092435	NegativeRegulationOfGeneExpression 536 540	loss
+T1092436	RegulationOfGeneExpression 551 560	dependent
+T1092437	NegativeRegulationOfGeneExpression 561 571	repression
+T1092438	TranscriptionOfGene 580 593	transcription
+T1092439	NegativeRegulationOfGeneExpression 621 631	repression
+T1092440	RegulationOfGeneExpression 632 639	depends
+T1092441	NegativeRegulationOfGeneExpression 693 700	mutants
+T1092442	RegulationOfGeneExpression 721 730	dependent
+T1092443	NegativeRegulationOfGeneExpression 731 741	repression
+T1092444	TranscriptionOfGene 773 788	transcriptional
+T1092445	RegulationOfGeneExpression 789 798	regulator
+T1092446	GeneticModification 871 878	mutants
+T1092447	NegativeRegulationOfGeneExpression 884 892	impaired
+T1092448	NegativeRegulationOfGeneExpression 918 928	repression
+T1092449	TranscriptionOfGene 937 950	transcription
+E1	NegativeRegulationOfGeneExpression: Cause:T1312387 Theme:T1312390
+E2	NegativeRegulationOfGeneExpression: Cause:T1312388 Theme:T1312390
+T1202414	Entity 19 25	Fe(2+)
+E3	NegativeRegulationOfGeneExpression: Cause:T1202414 Theme:T1312390
+T1202415	Entity 34 40	Mn(2+)
+E4	NegativeRegulationOfGeneExpression: Cause:T1202415 Theme:T1312390
+T1202421	Entity 481 487	Mn(2+)
+E5	NegativeRegulationOfGeneExpression: Cause:T1202421 Theme:T1312397
+T1202422	Entity 492 498	Fe(2+)
+E6	NegativeRegulationOfGeneExpression: Cause:T1202422 Theme:T1312397
+T1202423	Entity 544 550	Fe(2+)
+E7	NegativeRegulationOfGeneExpression: Cause:T1202423 Theme:T1312399
+E8	NegativeRegulationOfGeneExpression: Cause:T1312398 Theme:T1312399
+T1202426	Entity 714 720	Mn(2+)
+E9	NegativeRegulationOfGeneExpression: Cause:T1202426 Theme:T1312402
+E10	RegulationOfGeneExpression: Cause:T1312405 Theme:T1312403
+T1202427	Entity 755 761	Mn(2+)
+E11	RegulationOfGeneExpression: Cause:T1202427 Theme:T1312403
+T1202430	Entity 911 917	Fe(2+)
+E12	NegativeRegulationOfGeneExpression: Cause:T1202430 Theme:T1312407
+E13	NegativeRegulationOfGeneExpression: Cause:T1312406 Theme:T1312407

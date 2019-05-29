@@ -1,0 +1,10 @@
+T109368	TranscriptionOfGene 21 34	transcription
+T109369	TranscriptionOfGene 113 126	transcription
+T109370	RegulationOfGeneExpression 127 137	regulation
+T109371	TranscriptionOfGene 485 498	transcription
+T109372	RegulationOfGeneExpression 561 571	regulation
+T109373	RegulationOfGeneExpression 1363 1373	regulation
+T109374	RegulationOfGeneExpression 1440 1450	regulation
+T109375	RegulationOfGeneExpression 1544 1558	autoregulation
+E1	RegulationOfGeneExpression: Cause:T131364 Theme:T131363
+E2	RegulationOfGeneExpression: Cause:T131365 Theme:T131366

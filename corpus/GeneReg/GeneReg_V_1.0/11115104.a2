@@ -1,0 +1,8 @@
+T1091849	TranscriptionOfGene 0 15	Transcriptional
+T1091850	RegulationOfGeneExpression 16 26	regulation
+T1091851	RegulationOfGeneExpression 202 212	regulation
+T1091852	RegulationOfGeneExpression 428 440	co-regulated
+T1091853	RegulationOfGeneExpression 560 570	regulation
+T1091854	NegativeRegulationOfGeneExpression 1177 1187	repression
+T1091855	RegulationOfGeneExpression 1188 1196	mediated
+E1	NegativeRegulationOfGeneExpression: Cause:T1311840 Theme:T1311839

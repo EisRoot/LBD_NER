@@ -1,0 +1,14 @@
+T1094411	PositiveRegulationOfGeneExpression 40 54	overexpression
+T1094412	PositiveRegulationOfGeneExpression 419 433	overexpressing
+T1094413	GeneticModification 551 557	mutant
+T1094414	PositiveRegulationOfGeneExpression 593 607	overproduction
+T1094415	PositiveRegulationOfGeneExpression 881 895	overexpression
+T1094416	PositiveRegulationOfGeneExpression 1007 1020	up-regulation
+T1094417	GeneExpression 1028 1038	expression
+T1094418	GeneticModification 1190 1197	lacking
+T1094419	GeneticModification 1314 1322	deletion
+E1	RegulationOfGeneExpression: Cause:T1314398 Theme:T1314399
+E2	PositiveRegulationOfGeneExpression: Cause:T1314397 Theme:T1314399
+E3	PositiveRegulationOfGeneExpression: Cause:T1314402 Theme:T1314400
+E4	PositiveRegulationOfGeneExpression: Cause:T1314402 Theme:T1314401
+E5	PositiveRegulationOfGeneExpression: Cause:T1314404 Theme:T1314403

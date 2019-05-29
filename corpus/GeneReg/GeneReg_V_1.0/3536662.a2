@@ -1,0 +1,8 @@
+T1098441	NegativeRegulationOfGeneExpression 68 77	repressor
+T1098442	NegativeRegulationOfGeneExpression 110 129	negative regulation
+T1098443	RegulationOfGeneExpression 193 201	mediated
+T1098444	NegativeRegulationOfGeneExpression 265 274	repressor
+T1098445	GeneticModification 340 349	mutations
+T1098446	GeneticModification 676 685	mutations
+E1	NegativeRegulationOfGeneExpression: Cause:T1318428 Theme:T1318427
+E2	NegativeRegulationOfGeneExpression: Cause:T1318430 Theme:T1318429

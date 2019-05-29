@@ -1,0 +1,56 @@
+T10910185	TranscriptionOfGene 26 39	transcription
+T10910186	RegulationOfGeneExpression 40 50	regulators
+T10910187	GeneExpression 54 64	expression
+T10910188	TranscriptionOfGene 125 138	Transcription
+T10910189	RegulationOfGeneExpression 226 234	governed
+T10910190	RegulationOfGeneExpression 249 259	regulators
+T10910191	GeneticModification 318 325	mutated
+T10910192	PositiveRegulationOfGeneExpression 374 384	activators
+T10910193	RegulationOfGeneExpression 425 435	regulation
+T10910194	RegulationOfGeneExpression 452 462	regulation
+T10910195	RegulationOfGeneExpression 463 470	control
+T10910196	NegativeRegulationOfGeneExpression 554 573	negatively regulate
+T10910197	RegulationOfGeneExpression 600 609	effectors
+T10910198	GeneticModification 709 716	deleted
+T10910199	GeneticModification 816 825	mutations
+T10910200	RegulationOfGeneExpression 833 841	effector
+T10910201	PositiveRegulationOfGeneExpression 917 927	activation
+T10910202	NegativeRegulationOfGeneExpression 954 964	repression
+T10910203	PositiveRegulationOfGeneExpression 997 1007	activation
+T10910204	TranscriptionOfGene 1016 1029	transcription
+T10910205	PositiveRegulationOfGeneExpression 1064 1074	activation
+T10910206	NegativeRegulationOfGeneExpression 1082 1092	repression
+T10910207	RegulationOfGeneExpression 1115 1123	controls
+T10910208	NegativeRegulationOfGeneExpression 1149 1159	Repression
+T10910209	RegulationOfGeneExpression 1206 1215	dependent
+T10910210	PositiveRegulationOfGeneExpression 1221 1229	enhanced
+T10910211	NegativeRegulationOfGeneExpression 1242 1252	repression
+T10910212	NegativeRegulationOfGeneExpression 1265 1272	absence
+T10910213	PositiveRegulationOfGeneExpression 1284 1292	enhanced
+T10910214	NegativeRegulationOfGeneExpression 1303 1313	repression
+T10910215	NegativeRegulationOfGeneExpression 1474 1485	repressions
+T10910216	RegulationOfGeneExpression 1518 1526	response
+T10910217	RegulationOfGeneExpression 1582 1590	response
+T10910218	NegativeRegulationOfGeneExpression 1629 1634	block
+T10910219	GeneExpression 1655 1665	expression
+E1	RegulationOfGeneExpression: Cause:T13110140 Theme:T13110137
+E2	PositiveRegulationOfGeneExpression: Cause:T13110139 Theme:T13110137
+E3	NegativeRegulationOfGeneExpression: Cause:T13110149 Theme:T13110150
+E4	NegativeRegulationOfGeneExpression: Cause:T13110142 Theme:T13110150
+E5	NegativeRegulationOfGeneExpression: Cause:T13110146 Theme:T13110150
+E6	NegativeRegulationOfGeneExpression: Cause:T13110144 Theme:T13110150
+E7	PositiveRegulationOfGeneExpression: Cause:T13110156 Theme:T13110154
+E8	PositiveRegulationOfGeneExpression: Cause:T13110155 Theme:T13110154
+E9	NegativeRegulationOfGeneExpression: Cause:T13110157 Theme:T13110154
+E10	NegativeRegulationOfGeneExpression: Cause:T13110158 Theme:T13110154
+E11	PositiveRegulationOfGeneExpression: Cause:T13110161 Theme:T13110159
+E12	NegativeRegulationOfGeneExpression: Cause:T13110162 Theme:T13110159
+E13	PositiveRegulationOfGeneExpression: Cause:T13110160 Theme:T13110159
+E14	NegativeRegulationOfGeneExpression: Cause:T13110178 Theme:T13110179
+E15	NegativeRegulationOfGeneExpression: Cause:T13110175 Theme:T13110179
+T12010184	Entity 1598 1622	redox state of the cells
+E16	NegativeRegulationOfGeneExpression: Cause:T12010184 Theme:T13110179
+E17	NegativeRegulationOfGeneExpression: Cause:T13110177 Theme:T13110179
+T12010183	Entity 1534 1543	iron pool
+E18	NegativeRegulationOfGeneExpression: Cause:T12010183 Theme:T13110179
+E19	NegativeRegulationOfGeneExpression: Cause:T13110176 Theme:T13110179

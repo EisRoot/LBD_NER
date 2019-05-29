@@ -1,0 +1,44 @@
+T1099010	NegativeRegulationOfGeneExpression 8 18	repression
+T1099011	RegulationOfGeneExpression 57 65	mediated
+T1099012	RegulationOfGeneExpression 113 123	regulators
+T1099013	GeneExpression 157 166	expressed
+T1099014	PositiveRegulationOfGeneExpression 170 181	high levels
+T1099015	Increase 231 239	presence
+T1099016	NegativeRegulationOfGeneExpression 275 283	decrease
+T1099017	GeneExpression 287 297	expression
+T1099018	NegativeRegulationOfGeneExpression 349 359	repression
+T1099019	PositiveRegulationOfGeneExpression 388 396	enhanced
+T1099020	RegulationOfGeneExpression 457 467	Regulation
+T1099021	GeneExpression 475 485	expression
+T1099022	RegulationOfGeneExpression 501 510	dependent
+T1099023	RegulationOfGeneExpression 634 644	regulators
+T1099024	GeneExpression 652 662	expression
+T1099025	RegulationOfGeneExpression 843 853	regulation
+T1099026	GeneticModification 899 911	null mutants
+T1099027	RegulationOfGeneExpression 935 945	regulation
+T1099028	NegativeRegulationOfGeneExpression 1006 1016	repression
+T1099029	RegulationOfGeneExpression 1139 1146	mediate
+T1099030	NegativeRegulationOfGeneExpression 1155 1165	repression
+T1099031	GeneticModification 1576 1587	mutagenesis
+T1208997	Entity 0 7	Nitrate
+E1	NegativeRegulationOfGeneExpression: Cause:T1208997 Theme:T1318967
+E2	NegativeRegulationOfGeneExpression: Cause:T1318969 Theme:T1318967
+E3	NegativeRegulationOfGeneExpression: Cause:T1318970 Theme:T1318967
+E4	NegativeRegulationOfGeneExpression: Cause:T1318971 Theme:T1318967
+E5	NegativeRegulationOfGeneExpression: Cause:T1318968 Theme:T1318967
+T1209000	Entity 182 195	anaerobically
+E6	RegulationOfGeneExpression: Cause:T1209000 Theme:T1318972
+E7	RegulationOfGeneExpression: Cause:T1318977 Theme:T1318973
+E8	RegulationOfGeneExpression: Cause:T1318980 Theme:T1318973
+E9	RegulationOfGeneExpression: Cause:T1318976 Theme:T1318973
+E10	RegulationOfGeneExpression: Cause:T1318974 Theme:T1318973
+T1209004	Entity 489 496	nitrate
+E11	RegulationOfGeneExpression: Cause:T1209004 Theme:T1318973
+E12	RegulationOfGeneExpression: Cause:T1318975 Theme:T1318973
+E13	RegulationOfGeneExpression: Cause:T1318979 Theme:T1318973
+E14	RegulationOfGeneExpression: Cause:T1318978 Theme:T1318973
+E15	RegulationOfGeneExpression: Cause:T1318979 Theme:T1318981
+E16	RegulationOfGeneExpression: Cause:T1318978 Theme:T1318981
+E17	RegulationOfGeneExpression: Cause:T1318980 Theme:T1318981
+T1209009	Entity 1147 1154	nitrate
+E18	NegativeRegulationOfGeneExpression: Cause:T1209009 Theme:T1318991

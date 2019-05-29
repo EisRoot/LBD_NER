@@ -1,0 +1,22 @@
+T1092728	RegulationOfGeneExpression 37 46	regulates
+T1092729	PositiveRegulationOfGeneExpression 192 200	requires
+T1092730	GeneExpression 205 215	expression
+T1092731	RegulationOfGeneExpression 406 416	regulation
+T1092732	GeneExpression 425 440	gene expression
+T1092733	GeneticModification 467 474	deleted
+T1092734	GeneticModification 763 769	mutant
+T1092735	PositiveRegulationOfGeneExpression 907 920	higher levels
+T1092736	PositiveRegulationOfGeneExpression 948 956	increase
+T1092737	TranscriptionOfGene 965 976	transcripts
+T1092738	RegulationOfGeneExpression 1068 1076	regulate
+T1092739	PositiveRegulationOfGeneExpression 1123 1131	elevated
+T1092740	GeneticModification 1228 1235	mutants
+T1092741	NegativeRegulationOfGeneExpression 1248 1272	functions as a repressor
+T1092742	RegulationOfGeneExpression 1287 1295	controls
+T1092743	GeneExpression 1300 1310	expression
+E1	RegulationOfGeneExpression: Cause:T1312696 Theme:T1312698
+E2	RegulationOfGeneExpression: Cause:T1312703 Theme:T1312705
+E3	NegativeRegulationOfGeneExpression: Cause:T1312713 Theme:T1312714
+E4	NegativeRegulationOfGeneExpression: Cause:T1312713 Theme:T1312715
+E5	RegulationOfGeneExpression: Cause:T1312716 Theme:T1312717
+E6	NegativeRegulationOfGeneExpression: Cause:T1312722 Theme:T1312723

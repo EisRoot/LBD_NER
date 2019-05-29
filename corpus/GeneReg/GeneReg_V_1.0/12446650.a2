@@ -1,0 +1,78 @@
+T1093642	RegulationOfGeneExpression 14 24	regulation
+T1093643	RegulationOfGeneExpression 55 64	dependent
+T1093644	RegulationOfGeneExpression 588 596	controls
+T1093645	RegulationOfGeneExpression 701 711	controlled
+T1093646	NegativeRegulationOfGeneExpression 738 757	negative regulators
+T1093647	NegativeRegulationOfGeneExpression 893 939	acts both as a positive and negative regulator
+T1093648	PositiveRegulationOfGeneExpression 893 939	acts both as a positive and negative regulator
+T1093649	RegulationOfGeneExpression 1064 1074	regulation
+T1093650	PositiveRegulationOfGeneExpression 1262 1271	activates
+T1093651	GeneExpression 1272 1282	expression
+T1093652	NegativeRegulationOfGeneExpression 1323 1331	inhibits
+T1093653	RegulationOfGeneExpression 1337 1346	dependent
+T1093654	PositiveRegulationOfGeneExpression 1347 1357	activation
+T1093655	RegulationOfGeneExpression 1359 1369	Regulation
+T1093656	NegativeRegulationOfGeneExpression 1505 1514	represses
+T1093657	GeneExpression 1515 1525	expression
+T1093658	RegulationOfGeneExpression 1557 1564	control
+T1093659	NegativeRegulationOfGeneExpression 1648 1657	represses
+T1093660	NegativeRegulationOfGeneExpression 1696 1703	missing
+T1093661	PositiveRegulationOfGeneExpression 1705 1714	activates
+T1093662	PositiveRegulationOfGeneExpression 1746 1755	activates
+T1093663	GeneExpression 1776 1786	expression
+T1093664	NegativeRegulationOfGeneExpression 1797 1806	represses
+T1093665	GeneExpression 1812 1822	expression
+T1093666	NegativeRegulationOfGeneExpression 1850 1860	repressing
+T1093667	GeneExpression 1861 1871	production
+T1093668	PositiveRegulationOfGeneExpression 1901 1912	responsible
+T1093669	GeneExpression 1922 1932	expression
+T1093670	PositiveRegulationOfGeneExpression 1952 1961	induction
+T1093671	PositiveRegulationOfGeneExpression 2062 2071	induction
+T1093672	GeneExpression 2083 2093	production
+T1093673	RegulationOfGeneExpression 2109 2116	control
+T1093674	GeneExpression 2149 2159	expression
+T1093675	PositiveRegulationOfGeneExpression 2217 2225	inducing
+E1	RegulationOfGeneExpression: Cause:T1313565 Theme:T1313562
+E2	RegulationOfGeneExpression: Cause:T1313564 Theme:T1313562
+T1203624	Entity 626 638	growth phase
+E3	RegulationOfGeneExpression: Cause:T1203624 Theme:T1313571
+T1203625	Entity 644 653	growth pH
+E4	RegulationOfGeneExpression: Cause:T1203625 Theme:T1313571
+T1203623	Entity 612 624	growth media
+E5	RegulationOfGeneExpression: Cause:T1203623 Theme:T1313571
+E6	NegativeRegulationOfGeneExpression: Cause:T1313575 Theme:T1313572
+E7	NegativeRegulationOfGeneExpression: Cause:T1313574 Theme:T1313572
+E8	RegulationOfGeneExpression: Cause:T1313577 Theme:T1313572
+T1203628	Entity 759 769	cyclic AMP
+E9	NegativeRegulationOfGeneExpression: Cause:T1203628 Theme:T1313572
+E10	PositiveRegulationOfGeneExpression: Cause:T1313578 Theme:T1313579
+E11	NegativeRegulationOfGeneExpression: Cause:T1313578 Theme:T1313579
+E12	NegativeRegulationOfGeneExpression: Cause:T1313578 Theme:T1313580
+E13	PositiveRegulationOfGeneExpression: Cause:T1313578 Theme:T1313580
+E14	NegativeRegulationOfGeneExpression: Cause:T1313590 Theme:T1313588
+E15	PositiveRegulationOfGeneExpression: Cause:T1313587 Theme:T1313588
+E16	NegativeRegulationOfGeneExpression: Cause:T1313590 Theme:T1313589
+E17	PositiveRegulationOfGeneExpression: Cause:T1313587 Theme:T1313589
+E18	NegativeRegulationOfGeneExpression: Cause:T1313590 Theme:T1313592
+E19	NegativeRegulationOfGeneExpression: Cause:T1313595 Theme:T1313597
+E20	NegativeRegulationOfGeneExpression: Cause:T1313601 Theme:T1313603
+E21	PositiveRegulationOfGeneExpression: Cause:T1313601 Theme:T1313605
+E22	PositiveRegulationOfGeneExpression: Cause:T1313601 Theme:T1313606
+E23	PositiveRegulationOfGeneExpression: Cause:T1313607 Theme:T1313608
+E24	PositiveRegulationOfGeneExpression: Cause:T1313607 Theme:T1313609
+E25	NegativeRegulationOfGeneExpression: Cause:T1313610 Theme:T1313612
+T1203635	Entity 1875 1882	sigma S
+E26	PositiveRegulationOfGeneExpression: Cause:T1203635 Theme:T1313615
+T1203638	Entity 2021 2037	stationary phase
+E27	PositiveRegulationOfGeneExpression: Cause:T1203638 Theme:T1313616
+T1203637	Entity 1947 1951	acid
+E28	PositiveRegulationOfGeneExpression: Cause:T1203637 Theme:T1313616
+T1203640	Entity 2075 2082	sigma S
+E29	PositiveRegulationOfGeneExpression: Cause:T1203640 Theme:T1313616
+E30	PositiveRegulationOfGeneExpression: Cause:T1203637 Theme:T1313617
+E31	PositiveRegulationOfGeneExpression: Cause:T1203640 Theme:T1313617
+E32	PositiveRegulationOfGeneExpression: Cause:T1203638 Theme:T1313617
+T1203639	Entity 2057 2061	acid
+E33	PositiveRegulationOfGeneExpression: Cause:T1203639 Theme:T1313618
+T1203641	Entity 2277 2288	acid stress
+E34	PositiveRegulationOfGeneExpression: Cause:T1203641 Theme:T1313621

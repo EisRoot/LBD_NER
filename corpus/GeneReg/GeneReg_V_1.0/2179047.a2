@@ -1,0 +1,13 @@
+T1097508	GeneticModification 240 249	mutations
+T1097509	GeneExpression 278 288	expression
+T1097510	NegativeRegulationOfGeneExpression 728 747	negative regulatory
+T1097511	GeneticModification 873 885	mutationally
+T1097512	PositiveRegulationOfGeneExpression 886 895	activated
+T1097513	PositiveRegulationOfGeneExpression 910 917	induced
+T1097514	Increase 925 933	presence
+T1097515	NegativeRegulationOfGeneExpression 960 969	repressed
+T1097516	Decrease 979 986	absence
+T1097517	NegativeRegulationOfGeneExpression 1317 1326	repressor
+T1097518	RegulationOfGeneExpression 1397 1407	regulatory
+T1207505	Entity 941 951	substrates
+E1	PositiveRegulationOfGeneExpression: Cause:T1207505 Theme:T1317493

@@ -1,0 +1,16 @@
+T1092557	NegativeRegulationOfGeneExpression 55 64	represses
+T1092558	GeneExpression 65 75	expression
+T1092559	NegativeRegulationOfGeneExpression 482 491	repressor
+T1092560	GeneticModification 531 538	deleted
+T1092561	PositiveRegulationOfGeneExpression 553 562	increased
+T1092562	GeneExpression 563 573	expression
+T1092563	TranscriptionOfGene 612 625	transcription
+T1092564	NegativeRegulationOfGeneExpression 674 684	repression
+T1092565	NegativeRegulationOfGeneExpression 907 917	repression
+T1092566	GeneExpression 926 936	expression
+T1092567	NegativeRegulationOfGeneExpression 954 961	reduced
+T1092568	GeneticModification 984 998	null mutations
+E1	NegativeRegulationOfGeneExpression: Cause:T1312515 Theme:T1312516
+E2	NegativeRegulationOfGeneExpression: Cause:T1312527 Theme:T1312528
+E3	NegativeRegulationOfGeneExpression: Cause:T1312529 Theme:T1312530
+E4	NegativeRegulationOfGeneExpression: Cause:T1312531 Theme:T1312532

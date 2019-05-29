@@ -1,0 +1,19 @@
+T1096549	TranscriptionOfGene 12 27	transcriptional
+T1096550	RegulationOfGeneExpression 59 67	response
+T1096551	RegulationOfGeneExpression 576 583	affects
+T1096552	TranscriptionOfGene 584 599	transcriptional
+T1096553	RegulationOfGeneExpression 600 610	regulation
+T1096554	TranscriptionOfGene 761 776	transcriptional
+T1096555	RegulationOfGeneExpression 912 919	altered
+T1096556	TranscriptionOfGene 929 944	transcriptional
+T1096557	TranscriptionOfGene 997 1012	transcriptional
+T1096558	PositiveRegulationOfGeneExpression 1061 1073	up-regulated
+T1096559	NegativeRegulationOfGeneExpression 1127 1141	down-regulated
+T1096560	TranscriptionOfGene 1143 1156	Transcription
+T1096561	RegulationOfGeneExpression 1198 1205	altered
+T1096562	PositiveRegulationOfGeneExpression 1272 1286	overexpressing
+T1096563	TranscriptionOfGene 1479 1493	co-transcribed
+T1096564	GeneticModification 1583 1588	delta
+T1096565	GeneticModification 1598 1606	mutation
+T1206543	Entity 546 554	c-di-GMP
+E1	RegulationOfGeneExpression: Cause:T1206543 Theme:T1316510

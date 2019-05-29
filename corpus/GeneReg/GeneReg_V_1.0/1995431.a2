@@ -1,0 +1,9 @@
+T1097334	PositiveRegulationOfGeneExpression 0 14	Overproduction
+T1097335	RegulationOfGeneExpression 198 208	regulatory
+T1097336	NegativeRegulationOfGeneExpression 218 227	repressor
+T1097337	GeneExpression 361 370	expressed
+T1097338	NegativeRegulationOfGeneExpression 726 736	repressors
+T1097339	TranscriptionOfGene 966 981	transcriptional
+T1097340	RegulationOfGeneExpression 982 991	regulator
+E1	NegativeRegulationOfGeneExpression: Cause:T1317315 Theme:T1317316
+E2	RegulationOfGeneExpression: Cause:T1317325 Theme:T1317326

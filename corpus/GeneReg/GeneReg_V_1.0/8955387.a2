@@ -1,0 +1,27 @@
+T10911385	NegativeRegulationOfGeneExpression 0 9	Repressor
+T10911386	NegativeRegulationOfGeneExpression 616 625	repressor
+T10911387	NegativeRegulationOfGeneExpression 792 801	repressor
+T10911388	NegativeRegulationOfGeneExpression 825 835	repressors
+T10911389	NegativeRegulationOfGeneExpression 1137 1147	repressors
+T10911390	PositiveRegulationOfGeneExpression 1354 1362	inducing
+T10911391	NegativeRegulationOfGeneExpression 1408 1417	repressor
+T10911392	NegativeRegulationOfGeneExpression 1557 1566	repressor
+T10911393	GeneticModification 1596 1607	mutagenesis
+T10911394	NegativeRegulationOfGeneExpression 1633 1642	repressor
+T10911395	GeneticModification 1704 1711	altered
+T10911396	NegativeRegulationOfGeneExpression 1728 1737	repressor
+T10911397	GeneticModification 1816 1823	altered
+T10911398	NegativeRegulationOfGeneExpression 1841 1850	repressor
+T10911399	NegativeRegulationOfGeneExpression 1897 1906	repressor
+T10911400	GeneticModification 2075 2082	altered
+T10911401	NegativeRegulationOfGeneExpression 2083 2093	repressors
+T10911402	NegativeRegulationOfGeneExpression 2127 2137	repressors
+T10911403	TranscriptionOfGene 2236 2251	transcriptional
+T10911404	RegulationOfGeneExpression 2252 2262	regulators
+E1	NegativeRegulationOfGeneExpression: Cause:T13111345 Theme:T13111346
+E2	NegativeRegulationOfGeneExpression: Cause:T13111349 Theme:T13111348
+E3	NegativeRegulationOfGeneExpression: Cause:T13111351 Theme:T13111350
+E4	NegativeRegulationOfGeneExpression: Cause:T13111353 Theme:T13111352
+E5	NegativeRegulationOfGeneExpression: Cause:T13111355 Theme:T13111354
+E6	NegativeRegulationOfGeneExpression: Cause:T13111357 Theme:T13111356
+E7	NegativeRegulationOfGeneExpression: Cause:T13111359 Theme:T13111358

@@ -1,0 +1,11 @@
+T1098201	RegulationOfGeneExpression 45 55	regulatory
+T1098202	RegulationOfGeneExpression 171 181	regulatory
+T1098203	RegulationOfGeneExpression 279 286	control
+T1098204	RegulationOfGeneExpression 298 308	regulatory
+T1098205	PositiveRegulationOfGeneExpression 447 459	overproduced
+T1098206	Increase 527 535	presence
+T1098207	PositiveRegulationOfGeneExpression 545 552	inducer
+T1098208	PositiveRegulationOfGeneExpression 608 622	overproduction
+E1	RegulationOfGeneExpression: Cause:T1318183 Theme:T1318184
+T1208199	Entity 554 586	isopropyl-beta-D-thiogalactoside
+E2	PositiveRegulationOfGeneExpression: Cause:T1208199 Theme:T1318186

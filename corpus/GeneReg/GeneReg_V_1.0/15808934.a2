@@ -1,0 +1,39 @@
+T1096169	PositiveRegulationOfGeneExpression 246 264	positive regulator
+T1096170	RegulationOfGeneExpression 302 312	regulators
+T1096171	RegulationOfGeneExpression 314 322	controls
+T1096172	GeneExpression 323 333	expression
+T1096173	GeneExpression 598 608	expression
+T1096174	GeneExpression 621 631	expression
+T1096175	RegulationOfGeneExpression 674 682	involved
+T1096176	RegulationOfGeneExpression 686 693	control
+T1096177	RegulationOfGeneExpression 736 746	regulatory
+T1096178	RegulationOfGeneExpression 756 764	modulate
+T1096179	GeneExpression 770 780	expression
+T1096180	GeneExpression 790 800	expression
+T1096181	NegativeRegulationOfGeneExpression 973 982	disrupted
+T1096182	PositiveRegulationOfGeneExpression 1026 1028	up
+T1096183	NegativeRegulationOfGeneExpression 1033 1046	downregulated
+T1096184	GeneticModification 1059 1065	mutant
+T1096185	RegulationOfGeneExpression 1071 1079	involved
+T1096186	NegativeRegulationOfGeneExpression 1160 1170	disruption
+T1096187	RegulationOfGeneExpression 1175 1183	involved
+T1096188	RegulationOfGeneExpression 1187 1197	regulation
+T1096189	RegulationOfGeneExpression 1207 1215	involved
+T1096190	GeneticModification 1316 1322	mutant
+T1096191	TranscriptionOfGene 1445 1458	transcription
+T1096192	GeneExpression 1475 1485	expression
+T1096193	NegativeRegulationOfGeneExpression 1498 1507	repressed
+T1096194	Decrease 1515 1522	absence
+E1	PositiveRegulationOfGeneExpression: Cause:T1316139 Theme:T1316141
+E2	PositiveRegulationOfGeneExpression: Cause:T1316139 Theme:T1316142
+E3	PositiveRegulationOfGeneExpression: Cause:T1316139 Theme:T1316143
+E4	PositiveRegulationOfGeneExpression: Cause:T1316139 Theme:T1316144
+E5	PositiveRegulationOfGeneExpression: Cause:T1316139 Theme:T1316145
+E6	RegulationOfGeneExpression: Cause:T1316148 Theme:T1316149
+E7	PositiveRegulationOfGeneExpression: Cause:T1316155 Theme:T1316154
+E8	NegativeRegulationOfGeneExpression: Cause:T1316155 Theme:T1316154
+E9	RegulationOfGeneExpression: Cause:T1316156 Theme:T1316157
+E10	NegativeRegulationOfGeneExpression: Cause:T1316163 Theme:T1316162
+T1206168	Entity 1526 1532	oxygen
+E11	PositiveRegulationOfGeneExpression: Cause:T1206168 Theme:T1316162
+E12	NegativeRegulationOfGeneExpression: Cause:T1316164 Theme:T1316162

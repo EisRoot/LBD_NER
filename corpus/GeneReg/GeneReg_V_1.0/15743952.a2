@@ -1,0 +1,32 @@
+T1095920	RegulationOfGeneExpression 20 29	regulates
+T1095921	GeneExpression 36 51	gene expression
+T1095922	PositiveRegulationOfGeneExpression 408 416	activate
+T1095923	GeneExpression 422 432	expression
+T1095924	NegativeRegulationOfGeneExpression 497 514	negatively affect
+T1095925	GeneExpression 521 536	gene expression
+T1095926	RegulationOfGeneExpression 727 733	affect
+T1095927	TranscriptionOfGene 738 751	transcription
+T1095928	NegativeRegulationOfGeneExpression 985 995	repression
+T1095929	PositiveRegulationOfGeneExpression 1222 1231	activated
+T1095930	TranscriptionOfGene 1240 1255	transcriptional
+T1095931	NegativeRegulationOfGeneExpression 1341 1350	represses
+T1095932	GeneExpression 1356 1366	expression
+T1095933	Increase 1380 1387	content
+T1095934	NegativeRegulationOfGeneExpression 1445 1455	repression
+T1095935	Increase 1484 1491	content
+T1095936	RegulationOfGeneExpression 1499 1507	mediated
+T1095937	RegulationOfGeneExpression 1703 1713	regulation
+E1	RegulationOfGeneExpression: Cause:T1315879 Theme:T1315881
+E2	RegulationOfGeneExpression: Cause:T1315880 Theme:T1315881
+E3	PositiveRegulationOfGeneExpression: Cause:T1315883 Theme:T1315885
+E4	NegativeRegulationOfGeneExpression: Cause:T1315887 Theme:T1315888
+E5	RegulationOfGeneExpression: Cause:T1315892 Theme:T1315893
+E6	RegulationOfGeneExpression: Cause:T1315891 Theme:T1315893
+E7	NegativeRegulationOfGeneExpression: Cause:T1315898 Theme:T1315897
+T1205918	Entity 1304 1326	high osmolarity medium
+E8	PositiveRegulationOfGeneExpression: Cause:T1205918 Theme:T1315901
+E9	NegativeRegulationOfGeneExpression: Cause:T1315902 Theme:T1315904
+E10	NegativeRegulationOfGeneExpression: Cause:T1315908 Theme:T1315907
+E11	NegativeRegulationOfGeneExpression: Cause:T1315909 Theme:T1315907
+E12	RegulationOfGeneExpression: Cause:T1315914 Theme:T1315915
+E13	RegulationOfGeneExpression: Cause:T1315911 Theme:T1315915

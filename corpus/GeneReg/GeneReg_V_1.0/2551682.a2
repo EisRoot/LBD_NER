@@ -1,0 +1,17 @@
+T1097927	RegulationOfGeneExpression 21 31	regulatory
+T1097928	GeneExpression 132 142	Expression
+T1097929	TranscriptionOfGene 171 188	transcriptionally
+T1097930	RegulationOfGeneExpression 189 198	regulated
+T1097931	TranscriptionOfGene 365 378	transcription
+T1097932	GeneticModification 406 417	mutagenized
+T1097933	GeneticModification 452 459	mutants
+T1097934	GeneExpression 476 491	gene expression
+T1097935	GeneticModification 515 522	mutants
+T1097936	PositiveRegulationOfGeneExpression 734 744	activators
+T1097937	PositiveRegulationOfGeneExpression 826 838	overproduced
+T1097938	GeneExpression 853 863	Expression
+T1097939	RegulationOfGeneExpression 875 888	autoregulated
+T1097940	RegulationOfGeneExpression 1170 1180	regulatory
+T1207924	Entity 202 217	DNA methylation
+E1	RegulationOfGeneExpression: Cause:T1207924 Theme:T1317908
+E2	RegulationOfGeneExpression: Cause:T1317916 Theme:T1317917

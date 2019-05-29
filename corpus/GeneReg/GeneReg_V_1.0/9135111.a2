@@ -1,0 +1,21 @@
+T10911503	TranscriptionOfGene 22 37	transcriptional
+T10911504	RegulationOfGeneExpression 38 48	regulation
+T10911505	NegativeRegulationOfGeneExpression 314 323	repressor
+T10911506	GeneExpression 533 542	expressed
+T10911507	NegativeRegulationOfGeneExpression 567 626	regulated positively by the cAMP-CRP complex and negatively
+T10911508	PositiveRegulationOfGeneExpression 567 587	regulated positively
+T10911509	TranscriptionOfGene 649 662	transcription
+T10911510	NegativeRegulationOfGeneExpression 700 709	decreased
+T10911511	NegativeRegulationOfGeneExpression 757 764	repress
+T10911512	TranscriptionOfGene 796 811	transcriptional
+T10911513	GeneExpression 866 876	expression
+T10911514	NegativeRegulationOfGeneExpression 880 887	reduced
+T10911515	RegulationOfGeneExpression 902 910	modulate
+T12011500	Entity 595 599	cAMP
+E1	PositiveRegulationOfGeneExpression: Cause:T12011500 Theme:T13111485
+E2	NegativeRegulationOfGeneExpression: Cause:T13111487 Theme:T13111485
+E3	PositiveRegulationOfGeneExpression: Cause:T13111486 Theme:T13111485
+E4	NegativeRegulationOfGeneExpression: Cause:T13111490 Theme:T13111489
+E5	NegativeRegulationOfGeneExpression: Cause:T13111491 Theme:T13111492
+T12011502	Entity 1009 1018	gluconate
+E6	NegativeRegulationOfGeneExpression: Cause:T12011502 Theme:T13111494

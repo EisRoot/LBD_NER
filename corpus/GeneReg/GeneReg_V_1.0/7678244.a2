@@ -1,0 +1,27 @@
+T1099235	TranscriptionOfGene 26 41	transcriptional
+T1099236	RegulationOfGeneExpression 42 52	regulation
+T1099237	PositiveRegulationOfGeneExpression 267 274	induced
+T1099238	RegulationOfGeneExpression 294 304	controlled
+T1099239	NegativeRegulationOfGeneExpression 359 369	repression
+T1099240	PositiveRegulationOfGeneExpression 400 407	induced
+T1099241	PositiveRegulationOfGeneExpression 633 642	increases
+T1099242	PositiveRegulationOfGeneExpression 686 695	induction
+T1099243	PositiveRegulationOfGeneExpression 979 991	inducibility
+T1099244	TranscriptionOfGene 1140 1151	transcribed
+T1099245	TranscriptionOfGene 1427 1440	transcription
+T1099246	GeneticModification 1589 1597	deletion
+T1099247	GeneExpression 1610 1621	synthesized
+T1099248	RegulationOfGeneExpression 1869 1877	regulate
+T1099249	GeneExpression 1895 1904	synthesis
+T1099250	GeneExpression 1919 1928	synthesis
+T1099251	RegulationOfGeneExpression 1999 2006	governs
+T1099252	PositiveRegulationOfGeneExpression 2011 2023	inducibility
+E1	RegulationOfGeneExpression: Cause:T1319204 Theme:T1319203
+T1209230	Entity 278 282	urea
+E2	RegulationOfGeneExpression: Cause:T1209230 Theme:T1319206
+T1209231	Entity 701 705	urea
+E3	PositiveRegulationOfGeneExpression: Cause:T1209231 Theme:T1319210
+E4	RegulationOfGeneExpression: Cause:T1319222 Theme:T1319221
+E5	RegulationOfGeneExpression: Cause:T1319224 Theme:T1319223
+E6	RegulationOfGeneExpression: Cause:T1319226 Theme:T1319225
+E7	PositiveRegulationOfGeneExpression: Cause:T1319227 Theme:T1319228

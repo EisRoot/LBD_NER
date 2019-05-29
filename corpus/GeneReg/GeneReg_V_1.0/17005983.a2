@@ -1,0 +1,46 @@
+T1097020	RegulationOfGeneExpression 5 15	regulation
+T1097021	RegulationOfGeneExpression 87 97	regulators
+T1097022	PositiveRegulationOfGeneExpression 281 290	inducible
+T1097023	RegulationOfGeneExpression 336 345	regulator
+T1097024	TranscriptionOfGene 387 398	transcribed
+T1097025	TranscriptionOfGene 429 442	transcription
+T1097026	PositiveRegulationOfGeneExpression 645 652	induced
+T1097027	PositiveRegulationOfGeneExpression 734 741	induced
+T1097028	GeneticModification 750 758	Deletion
+T1097029	PositiveRegulationOfGeneExpression 830 839	activator
+T1097030	RegulationOfGeneExpression 875 884	regulator
+T1097031	PositiveRegulationOfGeneExpression 889 897	required
+T1097032	TranscriptionOfGene 902 915	transcription
+T1097033	TranscriptionOfGene 1027 1042	Transcriptional
+T1097034	PositiveRegulationOfGeneExpression 1115 1173	regulates the expression of the pegBCDAE operon positively
+T1097035	GeneExpression 1129 1139	expression
+T1097036	RegulationOfGeneExpression 1357 1366	regulator
+T1097037	RegulationOfGeneExpression 1461 1470	regulator
+T1097038	RegulationOfGeneExpression 1546 1556	regulation
+T1097039	RegulationOfGeneExpression 1622 1631	regulator
+T1097040	RegulationOfGeneExpression 1717 1726	regulator
+T1097041	RegulationOfGeneExpression 1749 1758	dependent
+T1207006	Entity 277 280	PEG
+E1	PositiveRegulationOfGeneExpression: Cause:T1207006 Theme:T1316958
+T1207008	Entity 501 510	sigma(70)
+E2	RegulationOfGeneExpression: Cause:T1207008 Theme:T1316961
+E3	RegulationOfGeneExpression: Cause:T1207008 Theme:T1316962
+E4	RegulationOfGeneExpression: Cause:T1207008 Theme:T1316963
+T1207009	Entity 656 659	PEG
+E5	PositiveRegulationOfGeneExpression: Cause:T1207009 Theme:T1316965
+T1207010	Entity 664 691	oligomeric ethylene glycols
+E6	PositiveRegulationOfGeneExpression: Cause:T1207010 Theme:T1316965
+T1207011	Entity 745 748	PEG
+E7	PositiveRegulationOfGeneExpression: Cause:T1207011 Theme:T1316966
+E8	PositiveRegulationOfGeneExpression: Cause:T1207011 Theme:T1316967
+E9	PositiveRegulationOfGeneExpression: Cause:T1316978 Theme:T1316979
+E10	RegulationOfGeneExpression: Cause:T1316995 Theme:T1316992
+T1207017	Entity 1639 1642	PEG
+E11	RegulationOfGeneExpression: Cause:T1207017 Theme:T1316992
+E12	RegulationOfGeneExpression: Cause:T1316995 Theme:T1316993
+E13	RegulationOfGeneExpression: Cause:T1207017 Theme:T1316993
+E14	RegulationOfGeneExpression: Cause:T1317001 Theme:T1316996
+T1207019	Entity 1745 1748	PEG
+E15	RegulationOfGeneExpression: Cause:T1207019 Theme:T1316996
+E16	RegulationOfGeneExpression: Cause:T1207019 Theme:T1316997
+E17	RegulationOfGeneExpression: Cause:T1317001 Theme:T1316997

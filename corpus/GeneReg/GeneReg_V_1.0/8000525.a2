@@ -1,0 +1,44 @@
+T1099719	RegulationOfGeneExpression 44 53	regulated
+T1099720	GeneticModification 110 116	mutant
+T1099721	GeneticModification 209 216	deleted
+T1099722	GeneticModification 340 349	disrupted
+T1099723	GeneExpression 402 411	expressed
+T1099724	GeneticModification 426 432	mutant
+T1099725	RegulationOfGeneExpression 631 641	regulation
+T1099726	GeneExpression 657 666	synthesis
+T1099727	RegulationOfGeneExpression 797 805	mediated
+T1099728	NegativeRegulationOfGeneExpression 817 827	repression
+T1099729	RegulationOfGeneExpression 837 845	mediated
+T1099730	NegativeRegulationOfGeneExpression 856 866	repression
+T1099731	PositiveRegulationOfGeneExpression 889 898	activated
+T1099732	RegulationOfGeneExpression 929 939	regulatory
+T1099733	PositiveRegulationOfGeneExpression 977 986	activated
+T1099734	RegulationOfGeneExpression 1093 1103	regulatory
+T1099735	NegativeRegulationOfGeneExpression 1178 1187	decreased
+T1099736	RegulationOfGeneExpression 1236 1244	affected
+T1099737	PositiveRegulationOfGeneExpression 1409 1418	activated
+T1099738	PositiveRegulationOfGeneExpression 1499 1508	activated
+T1099739	RegulationOfGeneExpression 1539 1549	regulatory
+E1	NegativeRegulationOfGeneExpression: Cause:T1319694 Theme:T1319691
+T1209714	Entity 846 855	anaerobic
+E2	NegativeRegulationOfGeneExpression: Cause:T1209714 Theme:T1319691
+E3	NegativeRegulationOfGeneExpression: Cause:T1319693 Theme:T1319691
+E4	NegativeRegulationOfGeneExpression: Cause:T1319694 Theme:T1319692
+E5	NegativeRegulationOfGeneExpression: Cause:T1209714 Theme:T1319692
+E6	NegativeRegulationOfGeneExpression: Cause:T1319693 Theme:T1319692
+T1209715	Entity 912 928	oxidative stress
+E7	PositiveRegulationOfGeneExpression: Cause:T1209715 Theme:T1319696
+E8	PositiveRegulationOfGeneExpression: Cause:T1319695 Theme:T1319696
+E9	PositiveRegulationOfGeneExpression: Cause:T1319698 Theme:T1319696
+E10	RegulationOfGeneExpression: Cause:T1319703 Theme:T1319699
+E11	RegulationOfGeneExpression: Cause:T1319700 Theme:T1319699
+E12	RegulationOfGeneExpression: Cause:T1319702 Theme:T1319699
+E13	RegulationOfGeneExpression: Cause:T1319701 Theme:T1319699
+T1209716	Entity 1206 1222	oxidative stress
+E14	NegativeRegulationOfGeneExpression: Cause:T1209716 Theme:T1319704
+T1209717	Entity 1248 1260	anaerobiosis
+E15	RegulationOfGeneExpression: Cause:T1209717 Theme:T1319704
+E16	PositiveRegulationOfGeneExpression: Cause:T1319710 Theme:T1319707
+E17	PositiveRegulationOfGeneExpression: Cause:T1319713 Theme:T1319711
+T1209718	Entity 1522 1538	oxidative stress
+E18	PositiveRegulationOfGeneExpression: Cause:T1209718 Theme:T1319711

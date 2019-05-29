@@ -1,0 +1,9 @@
+T1099574	GeneExpression 0 10	Expression
+T1099575	PositiveRegulationOfGeneExpression 300 313	overexpressed
+T1099576	GeneExpression 330 339	expressed
+T1099577	GeneExpression 391 403	coexpression
+T1099578	PositiveRegulationOfGeneExpression 424 436	overproduces
+T1099579	GeneExpression 601 613	coexpression
+T1099580	PositiveRegulationOfGeneExpression 841 850	induction
+T1099581	GeneExpression 868 878	expression
+T1099582	PositiveRegulationOfGeneExpression 917 931	overproduction

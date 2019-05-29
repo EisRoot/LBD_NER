@@ -1,0 +1,21 @@
+T1099633	GeneticModification 199 208	mutations
+T1099634	GeneticModification 278 284	mutant
+T1099635	RegulationOfGeneExpression 375 385	regulators
+T1099636	GeneticModification 470 476	mutant
+T1099637	GeneticModification 635 643	mutation
+T1099638	GeneticModification 698 704	mutant
+T1099639	GeneticModification 904 912	mutation
+T1099640	PositiveRegulationOfGeneExpression 985 993	increase
+T1099641	PositiveRegulationOfGeneExpression 1181 1189	requires
+T1099642	PositiveRegulationOfGeneExpression 1225 1239	overexpression
+T1099643	PositiveRegulationOfGeneExpression 1289 1299	activation
+T1099644	RegulationOfGeneExpression 1401 1411	regulatory
+T1099645	RegulationOfGeneExpression 1455 1462	control
+T1099646	GeneExpression 1467 1477	expression
+T1099647	RegulationOfGeneExpression 1540 1546	acting
+T1099648	RegulationOfGeneExpression 1603 1611	directed
+T1099649	PositiveRegulationOfGeneExpression 1718 1724	induce
+E1	RegulationOfGeneExpression: Cause:T1319614 Theme:T1319615
+E2	PositiveRegulationOfGeneExpression: Cause:T1319623 Theme:T1319624
+E3	RegulationOfGeneExpression: Cause:T1319627 Theme:T1319628
+E4	RegulationOfGeneExpression: Cause:T1319629 Theme:T1319630

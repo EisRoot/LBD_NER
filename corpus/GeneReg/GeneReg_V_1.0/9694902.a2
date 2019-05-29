@@ -1,0 +1,26 @@
+T10912318	TranscriptionOfGene 26 39	transcription
+T10912319	RegulationOfGeneExpression 40 49	regulator
+T10912320	TranscriptionOfGene 472 485	transcription
+T10912321	RegulationOfGeneExpression 486 495	regulator
+T10912322	TranscriptionOfGene 533 546	transcription
+T10912323	PositiveRegulationOfGeneExpression 547 557	activators
+T10912324	GeneticModification 559 573	Transformation
+T10912325	PositiveRegulationOfGeneExpression 916 923	induced
+T10912326	Increase 931 939	presence
+T10912327	RegulationOfGeneExpression 1001 1010	dependent
+T10912328	GeneExpression 1011 1021	expression
+T10912329	RegulationOfGeneExpression 1060 1069	regulated
+T10912330	PositiveRegulationOfGeneExpression 1462 1475	up-regulation
+T12012309	Entity 970 974	Fe2+
+E1	PositiveRegulationOfGeneExpression: Cause:T12012309 Theme:T13112289
+T12012307	Entity 955 959	Cd2+
+E2	PositiveRegulationOfGeneExpression: Cause:T12012307 Theme:T13112289
+T12012308	Entity 961 965	Mn2+
+E3	PositiveRegulationOfGeneExpression: Cause:T12012308 Theme:T13112289
+T12012306	Entity 949 953	Co2+
+E4	PositiveRegulationOfGeneExpression: Cause:T12012306 Theme:T13112289
+T12012305	Entity 943 947	Ni2+
+E5	PositiveRegulationOfGeneExpression: Cause:T12012305 Theme:T13112289
+T12012310	Entity 1073 1077	zinc
+E6	RegulationOfGeneExpression: Cause:T12012310 Theme:T13112291
+E7	RegulationOfGeneExpression: Cause:T13112290 Theme:T13112291

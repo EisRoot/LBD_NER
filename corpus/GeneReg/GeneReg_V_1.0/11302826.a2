@@ -1,0 +1,8 @@
+T1092172	NegativeRegulationOfGeneExpression 11 20	mutations
+T1092173	PositiveRegulationOfGeneExpression 48 62	overexpressing
+T1092174	PositiveRegulationOfGeneExpression 332 340	elevated
+T1092175	GeneticModification 364 372	mutation
+T1092176	PositiveRegulationOfGeneExpression 476 487	overexpress
+T1092177	PositiveRegulationOfGeneExpression 515 526	overexpress
+T1092178	GeneticModification 545 554	mutations
+T1092179	NegativeRegulationOfGeneExpression 587 596	repressor

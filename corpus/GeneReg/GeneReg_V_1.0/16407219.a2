@@ -1,0 +1,6 @@
+T1096455	NegativeRegulationOfGeneExpression 38 48	repression
+T1096456	NegativeRegulationOfGeneExpression 109 119	repression
+T1096457	GeneExpression 490 499	expressed
+T1096458	GeneticModification 632 640	deletion
+T1096459	GeneExpression 649 659	expressing
+T1096460	RegulationOfGeneExpression 675 685	regulatory

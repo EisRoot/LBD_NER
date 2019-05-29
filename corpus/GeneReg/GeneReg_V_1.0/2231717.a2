@@ -1,0 +1,15 @@
+T1097587	PositiveRegulationOfGeneExpression 108 117	inducible
+T1097588	TranscriptionOfGene 651 664	transcription
+T1097589	RegulationOfGeneExpression 1065 1074	sensitive
+T1097590	PositiveRegulationOfGeneExpression 1128 1136	required
+T1097591	TranscriptionOfGene 1149 1162	transcription
+T1097592	TranscriptionOfGene 1197 1210	transcription
+T1097593	TranscriptionOfGene 1315 1328	transcription
+T1097594	RegulationOfGeneExpression 1399 1408	dependent
+T1097595	TranscriptionOfGene 1706 1719	transcription
+T1207583	Entity 98 107	arabinose
+E1	PositiveRegulationOfGeneExpression: Cause:T1207583 Theme:T1317550
+E2	RegulationOfGeneExpression: Cause:T1317567 Theme:T1317568
+E3	RegulationOfGeneExpression: Cause:T1317567 Theme:T1317569
+E4	RegulationOfGeneExpression: Cause:T1317576 Theme:T1317574
+E5	RegulationOfGeneExpression: Cause:T1317575 Theme:T1317574

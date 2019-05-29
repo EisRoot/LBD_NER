@@ -1,0 +1,7 @@
+T1093355	GeneExpression 356 366	Expression
+T1093356	RegulationOfGeneExpression 385 394	regulated
+T1093357	NegativeRegulationOfGeneExpression 430 439	repressor
+T1203352	Entity 398 410	L-methionine
+E1	RegulationOfGeneExpression: Cause:T1203352 Theme:T1313342
+E2	RegulationOfGeneExpression: Cause:T1313343 Theme:T1313342
+E3	NegativeRegulationOfGeneExpression: Cause:T1313343 Theme:T1313344

@@ -1,0 +1,13 @@
+T1092047	TranscriptionOfGene 346 361	transcriptional
+T1092048	PositiveRegulationOfGeneExpression 362 370	enhancer
+T1092049	PositiveRegulationOfGeneExpression 467 477	activation
+T1092050	GeneticModification 529 540	mutagenesis
+T1092051	GeneticModification 643 650	mutated
+T1092052	RegulationOfGeneExpression 1033 1041	mediated
+T1092053	RegulationOfGeneExpression 1042 1052	regulation
+T1092054	GeneExpression 1060 1070	expression
+T1092055	TranscriptionOfGene 1079 1094	transcriptional
+E1	PositiveRegulationOfGeneExpression: Cause:T1312035 Theme:T1312036
+T1202046	Entity 456 466	cold-shock
+E2	PositiveRegulationOfGeneExpression: Cause:T1202046 Theme:T1312038
+E3	RegulationOfGeneExpression: Cause:T1312042 Theme:T1312044

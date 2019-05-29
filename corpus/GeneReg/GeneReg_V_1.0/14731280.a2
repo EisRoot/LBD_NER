@@ -1,0 +1,66 @@
+T1095045	RegulationOfGeneExpression 42 52	regulation
+T1095046	RegulationOfGeneExpression 76 85	dependent
+T1095047	RegulationOfGeneExpression 222 232	controlled
+T1095048	RegulationOfGeneExpression 320 333	co-regulation
+T1095049	GeneExpression 455 465	expression
+T1095050	RegulationOfGeneExpression 472 482	controlled
+T1095051	GeneExpression 557 567	expression
+T1095052	RegulationOfGeneExpression 607 616	dependent
+T1095053	PositiveRegulationOfGeneExpression 621 630	activated
+T1095054	Decrease 655 665	starvation
+T1095055	RegulationOfGeneExpression 718 727	dependent
+T1095056	PositiveRegulationOfGeneExpression 757 766	induction
+T1095057	RegulationOfGeneExpression 987 997	controlled
+T1095058	NegativeRegulationOfGeneExpression 1072 1081	repressor
+T1095059	RegulationOfGeneExpression 1095 1104	modulates
+T1095060	RegulationOfGeneExpression 1225 1235	controlled
+T1095061	PositiveRegulationOfGeneExpression 1391 1401	activation
+T1095062	PositiveRegulationOfGeneExpression 1482 1488	induce
+T1095063	Decrease 1562 1572	starvation
+T1205026	Entity 0 22	Multiple stress signal
+E1	RegulationOfGeneExpression: Cause:T1205026 Theme:T1315007
+T1205027	Entity 68 75	sigma S
+E2	RegulationOfGeneExpression: Cause:T1205027 Theme:T1315007
+E3	RegulationOfGeneExpression: Cause:T1205026 Theme:T1315008
+E4	RegulationOfGeneExpression: Cause:T1205027 Theme:T1315008
+E5	RegulationOfGeneExpression: Cause:T1205026 Theme:T1315009
+E6	RegulationOfGeneExpression: Cause:T1205027 Theme:T1315009
+T1205028	Entity 214 221	sigma S
+E7	RegulationOfGeneExpression: Cause:T1205028 Theme:T1315010
+E8	RegulationOfGeneExpression: Cause:T1205028 Theme:T1315011
+E9	RegulationOfGeneExpression: Cause:T1205028 Theme:T1315012
+T1205030	Entity 590 594	cAMP
+E10	RegulationOfGeneExpression: Cause:T1205030 Theme:T1315013
+T1205033	Entity 670 686	stationary phase
+E11	PositiveRegulationOfGeneExpression: Cause:T1205033 Theme:T1315013
+E12	RegulationOfGeneExpression: Cause:T1315015 Theme:T1315013
+T1205031	Entity 599 606	sigma S
+E13	RegulationOfGeneExpression: Cause:T1205031 Theme:T1315013
+T1205032	Entity 648 665	carbon starvation
+E14	PositiveRegulationOfGeneExpression: Cause:T1205032 Theme:T1315013
+E15	RegulationOfGeneExpression: Cause:T1205031 Theme:T1315014
+E16	PositiveRegulationOfGeneExpression: Cause:T1205033 Theme:T1315014
+E17	PositiveRegulationOfGeneExpression: Cause:T1205032 Theme:T1315014
+E18	RegulationOfGeneExpression: Cause:T1315015 Theme:T1315014
+E19	RegulationOfGeneExpression: Cause:T1205030 Theme:T1315014
+T1205034	Entity 710 717	sigma S
+E20	RegulationOfGeneExpression: Cause:T1205034 Theme:T1315016
+T1205035	Entity 741 756	multiple stress
+E21	PositiveRegulationOfGeneExpression: Cause:T1205035 Theme:T1315016
+E22	PositiveRegulationOfGeneExpression: Cause:T1205035 Theme:T1315017
+E23	RegulationOfGeneExpression: Cause:T1315019 Theme:T1315018
+T1205038	Entity 1016 1037	poor nitrogen sources
+E24	RegulationOfGeneExpression: Cause:T1205038 Theme:T1315018
+T1205037	Entity 978 986	sigma 70
+E25	RegulationOfGeneExpression: Cause:T1205037 Theme:T1315018
+E26	NegativeRegulationOfGeneExpression: Cause:T1315021 Theme:T1315022
+T1205040	Entity 1217 1224	sigma S
+E27	RegulationOfGeneExpression: Cause:T1205040 Theme:T1315023
+T1205041	Entity 1489 1496	sigma S
+E28	PositiveRegulationOfGeneExpression: Cause:T1205041 Theme:T1315024
+T1205043	Entity 1535 1550	high osmolarity
+E29	RegulationOfGeneExpression: Cause:T1205043 Theme:T1315025
+T1205042	Entity 1512 1531	shifts to acidic pH
+E30	RegulationOfGeneExpression: Cause:T1205042 Theme:T1315025
+T1205044	Entity 1576 1592	stationary phase
+E31	RegulationOfGeneExpression: Cause:T1205044 Theme:T1315025

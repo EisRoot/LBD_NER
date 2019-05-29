@@ -1,0 +1,49 @@
+T1096930	RegulationOfGeneExpression 12 22	regulation
+T1096931	RegulationOfGeneExpression 106 115	sensitive
+T1096932	NegativeRegulationOfGeneExpression 116 125	repressor
+T1096933	PositiveRegulationOfGeneExpression 330 339	activated
+T1096934	RegulationOfGeneExpression 348 357	regulator
+T1096935	RegulationOfGeneExpression 412 422	regulatory
+T1096936	PositiveRegulationOfGeneExpression 445 452	induced
+T1096937	PositiveRegulationOfGeneExpression 476 483	induced
+T1096938	GeneExpression 747 756	expressed
+T1096939	PositiveRegulationOfGeneExpression 930 937	induces
+T1096940	TranscriptionOfGene 943 956	transcription
+T1096941	GeneticModification 967 973	mutant
+T1096942	PositiveRegulationOfGeneExpression 988 997	induction
+T1096943	RegulationOfGeneExpression 998 1006	involves
+T1096944	NegativeRegulationOfGeneExpression 1016 1028	inactivation
+T1096945	NegativeRegulationOfGeneExpression 1061 1070	repressor
+T1096946	GeneticModification 1146 1152	mutant
+T1096947	GeneExpression 1245 1254	expressed
+T1096948	Decrease 1277 1284	absence
+T1096949	TranscriptionOfGene 1341 1354	transcription
+T1096950	GeneExpression 1456 1465	expressed
+T1096951	GeneticModification 1507 1516	chimaeras
+T1096952	PositiveRegulationOfGeneExpression 1590 1596	active
+T1096953	RegulationOfGeneExpression 1646 1654	involved
+T1096954	RegulationOfGeneExpression 1782 1791	regulates
+T1206909	Entity 93 105	nitric oxide
+E1	NegativeRegulationOfGeneExpression: Cause:T1206909 Theme:T1316870
+E2	RegulationOfGeneExpression: Cause:T1316874 Theme:T1316870
+E3	RegulationOfGeneExpression: Cause:T1316873 Theme:T1316870
+T1206910	Entity 137 144	nitrite
+E4	RegulationOfGeneExpression: Cause:T1206910 Theme:T1316870
+E5	NegativeRegulationOfGeneExpression: Cause:T1316872 Theme:T1316870
+T1206916	Entity 456 463	nitrite
+E6	PositiveRegulationOfGeneExpression: Cause:T1206916 Theme:T1316877
+E7	PositiveRegulationOfGeneExpression: Cause:T1316880 Theme:T1316877
+E8	PositiveRegulationOfGeneExpression: Cause:T1316878 Theme:T1316877
+E9	PositiveRegulationOfGeneExpression: Cause:T1316879 Theme:T1316877
+T1206917	Entity 487 489	NO
+E10	PositiveRegulationOfGeneExpression: Cause:T1206917 Theme:T1316881
+E11	RegulationOfGeneExpression: Cause:T1316882 Theme:T1316881
+T1206918	Entity 922 929	nitrite
+E12	PositiveRegulationOfGeneExpression: Cause:T1206918 Theme:T1316890
+E13	NegativeRegulationOfGeneExpression: Cause:T1316893 Theme:T1316894
+E14	NegativeRegulationOfGeneExpression: Cause:T1316893 Theme:T1316895
+E15	NegativeRegulationOfGeneExpression: Cause:T1316893 Theme:T1316897
+E16	RegulationOfGeneExpression: Cause:T1316905 Theme:T1316906
+T1206928	Entity 1815 1817	NO
+E17	RegulationOfGeneExpression: Cause:T1206928 Theme:T1316906
+E18	RegulationOfGeneExpression: Cause:T1316905 Theme:T1316907

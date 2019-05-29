@@ -1,0 +1,14 @@
+T1097359	RegulationOfGeneExpression 67 75	involved
+T1097360	RegulationOfGeneExpression 84 93	dependent
+T1097361	GeneExpression 98 113	gene expression
+T1097362	NegativeRegulationOfGeneExpression 445 454	repressor
+T1097363	PositiveRegulationOfGeneExpression 865 879	Overexpression
+T1097364	PositiveRegulationOfGeneExpression 929 937	increase
+T1097365	RegulationOfGeneExpression 971 980	dependent
+T1097366	RegulationOfGeneExpression 1037 1047	regulatory
+T1097367	RegulationOfGeneExpression 1055 1063	involved
+E1	RegulationOfGeneExpression: Cause:T1317343 Theme:T1317344
+E2	RegulationOfGeneExpression: Cause:T1317342 Theme:T1317344
+E3	RegulationOfGeneExpression: Cause:T1317354 Theme:T1317353
+E4	PositiveRegulationOfGeneExpression: Cause:T1317352 Theme:T1317353
+E5	RegulationOfGeneExpression: Cause:T1317355 Theme:T1317356

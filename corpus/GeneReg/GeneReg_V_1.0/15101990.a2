@@ -1,0 +1,27 @@
+T1095269	Decrease 63 73	starvation
+T1095270	GeneticModification 326 332	mutant
+T1095271	PositiveRegulationOfGeneExpression 484 491	induced
+T1095272	RegulationOfGeneExpression 585 595	Regulation
+T1095273	RegulationOfGeneExpression 617 625	mediated
+T1095274	PositiveRegulationOfGeneExpression 658 666	requires
+T1095275	PositiveRegulationOfGeneExpression 729 738	induction
+T1095276	Decrease 747 757	starvation
+T1095277	GeneticModification 772 780	deletion
+T1095278	GeneticModification 1026 1042	deletion mutants
+T1095279	Decrease 1070 1080	starvation
+T1095280	GeneticModification 1090 1097	mutants
+T1095281	GeneticModification 1182 1188	mutant
+T1095282	Decrease 1201 1211	starvation
+T1095283	Decrease 1472 1482	starvation
+T1205257	Entity 495 512	hydrogen peroxide
+E1	PositiveRegulationOfGeneExpression: Cause:T1205257 Theme:T1315234
+T1205259	Entity 535 549	2,2'-dipyridyl
+E2	PositiveRegulationOfGeneExpression: Cause:T1205259 Theme:T1315234
+E3	RegulationOfGeneExpression: Cause:T1315236 Theme:T1315235
+E4	PositiveRegulationOfGeneExpression: Cause:T1315240 Theme:T1315237
+E5	PositiveRegulationOfGeneExpression: Cause:T1315238 Theme:T1315237
+T1205261	Entity 742 746	iron
+E6	NegativeRegulationOfGeneExpression: Cause:T1205261 Theme:T1315237
+T1205260	Entity 700 716	oxidative stress
+E7	PositiveRegulationOfGeneExpression: Cause:T1205260 Theme:T1315237
+E8	PositiveRegulationOfGeneExpression: Cause:T1315239 Theme:T1315237

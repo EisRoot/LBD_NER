@@ -1,0 +1,53 @@
+T10910608	RegulationOfGeneExpression 47 57	regulation
+T10910609	RegulationOfGeneExpression 230 240	regulatory
+T10910610	RegulationOfGeneExpression 395 404	regulated
+T10910611	RegulationOfGeneExpression 529 540	responsible
+T10910612	GeneExpression 559 569	expression
+T10910613	TranscriptionOfGene 593 604	transcripts
+T10910614	TranscriptionOfGene 610 621	transcripts
+T10910615	RegulationOfGeneExpression 650 660	Regulation
+T10910616	GeneticModification 781 788	fusions
+T10910617	GeneticModification 790 798	Mutation
+T10910618	NegativeRegulationOfGeneExpression 846 855	repressor
+T10910619	RegulationOfGeneExpression 862 871	regulates
+T10910620	RegulationOfGeneExpression 905 913	response
+T10910621	PositiveRegulationOfGeneExpression 921 928	inducer
+T10910622	PositiveRegulationOfGeneExpression 962 971	inducible
+T10910623	GeneticModification 1000 1006	mutant
+T10910624	GeneticModification 1069 1076	mutants
+T10910625	NegativeRegulationOfGeneExpression 1175 1184	repressed
+T10910626	PositiveRegulationOfGeneExpression 1364 1373	induction
+T10910627	RegulationOfGeneExpression 1383 1392	dependent
+T10910628	RegulationOfGeneExpression 1401 1411	regulation
+T10910629	PositiveRegulationOfGeneExpression 1551 1557	needed
+T10910630	RegulationOfGeneExpression 1567 1576	dependent
+T10910631	RegulationOfGeneExpression 1577 1587	regulation
+E1	RegulationOfGeneExpression: Cause:T13110562 Theme:T13110561
+T12010594	Entity 96 110	osmotic stress
+E2	RegulationOfGeneExpression: Cause:T12010594 Theme:T13110561
+T12010592	Entity 61 67	oxygen
+E3	RegulationOfGeneExpression: Cause:T12010592 Theme:T13110561
+T12010593	Entity 76 83	choline
+E4	RegulationOfGeneExpression: Cause:T12010593 Theme:T13110561
+E5	RegulationOfGeneExpression: Cause:T13110563 Theme:T13110561
+T12010600	Entity 429 443	osmotic stress
+E6	RegulationOfGeneExpression: Cause:T12010600 Theme:T13110569
+T12010598	Entity 408 414	oxygen
+E7	RegulationOfGeneExpression: Cause:T12010598 Theme:T13110569
+T12010599	Entity 416 423	choline
+E8	RegulationOfGeneExpression: Cause:T12010599 Theme:T13110569
+E9	NegativeRegulationOfGeneExpression: Cause:T13110576 Theme:T13110577
+T12010602	Entity 929 936	choline
+E10	PositiveRegulationOfGeneExpression: Cause:T12010602 Theme:T13110577
+T12010603	Entity 975 989	osmotic stress
+E11	PositiveRegulationOfGeneExpression: Cause:T12010603 Theme:T13110578
+E12	RegulationOfGeneExpression: Cause:T13110583 Theme:T13110582
+T12010605	Entity 1199 1208	anaerobic
+E13	NegativeRegulationOfGeneExpression: Cause:T12010605 Theme:T13110584
+E14	NegativeRegulationOfGeneExpression: Cause:T13110585 Theme:T13110584
+T12010606	Entity 1356 1363	osmotic
+E15	PositiveRegulationOfGeneExpression: Cause:T12010606 Theme:T13110586
+T12010607	Entity 1393 1400	choline
+E16	RegulationOfGeneExpression: Cause:T12010607 Theme:T13110586
+E17	RegulationOfGeneExpression: Cause:T13110587 Theme:T13110586
+E18	RegulationOfGeneExpression: Cause:T13110590 Theme:T13110591

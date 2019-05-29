@@ -1,0 +1,20 @@
+T1094924	RegulationOfGeneExpression 158 167	regulated
+T1094925	NegativeRegulationOfGeneExpression 200 219	acting as repressor
+T1094926	GeneticModification 833 848	deletion mutant
+T1094927	PositiveRegulationOfGeneExpression 968 977	induction
+T1094928	RegulationOfGeneExpression 1061 1071	controlled
+T1094929	PositiveRegulationOfGeneExpression 1084 1093	activator
+T1094930	RegulationOfGeneExpression 1329 1338	regulator
+T1094931	GeneticModification 1349 1357	deletion
+T1094932	PositiveRegulationOfGeneExpression 1382 1395	up-regulation
+T1094933	GeneticModification 1439 1447	deletion
+T1094934	PositiveRegulationOfGeneExpression 1496 1505	inducible
+T1094935	GeneticModification 1512 1526	transformation
+T1094936	GeneExpression 1540 1549	expressed
+T1094937	RegulationOfGeneExpression 1574 1583	regulator
+T1094938	NegativeRegulationOfGeneExpression 1585 1594	repressor
+E1	NegativeRegulationOfGeneExpression: Cause:T1314894 Theme:T1314893
+E2	PositiveRegulationOfGeneExpression: Cause:T1314901 Theme:T1314900
+E3	NegativeRegulationOfGeneExpression: Cause:T1314908 Theme:T1314909
+E4	NegativeRegulationOfGeneExpression: Cause:T1314908 Theme:T1314910
+E5	NegativeRegulationOfGeneExpression: Cause:T1314913 Theme:T1314914

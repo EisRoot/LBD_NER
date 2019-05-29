@@ -1,0 +1,39 @@
+T10911644	RegulationOfGeneExpression 42 50	involved
+T10911645	NegativeRegulationOfGeneExpression 54 63	silencing
+T10911646	RegulationOfGeneExpression 153 163	regulation
+T10911647	NegativeRegulationOfGeneExpression 303 322	negatively regulate
+T10911648	TranscriptionOfGene 323 336	transcription
+T10911649	NegativeRegulationOfGeneExpression 409 428	negative regulation
+T10911650	GeneticModification 445 453	deletion
+T10911651	RegulationOfGeneExpression 534 542	involved
+T10911652	NegativeRegulationOfGeneExpression 546 555	silencing
+T10911653	NegativeRegulationOfGeneExpression 817 836	negative regulation
+T10911654	PositiveRegulationOfGeneExpression 838 849	Enhancement
+T10911655	TranscriptionOfGene 853 866	transcription
+T10911656	Increase 912 920	presence
+T10911657	NegativeRegulationOfGeneExpression 961 967	absent
+T10911658	GeneticModification 973 979	mutant
+T10911659	GeneticModification 999 1008	mutations
+T10911660	PositiveRegulationOfGeneExpression 1068 1078	activation
+T10911661	GeneticModification 1096 1102	mutant
+T10911662	RegulationOfGeneExpression 1106 1114	mediated
+T10911663	GeneticModification 1184 1192	Deletion
+T10911664	PositiveRegulationOfGeneExpression 1264 1272	increase
+T10911665	TranscriptionOfGene 1276 1289	transcription
+T10911666	TranscriptionOfGene 1362 1375	transcription
+T10911667	GeneticModification 1411 1419	deletion
+T10911668	GeneticModification 1444 1452	mutation
+T10911669	RegulationOfGeneExpression 1513 1521	involved
+T10911670	RegulationOfGeneExpression 1554 1563	regulated
+T10911671	NegativeRegulationOfGeneExpression 1579 1611	acts as a non-specific repressor
+T10911672	TranscriptionOfGene 1658 1673	transcriptional
+T10911673	PositiveRegulationOfGeneExpression 1674 1684	activation
+T10911674	GeneticModification 1688 1697	mutations
+T10911675	RegulationOfGeneExpression 1749 1757	mediated
+T10911676	NegativeRegulationOfGeneExpression 1790 1805	negative effect
+T10911677	GeneticModification 1872 1878	mutant
+E1	NegativeRegulationOfGeneExpression: Cause:T13111629 Theme:T13111626
+E2	NegativeRegulationOfGeneExpression: Cause:T13111628 Theme:T13111626
+T12011640	Entity 145 149	cAMP
+E3	NegativeRegulationOfGeneExpression: Cause:T12011640 Theme:T13111626
+E4	RegulationOfGeneExpression: Cause:T13111635 Theme:T13111634

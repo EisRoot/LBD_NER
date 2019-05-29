@@ -1,0 +1,6 @@
+T1097476	RegulationOfGeneExpression 51 59	controls
+T1097477	RegulationOfGeneExpression 386 397	controlling
+T1097478	RegulationOfGeneExpression 832 842	regulatory
+T1097479	RegulationOfGeneExpression 984 997	autoregulated
+T1097480	TranscriptionOfGene 1005 1020	transcriptional
+E1	RegulationOfGeneExpression: Cause:T1317474 Theme:T1317475

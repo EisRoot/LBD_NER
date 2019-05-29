@@ -1,0 +1,52 @@
+T10911297	PositiveRegulationOfGeneExpression 4 11	induced
+T10911298	TranscriptionOfGene 12 25	transcription
+T10911299	PositiveRegulationOfGeneExpression 94 114	positively regulated
+T10911300	RegulationOfGeneExpression 127 135	affected
+T10911301	Increase 272 280	presence
+T10911302	RegulationOfGeneExpression 410 420	regulatory
+T10911303	PositiveRegulationOfGeneExpression 516 534	positive regulator
+T10911304	PositiveRegulationOfGeneExpression 570 577	inducer
+T10911305	TranscriptionOfGene 586 599	transcription
+T10911306	PositiveRegulationOfGeneExpression 636 645	induction
+T10911307	GeneExpression 731 741	expression
+T10911308	PositiveRegulationOfGeneExpression 750 759	induction
+T10911309	NegativeRegulationOfGeneExpression 771 776	lower
+T10911310	PositiveRegulationOfGeneExpression 983 992	induction
+T10911311	RegulationOfGeneExpression 1034 1043	regulator
+T10911312	RegulationOfGeneExpression 1057 1065	involved
+T10911313	RegulationOfGeneExpression 1074 1084	regulation
+T10911314	RegulationOfGeneExpression 1097 1106	regulator
+T10911315	GeneExpression 1136 1146	expression
+T10911316	PositiveRegulationOfGeneExpression 1166 1177	derepressed
+T10911317	GeneticModification 1201 1210	mutations
+T10911318	NegativeRegulationOfGeneExpression 1274 1283	repressed
+T10911319	GeneExpression 1284 1294	expression
+T10911320	PositiveRegulationOfGeneExpression 1312 1321	induction
+T10911321	PositiveRegulationOfGeneExpression 1327 1339	derepression
+T10911322	RegulationOfGeneExpression 1462 1471	dependent
+T10911323	PositiveRegulationOfGeneExpression 1472 1490	positive regulator
+T10911324	NegativeRegulationOfGeneExpression 1503 1512	repressor
+T10911325	Decrease 1537 1544	absence
+T10911326	PositiveRegulationOfGeneExpression 1560 1569	activated
+T10911327	Increase 1577 1585	presence
+T10911328	RegulationOfGeneExpression 1646 1656	regulation
+T12011278	Entity 0 3	Na+
+E1	PositiveRegulationOfGeneExpression: Cause:T12011278 Theme:T13111248
+E2	RegulationOfGeneExpression: Cause:T13111250 Theme:T13111248
+E3	PositiveRegulationOfGeneExpression: Cause:T13111249 Theme:T13111248
+T12011284	Entity 539 542	Na+
+E4	PositiveRegulationOfGeneExpression: Cause:T12011284 Theme:T13111258
+E5	PositiveRegulationOfGeneExpression: Cause:T13111257 Theme:T13111258
+T12011285	Entity 662 673	alkaline pH
+E6	PositiveRegulationOfGeneExpression: Cause:T12011285 Theme:T13111259
+T12011286	Entity 780 791	alkaline pH
+E7	PositiveRegulationOfGeneExpression: Cause:T12011286 Theme:T13111262
+T12011290	Entity 1044 1048	rpoS
+E8	RegulationOfGeneExpression: Cause:T12011290 Theme:T13111264
+E9	RegulationOfGeneExpression: Cause:T13111265 Theme:T13111264
+E10	NegativeRegulationOfGeneExpression: Cause:T13111269 Theme:T13111266
+E11	NegativeRegulationOfGeneExpression: Cause:T13111268 Theme:T13111266
+T12011292	Entity 1308 1311	Na+
+E12	PositiveRegulationOfGeneExpression: Cause:T12011292 Theme:T13111266
+E13	RegulationOfGeneExpression: Cause:T13111275 Theme:T13111277
+E14	RegulationOfGeneExpression: Cause:T13111276 Theme:T13111277

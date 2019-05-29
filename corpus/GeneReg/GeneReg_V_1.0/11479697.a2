@@ -1,0 +1,20 @@
+T1092504	RegulationOfGeneExpression 36 46	regulation
+T1092505	Decrease 75 82	absence
+T1092506	Decrease 188 198	Starvation
+T1092507	RegulationOfGeneExpression 211 216	leads
+T1092508	GeneExpression 224 234	expression
+T1092509	GeneExpression 1139 1149	Expression
+T1092510	PositiveRegulationOfGeneExpression 1175 1183	requires
+T1092511	TranscriptionOfGene 1198 1213	transcriptional
+T1092512	GeneExpression 1248 1257	Synthesis
+T1092513	RegulationOfGeneExpression 1275 1288	under control
+T1092514	RegulationOfGeneExpression 1371 1380	regulator
+T1202501	Entity 203 210	sulfate
+E1	RegulationOfGeneExpression: Cause:T1202501 Theme:T1312482
+E2	RegulationOfGeneExpression: Cause:T1202501 Theme:T1312483
+E3	PositiveRegulationOfGeneExpression: Cause:T1312494 Theme:T1312490
+E4	PositiveRegulationOfGeneExpression: Cause:T1312493 Theme:T1312490
+E5	PositiveRegulationOfGeneExpression: Cause:T1312494 Theme:T1312491
+E6	PositiveRegulationOfGeneExpression: Cause:T1312493 Theme:T1312491
+E7	RegulationOfGeneExpression: Cause:T1312497 Theme:T1312496
+E8	RegulationOfGeneExpression: Cause:T1312498 Theme:T1312499

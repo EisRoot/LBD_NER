@@ -1,0 +1,15 @@
+T1098131	RegulationOfGeneExpression 34 44	regulation
+T1098132	NegativeRegulationOfGeneExpression 116 125	repressor
+T1098133	RegulationOfGeneExpression 245 255	regulatory
+T1098134	RegulationOfGeneExpression 256 263	control
+T1098135	PositiveRegulationOfGeneExpression 276 285	activator
+T1098136	RegulationOfGeneExpression 554 564	regulation
+T1098137	GeneticModification 566 575	Mutations
+T1098138	GeneExpression 679 689	expression
+T1098139	GeneExpression 840 850	expression
+T1098140	GeneExpression 911 920	expressed
+T1098141	GeneExpression 1109 1118	expressed
+T1098142	NegativeRegulationOfGeneExpression 1240 1249	repressor
+T1098143	TranscriptionOfGene 1882 1897	transcriptional
+E1	RegulationOfGeneExpression: Cause:T1318095 Theme:T1318096
+E2	PositiveRegulationOfGeneExpression: Cause:T1318101 Theme:T1318100

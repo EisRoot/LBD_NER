@@ -1,0 +1,35 @@
+T10910997	TranscriptionOfGene 0 15	Transcriptional
+T10910998	RegulationOfGeneExpression 16 26	regulation
+T10910999	TranscriptionOfGene 62 77	Transcriptional
+T10911000	RegulationOfGeneExpression 78 88	regulation
+T10911001	GeneticModification 214 221	deleted
+T10911002	PositiveRegulationOfGeneExpression 300 307	induced
+T10911003	RegulationOfGeneExpression 403 410	control
+T10911004	RegulationOfGeneExpression 438 448	regulatory
+T10911005	PositiveRegulationOfGeneExpression 461 471	activating
+T10911006	NegativeRegulationOfGeneExpression 569 579	repression
+T10911007	PositiveRegulationOfGeneExpression 592 602	activating
+T10911008	Decrease 620 627	absence
+T10911009	PositiveRegulationOfGeneExpression 653 662	increased
+T10911010	GeneticModification 842 850	deletion
+T10911011	RegulationOfGeneExpression 916 926	regulatory
+T10911012	RegulationOfGeneExpression 953 963	controlled
+T10911013	RegulationOfGeneExpression 969 979	regulatory
+T10911014	PositiveRegulationOfGeneExpression 1003 1010	induces
+T10911015	PositiveRegulationOfGeneExpression 1051 1060	activates
+T12010993	Entity 528 537	L-mannose
+E1	PositiveRegulationOfGeneExpression: Cause:T12010993 Theme:T13110978
+T12010992	Entity 516 524	L-lyxose
+E2	PositiveRegulationOfGeneExpression: Cause:T12010992 Theme:T13110978
+E3	PositiveRegulationOfGeneExpression: Cause:T13110977 Theme:T13110978
+T12010991	Entity 493 503	L-rhamnose
+E4	PositiveRegulationOfGeneExpression: Cause:T12010991 Theme:T13110978
+T12010995	Entity 631 638	glucose
+E5	PositiveRegulationOfGeneExpression: Cause:T12010995 Theme:T13110980
+T12010994	Entity 553 557	cAMP
+E6	PositiveRegulationOfGeneExpression: Cause:T12010994 Theme:T13110980
+E7	PositiveRegulationOfGeneExpression: Cause:T13110979 Theme:T13110980
+T12010996	Entity 640 652	Anaerobiosis
+E8	PositiveRegulationOfGeneExpression: Cause:T12010996 Theme:T13110981
+E9	PositiveRegulationOfGeneExpression: Cause:T13110986 Theme:T13110987
+E10	PositiveRegulationOfGeneExpression: Cause:T13110988 Theme:T13110989

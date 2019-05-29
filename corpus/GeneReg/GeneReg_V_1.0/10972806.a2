@@ -1,0 +1,49 @@
+T1091357	TranscriptionOfGene 18 31	transcription
+T1091358	PositiveRegulationOfGeneExpression 32 42	activators
+T1091359	RegulationOfGeneExpression 48 56	regulate
+T1091360	Decrease 115 122	limited
+T1091361	GeneticModification 555 566	inactivated
+T1091362	GeneticModification 581 588	mutated
+T1091363	GeneticModification 676 684	mutation
+T1091364	NegativeRegulationOfGeneExpression 693 702	abolished
+T1091365	GeneticModification 716 724	mutation
+T1091366	NegativeRegulationOfGeneExpression 734 744	diminished
+T1091367	Decrease 819 826	limited
+T1091368	TranscriptionOfGene 850 863	transcription
+T1091369	RegulationOfGeneExpression 894 901	directs
+T1091370	GeneExpression 906 916	expression
+T1091371	Increase 984 992	presence
+T1091372	Decrease 1054 1061	limited
+T1091373	TranscriptionOfGene 1323 1336	transcription
+T1091374	PositiveRegulationOfGeneExpression 1368 1377	activated
+T1091375	Decrease 1392 1399	limited
+T1091376	Increase 1414 1422	presence
+T1091377	TranscriptionOfGene 1662 1675	transcription
+T1091378	PositiveRegulationOfGeneExpression 1676 1685	activator
+T1091379	Decrease 1773 1780	limited
+T1091380	TranscriptionOfGene 2041 2054	Transcription
+T1091381	NegativeRegulationOfGeneExpression 2081 2090	repressed
+T1091382	PositiveRegulationOfGeneExpression 2117 2124	induced
+T1091383	Decrease 2139 2146	limited
+T1091384	RegulationOfGeneExpression 2174 2183	dependent
+T1091385	PositiveRegulationOfGeneExpression 2228 2256	is a transcription activator
+T1091386	TranscriptionOfGene 2233 2246	transcription
+T1091387	GeneExpression 2302 2311	synthesis
+T1091388	Increase 2356 2364	presence
+T1091389	Decrease 2390 2397	limited
+E1	PositiveRegulationOfGeneExpression: Cause:T1311312 Theme:T1311314
+E2	PositiveRegulationOfGeneExpression: Cause:T1311313 Theme:T1311314
+T1201339	Entity 996 1003	nitrite
+E3	RegulationOfGeneExpression: Cause:T1201339 Theme:T1311315
+T1201346	Entity 1385 1391	oxygen
+E4	PositiveRegulationOfGeneExpression: Cause:T1201346 Theme:T1311320
+T1201347	Entity 1426 1433	nitrate
+E5	PositiveRegulationOfGeneExpression: Cause:T1201347 Theme:T1311320
+T1201353	Entity 2132 2138	oxygen
+E6	NegativeRegulationOfGeneExpression: Cause:T1201353 Theme:T1311329
+T1201352	Entity 2098 2112	aerobic growth
+E7	NegativeRegulationOfGeneExpression: Cause:T1201352 Theme:T1311329
+E8	RegulationOfGeneExpression: Cause:T1311330 Theme:T1311329
+E9	PositiveRegulationOfGeneExpression: Cause:T1311331 Theme:T1311332
+T1201355	Entity 2368 2375	nitrite
+E10	RegulationOfGeneExpression: Cause:T1201355 Theme:T1311334

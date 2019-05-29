@@ -1,0 +1,30 @@
+T1097445	TranscriptionOfGene 0 15	Transcriptional
+T1097446	RegulationOfGeneExpression 16 26	regulation
+T1097447	NegativeRegulationOfGeneExpression 39 48	repressor
+T1097448	RegulationOfGeneExpression 75 89	autoregulation
+T1097449	PositiveRegulationOfGeneExpression 94 110	positive control
+T1097450	NegativeRegulationOfGeneExpression 170 179	repressor
+T1097451	RegulationOfGeneExpression 195 203	controls
+T1097452	GeneExpression 208 218	expression
+T1097453	RegulationOfGeneExpression 236 244	involved
+T1097454	TranscriptionOfGene 354 369	transcriptional
+T1097455	RegulationOfGeneExpression 478 488	regulation
+T1097456	GeneExpression 516 526	expression
+T1097457	NegativeRegulationOfGeneExpression 530 551	negatively controlled
+T1097458	PositiveRegulationOfGeneExpression 576 595	positively affected
+T1097459	GeneticModification 753 761	mutation
+T1097460	GeneticModification 858 866	mutation
+T1097461	GeneticModification 940 948	mutation
+T1097462	GeneticModification 1080 1088	mutation
+T1097463	PositiveRegulationOfGeneExpression 1089 1098	activates
+T1097464	PositiveRegulationOfGeneExpression 1181 1195	overproduction
+T1097465	NegativeRegulationOfGeneExpression 1208 1217	repressor
+E1	NegativeRegulationOfGeneExpression: Cause:T1317411 Theme:T1317412
+E2	PositiveRegulationOfGeneExpression: Cause:T1317413 Theme:T1317412
+T1207441	Entity 118 122	cAMP
+E3	PositiveRegulationOfGeneExpression: Cause:T1207441 Theme:T1317412
+E4	NegativeRegulationOfGeneExpression: Cause:T1317415 Theme:T1317416
+E5	NegativeRegulationOfGeneExpression: Cause:T1317425 Theme:T1317424
+E6	PositiveRegulationOfGeneExpression: Cause:T1317426 Theme:T1317424
+T1207443	Entity 603 607	cAMP
+E7	PositiveRegulationOfGeneExpression: Cause:T1207443 Theme:T1317424

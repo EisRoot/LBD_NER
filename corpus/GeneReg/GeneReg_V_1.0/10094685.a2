@@ -1,0 +1,46 @@
+T109151	PositiveRegulationOfGeneExpression 9 18	inducible
+T109152	TranscriptionOfGene 49 64	transcriptional
+T109153	RegulationOfGeneExpression 65 72	control
+T109154	RegulationOfGeneExpression 111 119	responds
+T109155	GeneExpression 165 177	synthesizing
+T109156	PositiveRegulationOfGeneExpression 263 272	induction
+T109157	PositiveRegulationOfGeneExpression 376 385	inducible
+T109158	TranscriptionOfGene 945 958	transcription
+T109159	TranscriptionOfGene 985 998	transcription
+T109160	GeneExpression 1007 1017	Expression
+T109161	NegativeRegulationOfGeneExpression 1088 1095	reduced
+T109162	TranscriptionOfGene 1196 1209	Transcription
+T109163	NegativeRegulationOfGeneExpression 1237 1246	abolished
+T109164	RegulationOfGeneExpression 1314 1325	controlling
+T109165	PositiveRegulationOfGeneExpression 1342 1351	inducible
+T109166	Decrease 1365 1375	starvation
+T109167	GeneticModification 1377 1392	deletion mutant
+T109168	RegulationOfGeneExpression 1399 1407	mediated
+T109169	PositiveRegulationOfGeneExpression 1408 1417	induction
+T109170	GeneticModification 1441 1446	Delta
+T109171	GeneticModification 1458 1464	mutant
+T109172	TranscriptionOfGene 1677 1694	transcriptionally
+T109173	PositiveRegulationOfGeneExpression 1695 1704	activated
+T109174	TranscriptionOfGene 1755 1768	transcription
+T109175	RegulationOfGeneExpression 1978 1986	regulate
+T109176	TranscriptionOfGene 1987 2000	transcription
+T120143	Entity 4 8	acid
+E1	PositiveRegulationOfGeneExpression: Cause:T120143 Theme:T131118
+E2	RegulationOfGeneExpression: Cause:T131119 Theme:T131118
+T120144	Entity 371 375	acid
+E3	PositiveRegulationOfGeneExpression: Cause:T120144 Theme:T131120
+T120148	Entity 1123 1137	complex medium
+E4	NegativeRegulationOfGeneExpression: Cause:T120148 Theme:T131126
+E5	PositiveRegulationOfGeneExpression: Cause:T131128 Theme:T131127
+E6	PositiveRegulationOfGeneExpression: Cause:T131129 Theme:T131127
+E7	RegulationOfGeneExpression: Cause:T131128 Theme:T131130
+E8	RegulationOfGeneExpression: Cause:T131129 Theme:T131130
+T120149	Entity 1355 1364	phosphate
+E9	PositiveRegulationOfGeneExpression: Cause:T120149 Theme:T131130
+T120150	Entity 1394 1398	Acid
+E10	PositiveRegulationOfGeneExpression: Cause:T120150 Theme:T131131
+E11	PositiveRegulationOfGeneExpression: Cause:T131134 Theme:T131131
+E12	PositiveRegulationOfGeneExpression: Cause:T131135 Theme:T131131
+E13	PositiveRegulationOfGeneExpression: Cause:T131137 Theme:T131136
+E14	RegulationOfGeneExpression: Cause:T131140 Theme:T131142
+E15	RegulationOfGeneExpression: Cause:T131141 Theme:T131142

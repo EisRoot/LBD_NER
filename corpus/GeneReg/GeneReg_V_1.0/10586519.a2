@@ -1,0 +1,20 @@
+T109739	TranscriptionOfGene 14 29	transcriptional
+T109740	RegulationOfGeneExpression 30 37	control
+T109741	PositiveRegulationOfGeneExpression 178 186	required
+T109742	GeneExpression 191 201	expression
+T109743	GeneExpression 332 342	expression
+T109744	TranscriptionOfGene 556 569	transcription
+T109745	RegulationOfGeneExpression 616 625	dependent
+T109746	NegativeRegulationOfGeneExpression 634 645	repressible
+T109747	TranscriptionOfGene 646 659	transcription
+T109748	RegulationOfGeneExpression 681 690	dependent
+T109749	TranscriptionOfGene 691 704	transcription
+T109750	RegulationOfGeneExpression 867 876	dependent
+T109751	NegativeRegulationOfGeneExpression 985 996	repressible
+T109752	TranscriptionOfGene 997 1010	transcription
+T109753	TranscriptionOfGene 1126 1139	transcription
+E1	PositiveRegulationOfGeneExpression: Cause:T131719 Theme:T131721
+E2	PositiveRegulationOfGeneExpression: Cause:T131718 Theme:T131721
+T120734	Entity 858 866	sigma 70
+E3	RegulationOfGeneExpression: Cause:T120734 Theme:T131728
+E4	RegulationOfGeneExpression: Cause:T131726 Theme:T131728

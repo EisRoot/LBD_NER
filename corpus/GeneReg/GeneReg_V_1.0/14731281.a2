@@ -1,0 +1,23 @@
+T1095096	NegativeRegulationOfGeneExpression 20 29	repressor
+T1095097	TranscriptionOfGene 724 735	transcribed
+T1095098	TranscriptionOfGene 787 802	transcriptional
+T1095099	NegativeRegulationOfGeneExpression 803 812	repressor
+T1095100	TranscriptionOfGene 850 865	transcriptional
+T1095101	PositiveRegulationOfGeneExpression 964 972	elevated
+T1095102	Increase 989 997	presence
+T1095103	RegulationOfGeneExpression 1046 1055	regulated
+T1095104	TranscriptionOfGene 1155 1168	transcription
+T1095105	PositiveRegulationOfGeneExpression 1301 1309	requires
+T1095106	PositiveRegulationOfGeneExpression 1310 1320	activation
+T1095107	PositiveRegulationOfGeneExpression 1497 1504	inducer
+T1095108	GeneticModification 1561 1572	mutagenesis
+T1095109	PositiveRegulationOfGeneExpression 1717 1726	inducible
+E1	NegativeRegulationOfGeneExpression: Cause:T1315064 Theme:T1315065
+T1205093	Entity 1001 1022	N-acetylgalactosamine
+E2	PositiveRegulationOfGeneExpression: Cause:T1205093 Theme:T1315075
+E3	RegulationOfGeneExpression: Cause:T1315076 Theme:T1315075
+T1205094	Entity 1026 1039	galactosamine
+E4	PositiveRegulationOfGeneExpression: Cause:T1205094 Theme:T1315075
+T1205095	Entity 1324 1328	cAMP
+E5	PositiveRegulationOfGeneExpression: Cause:T1205095 Theme:T1315080
+E6	PositiveRegulationOfGeneExpression: Cause:T1315081 Theme:T1315080

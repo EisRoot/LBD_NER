@@ -1,0 +1,16 @@
+T1098550	PositiveRegulationOfGeneExpression 10 19	induction
+T1098551	PositiveRegulationOfGeneExpression 96 105	induction
+T1098552	GeneticModification 172 179	mutants
+T1098553	PositiveRegulationOfGeneExpression 207 214	induced
+T1098554	PositiveRegulationOfGeneExpression 293 302	induction
+T1098555	RegulationOfGeneExpression 307 316	dependent
+T1098556	NegativeRegulationOfGeneExpression 369 378	abolished
+T1098557	RegulationOfGeneExpression 401 407	mutant
+T1098558	Increase 459 467	addition
+T1098559	PositiveRegulationOfGeneExpression 563 572	induction
+T1208547	Entity 218 232	UV irradiation
+E1	PositiveRegulationOfGeneExpression: Cause:T1208547 Theme:T1318543
+T1208549	Entity 508 537	single-strand breaks into DNA
+E2	PositiveRegulationOfGeneExpression: Cause:T1208549 Theme:T1318546
+T1208548	Entity 471 480	bleomycin
+E3	PositiveRegulationOfGeneExpression: Cause:T1208548 Theme:T1318546

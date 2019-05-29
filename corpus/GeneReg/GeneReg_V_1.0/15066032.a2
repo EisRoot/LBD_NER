@@ -1,0 +1,36 @@
+T1095207	GeneExpression 0 10	Expression
+T1095208	RegulationOfGeneExpression 59 68	regulated
+T1095209	GeneExpression 457 467	Expression
+T1095210	NegativeRegulationOfGeneExpression 489 498	repressed
+T1095211	RegulationOfGeneExpression 514 523	regulates
+T1095212	PositiveRegulationOfGeneExpression 570 577	inducer
+T1095213	RegulationOfGeneExpression 791 800	regulator
+T1095214	NegativeRegulationOfGeneExpression 826 835	repressor
+T1095215	PositiveRegulationOfGeneExpression 836 845	activator
+T1095216	TranscriptionOfGene 948 961	transcription
+T1095217	PositiveRegulationOfGeneExpression 962 972	activation
+T1095218	Increase 980 988	presence
+T1095219	PositiveRegulationOfGeneExpression 1012 1021	Induction
+T1095220	PositiveRegulationOfGeneExpression 1041 1049	requires
+T1095221	Decrease 1114 1121	absence
+T1095222	NegativeRegulationOfGeneExpression 1155 1172	act as repressors
+T1095223	GeneExpression 1230 1240	expression
+T1095224	PositiveRegulationOfGeneExpression 1344 1352	activate
+T1095225	GeneExpression 1357 1367	expression
+T1095226	NegativeRegulationOfGeneExpression 1407 1414	relieve
+T1095227	NegativeRegulationOfGeneExpression 1419 1429	repression
+T1095228	PositiveRegulationOfGeneExpression 1466 1473	induced
+T1095229	PositiveRegulationOfGeneExpression 1554 1562	activate
+T1095230	GeneExpression 1563 1573	expression
+E1	RegulationOfGeneExpression: Cause:T1315160 Theme:T1315159
+E2	RegulationOfGeneExpression: Cause:T1315161 Theme:T1315159
+E3	RegulationOfGeneExpression: Cause:T1315162 Theme:T1315159
+E4	NegativeRegulationOfGeneExpression: Cause:T1315167 Theme:T1315166
+E5	RegulationOfGeneExpression: Cause:T1315167 Theme:T1315168
+E6	PositiveRegulationOfGeneExpression: Cause:T1315174 Theme:T1315173
+E7	NegativeRegulationOfGeneExpression: Cause:T1315174 Theme:T1315173
+E8	PositiveRegulationOfGeneExpression: Cause:T1315179 Theme:T1315178
+E9	NegativeRegulationOfGeneExpression: Cause:T1315186 Theme:T1315185
+E10	PositiveRegulationOfGeneExpression: Cause:T1315184 Theme:T1315185
+T1205206	Entity 1488 1550	sufficient flux through the combined chb-nag metabolic pathway
+E11	PositiveRegulationOfGeneExpression: Cause:T1205206 Theme:T1315187

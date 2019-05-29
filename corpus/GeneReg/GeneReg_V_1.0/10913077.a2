@@ -1,0 +1,31 @@
+T1091147	PositiveRegulationOfGeneExpression 108 117	induction
+T1091148	NegativeRegulationOfGeneExpression 242 252	repression
+T1091149	PositiveRegulationOfGeneExpression 260 267	inducer
+T1091150	PositiveRegulationOfGeneExpression 524 533	inducible
+T1091151	RegulationOfGeneExpression 590 600	regulation
+T1091152	TranscriptionOfGene 609 622	transcription
+T1091153	GeneticModification 747 756	mutations
+T1091154	RegulationOfGeneExpression 766 772	affect
+T1091155	GeneExpression 787 797	expression
+T1091156	NegativeRegulationOfGeneExpression 864 873	repressor
+T1091157	GeneticModification 1079 1088	mutations
+T1091158	NegativeRegulationOfGeneExpression 1135 1144	repressor
+T1091159	PositiveRegulationOfGeneExpression 1462 1477	became inducers
+T1091160	GeneticModification 1513 1520	mutants
+T1091161	GeneticModification 1609 1616	mutated
+T1091162	GeneticModification 1629 1636	mutants
+T1091163	PositiveRegulationOfGeneExpression 1682 1691	induction
+T1091164	RegulationOfGeneExpression 1820 1828	controls
+T1091165	NegativeRegulationOfGeneExpression 1833 1842	repressor
+T1091166	GeneExpression 1863 1873	expression
+T1091167	RegulationOfGeneExpression 1938 1945	control
+T1091168	GeneExpression 1950 1960	expression
+T1091169	RegulationOfGeneExpression 2007 2017	controlled
+T1091170	NegativeRegulationOfGeneExpression 2025 2034	repressor
+T1201140	Entity 537 546	D-glucose
+E1	PositiveRegulationOfGeneExpression: Cause:T1201140 Theme:T1311112
+T1201141	Entity 575 584	L-sorbose
+E2	PositiveRegulationOfGeneExpression: Cause:T1201141 Theme:T1311112
+E3	NegativeRegulationOfGeneExpression: Cause:T1311117 Theme:T1311115
+E4	NegativeRegulationOfGeneExpression: Cause:T1311135 Theme:T1311136
+E5	NegativeRegulationOfGeneExpression: Cause:T1311138 Theme:T1311137

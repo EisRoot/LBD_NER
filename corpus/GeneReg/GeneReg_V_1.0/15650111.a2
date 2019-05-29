@@ -1,0 +1,6 @@
+T1095773	PositiveRegulationOfGeneExpression 445 452	induced
+T1095774	GeneticModification 910 919	mutations
+T1095775	GeneticModification 1534 1545	inactivated
+T1095776	GeneticModification 1681 1689	mutation
+T1205764	Entity 456 475	phosphosugar stress
+E1	PositiveRegulationOfGeneExpression: Cause:T1205764 Theme:T1315737

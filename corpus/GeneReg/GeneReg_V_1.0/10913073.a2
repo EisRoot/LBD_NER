@@ -1,0 +1,14 @@
+T1091091	RegulationOfGeneExpression 52 62	regulation
+T1091092	GeneExpression 89 104	gene expression
+T1091093	RegulationOfGeneExpression 269 279	regulation
+T1091094	TranscriptionOfGene 362 375	transcription
+T1091095	RegulationOfGeneExpression 376 385	regulator
+T1091096	PositiveRegulationOfGeneExpression 595 607	overproduced
+T1091097	NegativeRegulationOfGeneExpression 980 1004	negatively autoregulated
+T1091098	PositiveRegulationOfGeneExpression 1025 1049	positively autoregulated
+T1091099	GeneExpression 1051 1061	Production
+T1091100	RegulationOfGeneExpression 1355 1365	regulation
+T1091101	GeneExpression 1374 1384	expression
+E1	RegulationOfGeneExpression: Cause:T1311074 Theme:T1311075
+E2	PositiveRegulationOfGeneExpression: Cause:T1311083 Theme:T1311084
+E3	NegativeRegulationOfGeneExpression: Cause:T1311083 Theme:T1311084

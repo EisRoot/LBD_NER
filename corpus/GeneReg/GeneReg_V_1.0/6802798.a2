@@ -1,0 +1,17 @@
+T1098641	RegulationOfGeneExpression 0 10	Regulation
+T1098642	PositiveRegulationOfGeneExpression 66 78	inducibility
+T1098643	RegulationOfGeneExpression 360 370	regulatory
+T1098644	PositiveRegulationOfGeneExpression 430 439	induction
+T1098645	PositiveRegulationOfGeneExpression 465 477	derepression
+T1098646	GeneExpression 554 563	synthesis
+T1098647	PositiveRegulationOfGeneExpression 564 574	increasing
+T1098648	PositiveRegulationOfGeneExpression 645 654	Induction
+T1098649	GeneticModification 672 681	mutations
+T1098650	RegulationOfGeneExpression 737 744	control
+T1098651	NegativeRegulationOfGeneExpression 785 795	repression
+T1208639	Entity 57 65	UV light
+E1	PositiveRegulationOfGeneExpression: Cause:T1208639 Theme:T1318631
+T1208640	Entity 524 535	UV exposure
+E2	PositiveRegulationOfGeneExpression: Cause:T1208640 Theme:T1318635
+E3	NegativeRegulationOfGeneExpression: Cause:T1318638 Theme:T1318636
+E4	NegativeRegulationOfGeneExpression: Cause:T1318637 Theme:T1318636

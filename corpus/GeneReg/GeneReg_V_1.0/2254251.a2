@@ -1,0 +1,20 @@
+T1097699	TranscriptionOfGene 34 47	transcription
+T1097700	RegulationOfGeneExpression 48 55	control
+T1097701	TranscriptionOfGene 326 337	transcribed
+T1097702	RegulationOfGeneExpression 395 402	mediate
+T1097703	PositiveRegulationOfGeneExpression 403 412	induction
+T1097704	GeneticModification 657 664	mutants
+T1097705	TranscriptionOfGene 919 932	transcription
+T1097706	RegulationOfGeneExpression 933 940	control
+T1097707	RegulationOfGeneExpression 1021 1030	regulated
+T1097708	RegulationOfGeneExpression 1260 1270	regulatory
+T1097709	PositiveRegulationOfGeneExpression 1507 1516	activates
+T1097710	GeneExpression 1526 1536	expression
+T1097711	Decrease 1583 1590	absence
+T1097712	NegativeRegulationOfGeneExpression 1608 1619	inactivates
+T1097713	RegulationOfGeneExpression 1773 1780	control
+T1207688	Entity 1034 1053	iron(III) dicitrate
+E1	RegulationOfGeneExpression: Cause:T1207688 Theme:T1317671
+E2	RegulationOfGeneExpression: Cause:T1207688 Theme:T1317673
+T1207697	Entity 1494 1498	FecI
+E3	PositiveRegulationOfGeneExpression: Cause:T1207697 Theme:T1317678

@@ -1,0 +1,28 @@
+T1091896	RegulationOfGeneExpression 59 70	controlling
+T1091897	GeneExpression 71 81	expression
+T1091898	RegulationOfGeneExpression 219 228	regulator
+T1091899	GeneExpression 232 242	expression
+T1091900	PositiveRegulationOfGeneExpression 369 377	required
+T1091901	GeneticModification 419 429	disruption
+T1091902	NegativeRegulationOfGeneExpression 445 449	loss
+T1091903	GeneExpression 458 468	expression
+T1091904	GeneExpression 483 498	gene expression
+T1091905	RegulationOfGeneExpression 503 512	regulated
+T1091906	GeneExpression 551 561	Expression
+T1091907	RegulationOfGeneExpression 586 603	under the control
+T1091908	PositiveRegulationOfGeneExpression 643 655	proportional
+T1091909	PositiveRegulationOfGeneExpression 711 720	increased
+T1091910	RegulationOfGeneExpression 1203 1212	sensitive
+T1091911	TranscriptionOfGene 1213 1226	transcription
+E1	RegulationOfGeneExpression: Cause:T1311856 Theme:T1311859
+E2	RegulationOfGeneExpression: Cause:T1311860 Theme:T1311862
+E3	PositiveRegulationOfGeneExpression: Cause:T1311865 Theme:T1311866
+T1201887	Entity 538 544	silver
+E4	RegulationOfGeneExpression: Cause:T1201887 Theme:T1311867
+T1201886	Entity 528 534	copper
+E5	RegulationOfGeneExpression: Cause:T1201886 Theme:T1311867
+E6	RegulationOfGeneExpression: Cause:T1311868 Theme:T1311867
+T1201888	Entity 680 691	cupric ions
+E7	PositiveRegulationOfGeneExpression: Cause:T1201888 Theme:T1311870
+T1201889	Entity 749 759	silver ion
+E8	PositiveRegulationOfGeneExpression: Cause:T1201889 Theme:T1311870

@@ -1,0 +1,9 @@
+T1092635	GeneExpression 268 278	Expression
+T1092636	RegulationOfGeneExpression 330 347	under the control
+T1092637	PositiveRegulationOfGeneExpression 683 692	induction
+T1092638	GeneticModification 1051 1058	variant
+T1092639	RegulationOfGeneExpression 1261 1271	modulating
+T1202621	Entity 351 372	sigmaE RNA polymerase
+E1	RegulationOfGeneExpression: Cause:T1202621 Theme:T1312599
+T1202627	Entity 672 682	heat shock
+E2	PositiveRegulationOfGeneExpression: Cause:T1202627 Theme:T1312605

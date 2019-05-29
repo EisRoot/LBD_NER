@@ -1,0 +1,25 @@
+T1097994	TranscriptionOfGene 6 21	transcriptional
+T1097995	RegulationOfGeneExpression 22 29	control
+T1097996	RegulationOfGeneExpression 119 127	regulate
+T1097997	GeneExpression 138 148	expression
+T1097998	RegulationOfGeneExpression 173 183	regulatory
+T1097999	TranscriptionOfGene 289 304	transcriptional
+T1098000	PositiveRegulationOfGeneExpression 313 321	required
+T1098001	GeneExpression 330 340	expression
+T1098002	TranscriptionOfGene 591 604	cotranscribed
+T1098003	TranscriptionOfGene 649 660	transcribed
+T1098004	GeneticModification 768 777	deletions
+T1098005	RegulationOfGeneExpression 792 802	regulatory
+T1098006	TranscriptionOfGene 826 839	transcription
+T1098007	PositiveRegulationOfGeneExpression 993 997	high
+T1098008	GeneExpression 998 1008	expression
+T1098009	TranscriptionOfGene 1151 1164	transcription
+T1098010	RegulationOfGeneExpression 1216 1225	regulated
+T1098011	RegulationOfGeneExpression 1341 1351	regulation
+T1207991	Entity 1229 1241	anaerobiosis
+E1	RegulationOfGeneExpression: Cause:T1207991 Theme:T1317987
+T1207992	Entity 1243 1251	pyruvate
+E2	RegulationOfGeneExpression: Cause:T1207992 Theme:T1317987
+T1207993	Entity 1253 1260	nitrate
+E3	RegulationOfGeneExpression: Cause:T1207993 Theme:T1317987
+E4	RegulationOfGeneExpression: Cause:T1317988 Theme:T1317987

@@ -1,0 +1,24 @@
+T1096276	RegulationOfGeneExpression 24 34	regulatory
+T1096277	PositiveRegulationOfGeneExpression 44 52	required
+T1096278	PositiveRegulationOfGeneExpression 57 67	activation
+T1096279	RegulationOfGeneExpression 75 85	regulatory
+T1096280	TranscriptionOfGene 168 181	Transcription
+T1096281	PositiveRegulationOfGeneExpression 205 224	positive regulatory
+T1096282	PositiveRegulationOfGeneExpression 281 290	activated
+T1096283	PositiveRegulationOfGeneExpression 302 320	positive regulator
+T1096284	Increase 335 343	presence
+T1096285	RegulationOfGeneExpression 363 372	dependent
+T1096286	GeneticModification 431 439	Deletion
+T1096287	RegulationOfGeneExpression 510 520	regulatory
+T1096288	TranscriptionOfGene 586 599	transcription
+T1096289	PositiveRegulationOfGeneExpression 734 744	activation
+T1096290	GeneExpression 943 953	expression
+T1096291	NegativeRegulationOfGeneExpression 979 988	repressed
+T1096292	NegativeRegulationOfGeneExpression 1022 1032	repression
+T1096293	NegativeRegulationOfGeneExpression 1036 1045	decreased
+E1	PositiveRegulationOfGeneExpression: Cause:T1316258 Theme:T1316257
+T1206271	Entity 420 428	sigma 54
+E2	PositiveRegulationOfGeneExpression: Cause:T1206271 Theme:T1316257
+T1206268	Entity 347 355	m-xylene
+E3	PositiveRegulationOfGeneExpression: Cause:T1206268 Theme:T1316257
+E4	NegativeRegulationOfGeneExpression: Cause:T1316263 Theme:T1316262

@@ -1,0 +1,14 @@
+T1091251	RegulationOfGeneExpression 5 14	Dependent
+T1091252	RegulationOfGeneExpression 15 25	regulation
+T1091253	GeneExpression 39 48	synthesis
+T1091254	RegulationOfGeneExpression 52 60	mediated
+T1091255	RegulationOfGeneExpression 92 101	regulates
+T1091256	RegulationOfGeneExpression 238 248	regulation
+T1091257	RegulationOfGeneExpression 543 573	is a transcriptional regulator
+T1091258	TranscriptionOfGene 548 563	transcriptional
+T1091259	GeneExpression 624 634	expression
+T1091260	NegativeRegulationOfGeneExpression 668 688	negatively regulated
+E1	RegulationOfGeneExpression: Cause:T1311232 Theme:T1311233
+E2	RegulationOfGeneExpression: Cause:T1311235 Theme:T1311238
+E3	RegulationOfGeneExpression: Cause:T1311245 Theme:T1311246
+E4	NegativeRegulationOfGeneExpression: Cause:T1311249 Theme:T1311248
