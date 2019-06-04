@@ -1,0 +1,20 @@
+import pandas as pd
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import cross_val_predict
+from sklearn.metrics import classification_report
+import eli5
+
+eli5.show_weights()
+corpus=pd.read_csv('NCBI_corpus_trainset.csv',index_col=0,dtype='str')
+# words = list(set(corpus["WORD"].values))
+# print(len(words))
+def feature_map(word):
+    return np.array([word.istitle(), word.islower(), word.isupper(), len(word),word.isdigit(),  word.isalpha()])
+
+words = [feature_map(str(w)) for w in corpus["WORD"].values.tolist()]
+tags = corpus["CAT"].values.tolist()
+pred = cross_val_predict(RandomForestClassifier(n_estimators=20),
+                         X=words, y=tags, cv=5)
+report = classification_report(y_pred=pred, y_true=tags)
+print(report)
